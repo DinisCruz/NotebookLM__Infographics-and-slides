@@ -9,14 +9,32 @@ This repository contains **334 visual assets** (171 PDFs and 101 PNGs) organized
 ## Folder Structure
 
 ```
-├── infograhics/          # Infographics organized by creation date (Dec 2024)
-├── slidedecks/           # PDF slide decks on technical topics
-├── by-topic/             # Content organized by subject matter
-├── by-collaborator/      # Content organized by contributor
-├── Graphs/               # Graph-related development content
-└── _for_linkedin/        # Content prepared for LinkedIn sharing
-    ├── published/        # Already shared on LinkedIn
-    └── to-publish/       # Queue for future publication
+├── by-topic/                    # Primary content organization
+│   ├── GenAI development/       # AI development patterns and workflows
+│   │   ├── Architecture Patterns/
+│   │   ├── Beyond code - Testing/
+│   │   ├── Iterative Flow Development/
+│   │   ├── Zero Context-Switch Workflow/
+│   │   └── vibe-coding/
+│   ├── Graphs/                  # Graph-driven development
+│   │   ├── MGraph-AI/
+│   │   │   ├── HTML Graph Processing/
+│   │   │   └── Refactoring/
+│   │   └── Graph-driven development/
+│   ├── osbot-utils/             # OSBot framework documentation
+│   │   ├── Performance Profiling/
+│   │   │   └── Quadratic Incident/
+│   │   ├── osbot-aws/
+│   │   ├── dev-briefs/
+│   │   ├── features/
+│   │   └── helpers/
+│   ├── Cyber security.../       # Security and business topics
+│   │   └── Security Platforms/
+│   └── ...
+├── by-collaborator/             # Content organized by contributor
+└── _for_linkedin/               # Content prepared for LinkedIn sharing
+    ├── published/
+    └── to-publish/
 ```
 
 ## Content Categories
