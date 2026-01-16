@@ -2,23 +2,18 @@
 
 ---
 
-
 # Authorization and Workflow Model for Agentic AI Agents
 
 Authorization patterns for AI agents.
 
-## Contents
+| 📄 Source | 🖼️ Infographic | 📊 Slides |
+|---|---|---|
+| [Source Doc](./Authorization%20and%20Workflow%20Model%20for%20Agentic%20AI%20Agents.pdf) | [View Image](./31%20Dec%20-%20AI%20Agents%20-%20Blast%20Radius%20Security%20Model..png) | [Slide Deck](./31%20Dec%20-%20AI_Agent_Blast_Radius_Control.pdf) |
 
-### Slide Decks / Documents
+> *Generated with [Google NotebookLM](https://notebooklm.google.com/) — Source document → Infographic → Slide deck*
 
-| Document | Type | Date |
-|----------|------|------|
-| [AI Agent Blast Radius Control](./31%20Dec%20-%20AI_Agent_Blast_Radius_Control.pdf) | Methodology | 31 Dec |
-| [Authorization and Workflow Model for Agentic AI Agents](./Authorization%20and%20Workflow%20Model%20for%20Agentic%20AI%20Agents.pdf) | Methodology | - |
+---
 
-### Infographics
+## 🖼️ Infographic
 
-| Image | Type | Date |
-|-------|------|------|
-| [AI Agents - Blast Radius Security Model.](./31%20Dec%20-%20AI%20Agents%20-%20Blast%20Radius%20Security%20Model..png) | Methodology | 31 Dec |
-
+![AI Agents - Blast Radius Security Model.](./31%20Dec%20-%20AI%20Agents%20-%20Blast%20Radius%20Security%20Model..png)

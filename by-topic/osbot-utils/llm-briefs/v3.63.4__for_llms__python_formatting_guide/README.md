@@ -1,21 +1,21 @@
-[🏠 Home](../../../../README.md) / [By Topic](../../../) / [osbot-utils](../../) / [LLM Briefs](../) / **v3.63.4 - Python Formatting Guide**
+[🏠 Home](../../../../README.md) / [By Topic](../../../) / [OSBot Utils](../../) / [Llm briefs](../) / **V3.63.4 for llms python formatting guide**
 
 ---
 
+# V3.63.4 for llms python formatting guide
 
-# v3.63.4 - Python Formatting Guide
+| 📄 Source | 🖼️ Infographic | 📊 Slides |
+|---|---|---|
+| [Source Doc](./v3.63.4__for_llms__python_formatting_guide.md) | [View Image](./2%20Jan%20-%20Type-Safe%20Python%20Formatting%20Visual%20Guide.jpg) | [Slide Deck](./2%20Jan%20-%20Visual_Parsing_Python_Style_Guide.pdf) |
 
-## Contents
+> *Generated with [Google NotebookLM](https://notebooklm.google.com/) — Source document → Infographic → Slide deck*
 
-### Slide Decks / Documents
+---
 
-| Document | Type | Date |
-|----------|------|------|
-| [Visual Parsing Python Style Guide](./2%20Jan%20-%20Visual_Parsing_Python_Style_Guide.pdf) | LLM Brief | 2 Jan |
+## 🖼️ Infographic
 
-### Documentation
+![Type-Safe Python Formatting Visual Guide](./2%20Jan%20-%20Type-Safe%20Python%20Formatting%20Visual%20Guide.jpg)
 
-| Document | Type | Date |
-|----------|------|------|
-| [v3.63.4 - Python Formatting Guide](./v3.63.4__for_llms__python_formatting_guide.md) | LLM Brief | - |
+![Visual Guide to Python Formatting Style](./2%20Jan%20-%20Visual%20Guide%20to%20Python%20Formatting%20Style.jpg)
 
+![Visual-First Python Coding Style](./2%20Jan%20-%20Visual-First%20Python%20Coding%20Style.jpg)

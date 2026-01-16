@@ -1,21 +1,17 @@
-[🏠 Home](../../../../README.md) / [By Topic](../../../) / [osbot-utils](../../) / [Dev Briefs](../) / **v3.66.0 - Stack Variable Discovery Analysis**
+[🏠 Home](../../../../README.md) / [By Topic](../../../) / [OSBot Utils](../../) / [Dev Briefs](../) / **V3.66.0 analysis stack variable discovery vs contextvars**
 
 ---
 
+# V3.66.0 analysis stack variable discovery vs contextvars
 
-# v3.66.0 - Stack Variable Discovery Analysis
+| 📄 Source | 🖼️ Infographic | 📊 Slides |
+|---|---|---|
+| [Source Doc](./v3.66.0__analysis__stack-variable-discovery-vs-contextvars.md) | [View Image](./5%20Jan%20-%20Python%20Context%20Management%20SVD%20Analysis.jpg) | [Slide Deck](./5%20Jan%20-%20Stack_Variable_Discovery_Versus_Contextvars.pdf) |
 
-## Contents
+> *Generated with [Google NotebookLM](https://notebooklm.google.com/) — Source document → Infographic → Slide deck*
 
-### Slide Decks / Documents
+---
 
-| Document | Type | Date |
-|----------|------|------|
-| [Stack Variable Discovery Versus Contextvars](./5%20Jan%20-%20Stack_Variable_Discovery_Versus_Contextvars.pdf) | Dev Brief | 5 Jan |
+## 🖼️ Infographic
 
-### Documentation
-
-| Document | Type | Date |
-|----------|------|------|
-| [v3.66.0 - Stack Variable Discovery Analysis](./v3.66.0__analysis__stack-variable-discovery-vs-contextvars.md) | Dev Brief | - |
-
+![Python Context Management SVD Analysis](./5%20Jan%20-%20Python%20Context%20Management%20SVD%20Analysis.jpg)

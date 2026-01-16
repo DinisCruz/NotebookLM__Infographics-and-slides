@@ -1,26 +1,26 @@
-[🏠 Home](../../../../../README.md) / [For LinkedIn](../../../../) / [To Publish](../../../) / [osbot-utils](../../) / [Dev Briefs](../) / **v3.64.0 - Type-Safe Usage in Semantic Graph Codebase**
+[🏠 Home](../../../../../README.md) / [For LinkedIn](../../../../) / [To Publish](../../../) / [OSBot Utils](../../) / [Dev Briefs](../) / **V3 64 0 technical debrief type safe usage in semantic graph codebase**
 
 ---
 
+# V3 64 0 technical debrief type safe usage in semantic graph codebase
 
-# v3.64.0 - Type-Safe Usage in Semantic Graph Codebase
+| 📄 Source | 🖼️ Infographic |
+|---|---|
+| [Source Doc](./3%20Jan%20%28research%29%20v3_64_0__technical-debrief__type-safe-usage-in-semantic-graph-codebase.md) | [View Image](./3%20Jan%20-%20Engineering%20for%20Trust%20-%20%20Type%20Safety.jpg) |
 
-## Contents
+> *Generated with [Google NotebookLM](https://notebooklm.google.com/) — Source document → Infographic → Slide deck*
 
-### Slide Decks / Documents
+---
 
-| Document | Type | Date |
-|----------|------|------|
-| [Engineering for Trust A Technical Debrief](./3%20Jan%20-%20Engineering_for_Trust_A_Technical_Debrief.pdf) | Dev Brief | 3 Jan |
+## 📄 Source Documents
 
-### Documentation
+| Document | Date |
+|----------|------|
+| [3 Janv3 64 0  technical-debrief  type-safe-usage-in-semantic-graph-codebase](./3%20Jan%20%28research%29%20v3_64_0__technical-debrief__type-safe-usage-in-semantic-graph-codebase.md) | 3 Jan |
+| [Engineering for Trust A Technical Debrief](./3%20Jan%20-%20Engineering_for_Trust_A_Technical_Debrief.pdf) | 3 Jan |
 
-| Document | Type | Date |
-|----------|------|------|
-| [3 Jan (research) v3 64 0 - technical-debrief - type-safe-usage-in-semantic-graph-codebase](./3%20Jan%20%28research%29%20v3_64_0__technical-debrief__type-safe-usage-in-semantic-graph-codebase.md) | Dev Brief | 3 Jan |
+---
 
+## 🖼️ Infographic
 
-## Related Content
-
-- [GenAI Development](../../../../../by-topic/GenAI%20development/) - AI agent integration with graphs
-- [Semantic Graphs](../../../../../by-topic/osbot-utils/semantic-graphs/) - Semantic graph implementations
+![Engineering for Trust -  Type Safety](./3%20Jan%20-%20Engineering%20for%20Trust%20-%20%20Type%20Safety.jpg)

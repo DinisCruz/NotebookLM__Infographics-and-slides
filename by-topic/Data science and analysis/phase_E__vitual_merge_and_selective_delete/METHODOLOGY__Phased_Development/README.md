@@ -1,21 +1,17 @@
-[🏠 Home](../../../../README.md) / [By Topic](../../../) / [Data Science & Analysis](../../) / [Phase E: Virtual Merge and Selective Delete](../) / **Methodology: Phased Development**
+[🏠 Home](../../../../README.md) / [By Topic](../../../) / [Data Science & Analysis](../../) / [Phase E vitual merge and selective delete](../) / **METHODOLOGY Phased Development**
 
 ---
 
+# METHODOLOGY Phased Development
 
-# Methodology: Phased Development
+| 📄 Source | 🖼️ Infographic | 📊 Slides |
+|---|---|---|
+| [Source Doc](./METHODOLOGY__Phased_Development.md) | [View Image](./11%20Jan%20-%20Phased%20Development%20and%20Performance%20Guide.jpg) | [Slide Deck](./11%20Jan%20-%20Pipeline_Isolation_Speed.pdf) |
 
-## Contents
+> *Generated with [Google NotebookLM](https://notebooklm.google.com/) — Source document → Infographic → Slide deck*
 
-### Slide Decks / Documents
+---
 
-| Document | Type | Date |
-|----------|------|------|
-| [Pipeline Isolation Speed](./11%20Jan%20-%20Pipeline_Isolation_Speed.pdf) | Methodology | 11 Jan |
+## 🖼️ Infographic
 
-### Documentation
-
-| Document | Type | Date |
-|----------|------|------|
-| [Methodology: Phased Development](./METHODOLOGY__Phased_Development.md) | Methodology | - |
-
+![Phased Development and Performance Guide](./11%20Jan%20-%20Phased%20Development%20and%20Performance%20Guide.jpg)

@@ -1,9 +1,8 @@
-[🏠 Home](../../../README.md) / [By Topic](../../) / [osbot-utils](../) / **LLM Briefs**
+[🏠 Home](../../../README.md) / [By Topic](../../) / [OSBot Utils](../) / **Llm briefs**
 
 ---
 
-
-# LLM Briefs
+# Llm briefs
 
 LLM-focused documentation and usage guides.
 
@@ -11,6 +10,5 @@ LLM-focused documentation and usage guides.
 
 | Folder | Type | Items | Description |
 |--------|------|-------|-------------|
-| [Type Safety](./type_safety/) | LLM Brief | 4 | Type safety patterns and guides for Python. |
-| [v3.63.4 - Python Formatting Guide](./v3.63.4__for_llms__python_formatting_guide/) | LLM Brief | 2 | - |
-
+| [Type Safety](./type_safety/) | LLM Brief | 8 | Type safety patterns and guides for Python. |
+| [v3.63.4 - Python Formatting Guide](./v3.63.4__for_llms__python_formatting_guide/) | LLM Brief | 5 | - |

@@ -1,21 +1,17 @@
-[🏠 Home](../../../../../README.md) / [For LinkedIn](../../../../) / [To Publish](../../../) / [osbot-utils](../../) / [LLM Briefs](../) / **v3.28.0 - Safe Primitives Reference Guide**
+[🏠 Home](../../../../../README.md) / [For LinkedIn](../../../../) / [To Publish](../../../) / [OSBot Utils](../../) / [Llm briefs](../) / **V3.28.0 osbot utils safe primitives reference guide**
 
 ---
 
+# V3.28.0 osbot utils safe primitives reference guide
 
-# v3.28.0 - Safe Primitives Reference Guide
+| 📄 Source | 🖼️ Infographic | 📊 Slides |
+|---|---|---|
+| [Source Doc](./v3.28.0__osbot-utils-safe-primitives__reference-guide.md) | [View Image](./2%20Jan%20-%20Bulletproof%20Data%20Using%20Safe%20Primitives.jpg) | [Slide Deck](./Safe_Data_Foundations.pdf) |
 
-## Contents
+> *Generated with [Google NotebookLM](https://notebooklm.google.com/) — Source document → Infographic → Slide deck*
 
-### Slide Decks / Documents
+---
 
-| Document | Type | Date |
-|----------|------|------|
-| [Safe Data Foundations](./Safe_Data_Foundations.pdf) | LLM Brief | - |
+## 🖼️ Infographic
 
-### Documentation
-
-| Document | Type | Date |
-|----------|------|------|
-| [v3.28.0 - Safe Primitives Reference Guide](./v3.28.0__osbot-utils-safe-primitives__reference-guide.md) | LLM Brief | - |
-
+![Bulletproof Data Using Safe Primitives](./2%20Jan%20-%20Bulletproof%20Data%20Using%20Safe%20Primitives.jpg)

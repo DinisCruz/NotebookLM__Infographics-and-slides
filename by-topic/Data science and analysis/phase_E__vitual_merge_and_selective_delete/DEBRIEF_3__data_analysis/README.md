@@ -1,21 +1,17 @@
-[🏠 Home](../../../../README.md) / [By Topic](../../../) / [Data Science & Analysis](../../) / [Phase E: Virtual Merge and Selective Delete](../) / **Debrief 3 - Data Analysis**
+[🏠 Home](../../../../README.md) / [By Topic](../../../) / [Data Science & Analysis](../../) / [Phase E vitual merge and selective delete](../) / **DEBRIEF 3 data analysis**
 
 ---
 
+# DEBRIEF 3 data analysis
 
-# Debrief 3 - Data Analysis
+| 📄 Source | 🖼️ Infographic | 📊 Slides |
+|---|---|---|
+| [DEBRIEF 3  data analysis](./DEBRIEF_3__data_analysis.md) | [View Image](./9%20Jan%20-%20HTML%20to%20MGraph%20Performance%20Optimisation.jpg) | [Slide Deck](./9%20Jan%20-%20MGraph_Bottleneck_Analysis.pdf) |
 
-## Contents
+> *Generated with [Google NotebookLM](https://notebooklm.google.com/) — Source document → Infographic → Slide deck*
 
-### Slide Decks / Documents
+---
 
-| Document | Type | Date |
-|----------|------|------|
-| [MGraph Bottleneck Analysis](./9%20Jan%20-%20MGraph_Bottleneck_Analysis.pdf) | Dev Brief | 9 Jan |
+## 🖼️ Infographic
 
-### Documentation
-
-| Document | Type | Date |
-|----------|------|------|
-| [Debrief 3 - Data Analysis](./DEBRIEF_3__data_analysis.md) | Dev Brief | - |
-
+![HTML to MGraph Performance Optimisation](./9%20Jan%20-%20HTML%20to%20MGraph%20Performance%20Optimisation.jpg)

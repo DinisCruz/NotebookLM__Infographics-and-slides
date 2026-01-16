@@ -2,23 +2,18 @@
 
 ---
 
-
 # Integrating a Semantic Knowledge Layer into Agent Control Workflows
 
 Adding semantic knowledge to agent workflows.
 
-## Contents
+| 📄 Source | 🖼️ Infographic | 📊 Slides |
+|---|---|---|
+| [Source Doc](./Integrating%20a%20Semantic%20Knowledge%20Layer%20into%20Agent%20Control%20Workflows.pdf) | [View Image](./31%20Dec%20-%20Semantic%20Layer%20for%20Safer%20AI.png) | [Slide Deck](./31%20Dec%20-%20Semantic_Agent_Governance.pdf) |
 
-### Slide Decks / Documents
+> *Generated with [Google NotebookLM](https://notebooklm.google.com/) — Source document → Infographic → Slide deck*
 
-| Document | Type | Date |
-|----------|------|------|
-| [Integrating a Semantic Knowledge Layer into Agent Control Workflows](./Integrating%20a%20Semantic%20Knowledge%20Layer%20into%20Agent%20Control%20Workflows.pdf) | Methodology | - |
-| [Semantic Agent Governance](./31%20Dec%20-%20Semantic_Agent_Governance.pdf) | Methodology | 31 Dec |
+---
 
-### Infographics
+## 🖼️ Infographic
 
-| Image | Type | Date |
-|-------|------|------|
-| [Semantic Layer for Safer AI](./31%20Dec%20-%20Semantic%20Layer%20for%20Safer%20AI.png) | Methodology | 31 Dec |
-
+![Semantic Layer for Safer AI](./31%20Dec%20-%20Semantic%20Layer%20for%20Safer%20AI.png)

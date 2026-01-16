@@ -1,16 +1,17 @@
-[🏠 Home](../../../../README.md) / [For LinkedIn](../../../) / [published](../../) / [Development & Engineering](../) / **Using Databases as Data Projections**
+[🏠 Home](../../../../README.md) / [For LinkedIn](../../../) / [Published](../../) / [Development and Enginering](../) / **(2 Jan)   Using Databases as Data Projections, Not Primary Data Stores**
 
 ---
 
+# (2 Jan)   Using Databases as Data Projections, Not Primary Data Stores
 
-# Using Databases as Data Projections
+| 📄 Source | 🖼️ Infographic | 📊 Slides |
+|---|---|---|
+| [Source Doc](./2%20Jan%20%28research%29%20Using%20Databases%20as%20Data%20Projections%2C%20Not%20Primary%20Data%20Stores.pdf) | [View Image](./2%20Jan%20-%20Rethinking%20the%20Database%20Monolith.jpg) | [Slide Deck](./2%20Jan%20-%20Database_as_Projection_Not_Vault.pdf) |
 
-## Contents
+> *Generated with [Google NotebookLM](https://notebooklm.google.com/) — Source document → Infographic → Slide deck*
 
-### Slide Decks / Documents
+---
 
-| Document | Type | Date |
-|----------|------|------|
-| [2 Jan (research) Using Databases as Data Projections, Not Primary Data Stores](./2%20Jan%20%28research%29%20Using%20Databases%20as%20Data%20Projections%2C%20Not%20Primary%20Data%20Stores.pdf) | Project Idea | 2 Jan |
-| [Database as Projection Not Vault](./2%20Jan%20-%20Database_as_Projection_Not_Vault.pdf) | Project Idea | 2 Jan |
+## 🖼️ Infographic
 
+![Rethinking the Database Monolith](./2%20Jan%20-%20Rethinking%20the%20Database%20Monolith.jpg)

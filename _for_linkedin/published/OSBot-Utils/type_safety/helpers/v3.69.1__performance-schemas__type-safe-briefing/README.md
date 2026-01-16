@@ -1,25 +1,17 @@
-[🏠 Home](../../../../../../README.md) / [For LinkedIn](../../../../../) / [published](../../../../) / [OSBot Utils](../../../) / [Type Safety](../../) / [helpers](../) / **v3.69.1 - Performance Schemas Type-Safe Briefing**
+[🏠 Home](../../../../../../README.md) / [For LinkedIn](../../../../../) / [Published](../../../../) / [OSBot Utils](../../../) / [Type safety](../../) / [Helpers](../) / **V3.69.1 performance schemas type safe briefing**
 
 ---
 
+# V3.69.1 performance schemas type safe briefing
 
-# v3.69.1 - Performance Schemas Type-Safe Briefing
+| 📄 Source | 🖼️ Infographic | 📊 Slides |
+|---|---|---|
+| [Source Doc](./v3.69.1__performance-schemas__type-safe-briefing.md) | [View Image](./9%20Jan%20-%20Building%20Performance%20Schemas%20-%20Type-Safe..jpg) | [Slide Deck](./9%20Jan%20-%20Strict_Type_Implementation_Protocol.pdf) |
 
-## Contents
+> *Generated with [Google NotebookLM](https://notebooklm.google.com/) — Source document → Infographic → Slide deck*
 
-### Slide Decks / Documents
+---
 
-| Document | Type | Date |
-|----------|------|------|
-| [Strict Type Implementation Protocol](./9%20Jan%20-%20Strict_Type_Implementation_Protocol.pdf) | Dev Brief | 9 Jan |
+## 🖼️ Infographic
 
-### Documentation
-
-| Document | Type | Date |
-|----------|------|------|
-| [v3.69.1 - Performance Schemas Type-Safe Briefing](./v3.69.1__performance-schemas__type-safe-briefing.md) | Dev Brief | - |
-
-
-## Related Content
-
-- [Type-Safe Performance Testing](../../../../../../by-topic/osbot-utils/Type-Safe%20-%20Performance%20testing/) - Related performance content
+![Building Performance Schemas - Type-Safe.](./9%20Jan%20-%20Building%20Performance%20Schemas%20-%20Type-Safe..jpg)

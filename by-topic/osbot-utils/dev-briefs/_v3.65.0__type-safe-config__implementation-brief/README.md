@@ -1,21 +1,17 @@
-[🏠 Home](../../../../README.md) / [By Topic](../../../) / [osbot-utils](../../) / [Dev Briefs](../) / **v3.65.0 - Type-Safe Config Implementation**
+[🏠 Home](../../../../README.md) / [By Topic](../../../) / [OSBot Utils](../../) / [Dev Briefs](../) / **V3.65.0 type safe config implementation brief**
 
 ---
 
+# V3.65.0 type safe config implementation brief
 
-# v3.65.0 - Type-Safe Config Implementation
+| 📄 Source | 🖼️ Infographic | 📊 Slides |
+|---|---|---|
+| [Source Doc](./v3.65.0__type-safe-config__implementation-brief.md) | [View Image](./4%20Jan%20-%20Type-Safe%20Config%20Performance%20Optimisation.jpg) | [Slide Deck](./4%20Jan%20-%20TypeSafe_Configuration_Performance_Leap.pdf) |
 
-## Contents
+> *Generated with [Google NotebookLM](https://notebooklm.google.com/) — Source document → Infographic → Slide deck*
 
-### Slide Decks / Documents
+---
 
-| Document | Type | Date |
-|----------|------|------|
-| [TypeSafe Configuration Performance Leap](./4%20Jan%20-%20TypeSafe_Configuration_Performance_Leap.pdf) | Dev Brief | 4 Jan |
+## 🖼️ Infographic
 
-### Documentation
-
-| Document | Type | Date |
-|----------|------|------|
-| [v3.65.0 - type-safe-config - implementation-brief](./v3.65.0__type-safe-config__implementation-brief.md) | Dev Brief | - |
-
+![Type-Safe Config Performance Optimisation](./4%20Jan%20-%20Type-Safe%20Config%20Performance%20Optimisation.jpg)

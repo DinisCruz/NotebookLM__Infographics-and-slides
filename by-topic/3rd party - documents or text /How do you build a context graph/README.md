@@ -1,20 +1,17 @@
-[🏠 Home](../../../README.md) / [By Topic](../../) / [3rd Party Documents](../) / **How to Build a Context Graph**
+[🏠 Home](../../../README.md) / [By Topic](../../) / [3rd Party Documents](../) / **How do you build a context graph**
 
 ---
 
+# How do you build a context graph
 
-# How to Build a Context Graph
+| 🖼️ Infographic | 📊 Slides |
+|---|---|
+| [View Image](./6%20Jan%20-%20Building%20an%20Organisational%20World%20Model.jpg) | [Slide Deck](./6%20Jan%20-%20Infrastructure_For_Reason.pdf) |
 
-## Contents
+> *Generated with [Google NotebookLM](https://notebooklm.google.com/) — Source document → Infographic → Slide deck*
 
-### Slide Decks / Documents
+---
 
-| Document | Type | Date |
-|----------|------|------|
-| [Infrastructure For Reason](./6%20Jan%20-%20Infrastructure_For_Reason.pdf) | Documentation | 6 Jan |
+## 🖼️ Infographic
 
-
-## Related Content
-
-- [GenAI Development](../../../by-topic/GenAI%20development/) - AI agent integration with graphs
-- [Semantic Graphs](../../../by-topic/osbot-utils/semantic-graphs/) - Semantic graph implementations
+![Building an Organisational World Model](./6%20Jan%20-%20Building%20an%20Organisational%20World%20Model.jpg)

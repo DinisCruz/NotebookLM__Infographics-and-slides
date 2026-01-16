@@ -2,7 +2,6 @@
 
 ---
 
-
 # By Collaborator
 
 Content organized by contributor for collaboration tracking.
@@ -11,5 +10,4 @@ Content organized by contributor for collaboration tracking.
 
 | Folder | Type | Items | Description |
 |--------|------|-------|-------------|
-| [Rafael Knuth](./Rafael%20Knuth/) | Documentation | 6 | - |
-
+| [Rafael Knuth](./Rafael%20Knuth/) | Documentation | 14 | - |

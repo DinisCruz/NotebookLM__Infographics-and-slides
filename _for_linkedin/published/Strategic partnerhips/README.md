@@ -1,7 +1,6 @@
-[🏠 Home](../../../README.md) / [For LinkedIn](../../) / [published](../) / **Strategic Partnerships**
+[🏠 Home](../../../README.md) / [For LinkedIn](../../) / [Published](../) / **Strategic Partnerships**
 
 ---
-
 
 # Strategic Partnerships
 
@@ -11,5 +10,4 @@ Partnership strategies and collaboration proposals.
 
 | Folder | Type | Items | Description |
 |--------|------|-------|-------------|
-| [AWS](./AWS/) | Documentation | 1 | - |
-
+| [AWS](./AWS/) | Documentation | 4 | - |

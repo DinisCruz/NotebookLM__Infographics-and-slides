@@ -1,21 +1,27 @@
-[🏠 Home](../../../README.md) / [By Topic](../../) / [osbot-utils](../) / **OSBot AWS**
+[🏠 Home](../../../README.md) / [By Topic](../../) / [OSBot Utils](../) / **OSBot AWS**
 
 ---
-
 
 # OSBot AWS
 
 OSBot AWS module documentation - EC2, S3, Lambda, IAM utilities.
 
-## Contents
+| 🖼️ Infographic |
+|---|
+| [View Image](./16%20Dec%20-%20osbot-aws__iam.png) |
 
-### Infographics
+> *Generated with [Google NotebookLM](https://notebooklm.google.com/) — Source document → Infographic → Slide deck*
 
-| Image | Type | Date |
-|-------|------|------|
-| [osbot-aws](./16%20Dec%20-%20osbot-aws.png) | Documentation | 16 Dec |
-| [osbot-aws - ec2](./16%20Dec%20-%20osbot-aws__ec2.png) | Documentation | 16 Dec |
-| [osbot-aws - iam](./16%20Dec%20-%20osbot-aws__iam.png) | Documentation | 16 Dec |
-| [osbot-aws - lambda](./16%20Dec%20-%20osbot-aws__lambda.png) | Documentation | 16 Dec |
-| [osbot-aws - s3](./16%20Dec%20-%20osbot-aws__s3.png) | Documentation | 16 Dec |
+---
 
+## 🖼️ Infographic
+
+![osbot-aws  iam](./16%20Dec%20-%20osbot-aws__iam.png)
+
+![osbot-aws  s3](./16%20Dec%20-%20osbot-aws__s3.png)
+
+![osbot-aws  ec2](./16%20Dec%20-%20osbot-aws__ec2.png)
+
+![osbot-aws  lambda](./16%20Dec%20-%20osbot-aws__lambda.png)
+
+![osbot-aws](./16%20Dec%20-%20osbot-aws.png)

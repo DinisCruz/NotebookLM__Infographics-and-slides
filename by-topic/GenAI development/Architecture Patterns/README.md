@@ -2,22 +2,18 @@
 
 ---
 
-
 # Architecture Patterns
 
 Service orchestration and architectural design patterns.
 
-## Contents
+| 🖼️ Infographic | 📊 Slides |
+|---|---|
+| [View Image](./18%20Dec%20-%20LLM%20Workflows%3AStateflow%20Service%20-%20Technical%20Brief.png) | [Slide Deck](./15%20Dec%20-%20The_Orchestration_Layer.pdf) |
 
-### Slide Decks / Documents
+> *Generated with [Google NotebookLM](https://notebooklm.google.com/) — Source document → Infographic → Slide deck*
 
-| Document | Type | Date |
-|----------|------|------|
-| [The Orchestration Layer](./15%20Dec%20-%20The_Orchestration_Layer.pdf) | Methodology | 15 Dec |
+---
 
-### Infographics
+## 🖼️ Infographic
 
-| Image | Type | Date |
-|-------|------|------|
-| [LLM Workflows:Stateflow Service - Technical Brief](./18%20Dec%20-%20LLM%20Workflows%3AStateflow%20Service%20-%20Technical%20Brief.png) | Dev Brief | 18 Dec |
-
+![LLM Workflows:Stateflow Service - Technical Brief](./18%20Dec%20-%20LLM%20Workflows%3AStateflow%20Service%20-%20Technical%20Brief.png)

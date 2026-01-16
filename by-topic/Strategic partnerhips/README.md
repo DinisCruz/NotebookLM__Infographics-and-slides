@@ -2,7 +2,6 @@
 
 ---
 
-
 # Strategic Partnerships
 
 Partnership strategies and collaboration proposals.
@@ -11,5 +10,4 @@ Partnership strategies and collaboration proposals.
 
 | Folder | Type | Items | Description |
 |--------|------|-------|-------------|
-| [AWS](./AWS/) | Documentation | 2 | - |
-
+| [AWS](./AWS/) | Documentation | 4 | - |

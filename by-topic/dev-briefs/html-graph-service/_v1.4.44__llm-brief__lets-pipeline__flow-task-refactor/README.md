@@ -1,21 +1,17 @@
-[🏠 Home](../../../../README.md) / [By Topic](../../../) / [Dev Briefs](../../) / [HTML Graph Service](../) / **v1.4.44 - LETS Pipeline Flow-Task Refactor**
+[🏠 Home](../../../../README.md) / [By Topic](../../../) / [Dev Briefs](../../) / [Html graph service](../) / **V1.4.44 llm brief lets pipeline flow task refactor**
 
 ---
 
+# V1.4.44 llm brief lets pipeline flow task refactor
 
-# v1.4.44 - LETS Pipeline Flow-Task Refactor
+| 📄 Source | 🖼️ Infographic | 📊 Slides |
+|---|---|---|
+| [Source Doc](./v1.4.44__llm-brief__lets-pipeline__flow-task-refactor.md) | [View Image](./15%20Jan%20-%20LETS%20Pipeline%20-%20Before%20and%20After.jpg) | [Slide Deck](./15%20Jan%20-%20LETS_Pipeline_Refactoring_Flow_Task_Architecture.pdf) |
 
-## Contents
+> *Generated with [Google NotebookLM](https://notebooklm.google.com/) — Source document → Infographic → Slide deck*
 
-### Slide Decks / Documents
+---
 
-| Document | Type | Date |
-|----------|------|------|
-| [LETS Pipeline Refactoring Flow Task Architecture](./15%20Jan%20-%20LETS_Pipeline_Refactoring_Flow_Task_Architecture.pdf) | LLM Brief | 15 Jan |
+## 🖼️ Infographic
 
-### Documentation
-
-| Document | Type | Date |
-|----------|------|------|
-| [v1.4.44 - llm-brief - lets-pipeline - flow-task-refactor](./v1.4.44__llm-brief__lets-pipeline__flow-task-refactor.md) | LLM Brief | - |
-
+![LETS Pipeline - Before and After](./15%20Jan%20-%20LETS%20Pipeline%20-%20Before%20and%20After.jpg)

@@ -2,7 +2,6 @@
 
 ---
 
-
 # Dev Briefs
 
 Technical development briefs and implementation summaries.
@@ -11,5 +10,4 @@ Technical development briefs and implementation summaries.
 
 | Folder | Type | Items | Description |
 |--------|------|-------|-------------|
-| [HTML Graph Service](./html-graph-service/) | Dev Brief | 5 | HTML Graph Service development briefs. |
-
+| [HTML Graph Service](./html-graph-service/) | Dev Brief | 8 | HTML Graph Service development briefs. |

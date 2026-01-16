@@ -2,20 +2,16 @@
 
 ---
 
-
 # MyFeeds AI
 
-## Contents
+| 🖼️ Infographic | 📊 Slides |
+|---|---|
+| [View Image](./24%20Dec%20-%20MyFeeds-AI%20Actionable%20Intelligence%20Solution.png) | [Slide Deck](./24%20Dec%20-%20Explainable_Cyber_Intelligence.pdf) |
 
-### Slide Decks / Documents
+> *Generated with [Google NotebookLM](https://notebooklm.google.com/) — Source document → Infographic → Slide deck*
 
-| Document | Type | Date |
-|----------|------|------|
-| [Explainable Cyber Intelligence](./24%20Dec%20-%20Explainable_Cyber_Intelligence.pdf) | Business | 24 Dec |
+---
 
-### Infographics
+## 🖼️ Infographic
 
-| Image | Type | Date |
-|-------|------|------|
-| [MyFeeds-AI Actionable Intelligence Solution](./24%20Dec%20-%20MyFeeds-AI%20Actionable%20Intelligence%20Solution.png) | Business | 24 Dec |
-
+![MyFeeds-AI Actionable Intelligence Solution](./24%20Dec%20-%20MyFeeds-AI%20Actionable%20Intelligence%20Solution.png)

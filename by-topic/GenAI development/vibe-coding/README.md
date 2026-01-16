@@ -2,16 +2,18 @@
 
 ---
 
-
 # Vibe Coding
 
 Vibe coding workflow - empowering users with natural language coding.
 
-## Contents
+| 🖼️ Infographic |
+|---|
+| [View Image](./16%20Dec%20-%20vibe-coding__two-business-users.png) |
 
-### Infographics
+> *Generated with [Google NotebookLM](https://notebooklm.google.com/) — Source document → Infographic → Slide deck*
 
-| Image | Type | Date |
-|-------|------|------|
-| [vibe-coding - two-business-users](./16%20Dec%20-%20vibe-coding__two-business-users.png) | Business | 16 Dec |
+---
 
+## 🖼️ Infographic
+
+![vibe-coding  two-business-users](./16%20Dec%20-%20vibe-coding__two-business-users.png)

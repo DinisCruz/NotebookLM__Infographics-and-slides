@@ -1,20 +1,17 @@
-[🏠 Home](../../../../../README.md) / [For LinkedIn](../../../../) / [published](../../../) / [Strategic Partnerships](../../) / [AWS](../) / **Strategic AWS Partnership with Dinis Cruz’s GenAI and Graph Innovations**
+[🏠 Home](../../../../../README.md) / [For LinkedIn](../../../../) / [Published](../../../) / [Strategic Partnerships](../../) / [AWS](../) / **(6 Jan)   Strategic AWS Partnership with Dinis Cruz’s GenAI and Graph Innovations**
 
 ---
 
+# (6 Jan)   Strategic AWS Partnership with Dinis Cruz’s GenAI and Graph Innovations
 
-# Strategic AWS Partnership with Dinis Cruz’s GenAI and Graph Innovations
+| 🖼️ Infographic | 📊 Slides |
+|---|---|
+| [View Image](./6%20Jan%20-%20AWS%20Strategic%20Partnership%20Proposal%20Overview.jpg) | [Slide Deck](./6%20Jan%20-%20AWS_Serverless_and_GenAI_Strategic_Partnership.pdf) |
 
-## Contents
+> *Generated with [Google NotebookLM](https://notebooklm.google.com/) — Source document → Infographic → Slide deck*
 
-### Slide Decks / Documents
+---
 
-| Document | Type | Date |
-|----------|------|------|
-| [AWS Serverless and GenAI Strategic Partnership](./6%20Jan%20-%20AWS_Serverless_and_GenAI_Strategic_Partnership.pdf) | Business | 6 Jan |
+## 🖼️ Infographic
 
-
-## Related Content
-
-- [GenAI Development](../../../../../by-topic/GenAI%20development/) - AI agent integration with graphs
-- [Semantic Graphs](../../../../../by-topic/osbot-utils/semantic-graphs/) - Semantic graph implementations
+![AWS Strategic Partnership Proposal Overview](./6%20Jan%20-%20AWS%20Strategic%20Partnership%20Proposal%20Overview.jpg)

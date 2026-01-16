@@ -1,21 +1,17 @@
-[🏠 Home](../../../../../README.md) / [For LinkedIn](../../../../) / [published](../../../) / [OSBot Utils](../../) / [Dev Briefs](../) / **v3.65.0 - Stack Variable Discovery**
+[🏠 Home](../../../../../README.md) / [For LinkedIn](../../../../) / [Published](../../../) / [OSBot Utils](../../) / [Dev Briefs](../) / **(5 Jan)   v3.65.0 stack variable discovery implementation brief**
 
 ---
 
+# (5 Jan)   v3.65.0 stack variable discovery implementation brief
 
-# v3.65.0 - Stack Variable Discovery
+| 📄 Source | 🖼️ Infographic | 📊 Slides |
+|---|---|---|
+| [Source Doc](./v3.65.0__stack-variable-discovery__implementation-brief.md) | [View Image](./4%20Jan%20-%20Stack%20Variable%20Discovery%20Context%20Pattern.jpg) | [Slide Deck](./4%20Jan%20-%20State_Free_Context_Propagation.pdf) |
 
-## Contents
+> *Generated with [Google NotebookLM](https://notebooklm.google.com/) — Source document → Infographic → Slide deck*
 
-### Slide Decks / Documents
+---
 
-| Document | Type | Date |
-|----------|------|------|
-| [State Free Context Propagation](./4%20Jan%20-%20State_Free_Context_Propagation.pdf) | Dev Brief | 4 Jan |
+## 🖼️ Infographic
 
-### Documentation
-
-| Document | Type | Date |
-|----------|------|------|
-| [v3.65.0 - stack-variable-discovery - implementation-brief](./v3.65.0__stack-variable-discovery__implementation-brief.md) | Dev Brief | - |
-
+![Stack Variable Discovery Context Pattern](./4%20Jan%20-%20Stack%20Variable%20Discovery%20Context%20Pattern.jpg)

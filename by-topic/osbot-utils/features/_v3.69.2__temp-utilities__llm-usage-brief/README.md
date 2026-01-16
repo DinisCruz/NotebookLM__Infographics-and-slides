@@ -1,21 +1,17 @@
-[🏠 Home](../../../../README.md) / [By Topic](../../../) / [osbot-utils](../../) / [features](../) / **v3.69.2 - Temp Utilities**
+[🏠 Home](../../../../README.md) / [By Topic](../../../) / [OSBot Utils](../../) / [Features](../) / **V3.69.2 temp utilities llm usage brief**
 
 ---
 
+# V3.69.2 temp utilities llm usage brief
 
-# v3.69.2 - Temp Utilities
+| 📄 Source | 🖼️ Infographic | 📊 Slides |
+|---|---|---|
+| [Source Doc](./v3.69.2__temp-utilities__llm-usage-brief.md) | [View Image](./11%20Jan%20-%20Effortless%20Python%20Testing%20with%20OSBot-Utils.jpg) | [Slide Deck](./11%20Jan%20-%20Temp_Utilities_Ephemeral_Testing.pdf) |
 
-## Contents
+> *Generated with [Google NotebookLM](https://notebooklm.google.com/) — Source document → Infographic → Slide deck*
 
-### Slide Decks / Documents
+---
 
-| Document | Type | Date |
-|----------|------|------|
-| [Temp Utilities Ephemeral Testing](./11%20Jan%20-%20Temp_Utilities_Ephemeral_Testing.pdf) | LLM Brief | 11 Jan |
+## 🖼️ Infographic
 
-### Documentation
-
-| Document | Type | Date |
-|----------|------|------|
-| [v3.69.2 - temp-utilities - llm-usage-brief](./v3.69.2__temp-utilities__llm-usage-brief.md) | LLM Brief | - |
-
+![Effortless Python Testing with OSBot-Utils](./11%20Jan%20-%20Effortless%20Python%20Testing%20with%20OSBot-Utils.jpg)

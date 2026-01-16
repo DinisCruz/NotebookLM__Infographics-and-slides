@@ -1,21 +1,17 @@
-[🏠 Home](../../../../../README.md) / [By Topic](../../../../) / [osbot-utils](../../../) / [LLM Briefs](../../) / [Type Safety](../) / **v3.63.3 - Type-Safe Collections Subclassing**
+[🏠 Home](../../../../../README.md) / [By Topic](../../../../) / [OSBot Utils](../../../) / [Llm briefs](../../) / [Type safety](../) / **V3.63.3 for llms type safe collections subclassing guide**
 
 ---
 
+# V3.63.3 for llms type safe collections subclassing guide
 
-# v3.63.3 - Type-Safe Collections Subclassing
+| 📄 Source | 🖼️ Infographic | 📊 Slides |
+|---|---|---|
+| [Source Doc](./v3.63.3__for_llms__type_safe__collections__subclassing_guide.md) | [View Image](./2%20Jan%20-%20Level%20Up%20Python%20Type%20Safety.jpg) | [Slide Deck](./2%20Jan%20-%20Semantic_Collections_Building_Robust_Data_Structures.pdf) |
 
-## Contents
+> *Generated with [Google NotebookLM](https://notebooklm.google.com/) — Source document → Infographic → Slide deck*
 
-### Slide Decks / Documents
+---
 
-| Document | Type | Date |
-|----------|------|------|
-| [Semantic Collections Building Robust Data Structures](./2%20Jan%20-%20Semantic_Collections_Building_Robust_Data_Structures.pdf) | LLM Brief | 2 Jan |
+## 🖼️ Infographic
 
-### Documentation
-
-| Document | Type | Date |
-|----------|------|------|
-| [v3.63.3 - Type-Safe Collections Subclassing](./v3.63.3__for_llms__type_safe__collections__subclassing_guide.md) | LLM Brief | - |
-
+![Level Up Python Type Safety](./2%20Jan%20-%20Level%20Up%20Python%20Type%20Safety.jpg)

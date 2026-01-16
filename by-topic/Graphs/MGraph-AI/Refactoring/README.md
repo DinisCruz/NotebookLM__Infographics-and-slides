@@ -2,27 +2,34 @@
 
 ---
 
-
 # Refactoring
 
 Architecture improvements and refactoring patterns for MGraph systems.
 
-## Contents
+| 🖼️ Infographic | 📊 Slides |
+|---|---|
+| [View Image](./22%20Dec%20-%20Graph%20Export%20Service%20Refactoring%20Architecture.png) | [Slide Deck](./22%20Dec%20-%20Refactoring_Attributes_Brittle_to_Robust.pdf) |
 
-### Slide Decks / Documents
+> *Generated with [Google NotebookLM](https://notebooklm.google.com/) — Source document → Infographic → Slide deck*
 
-| Document | Type | Date |
-|----------|------|------|
-| [Export Architecture Blueprint](./22%20Dec%20-%20Export_Architecture_Blueprint.pdf) | Framework | 22 Dec |
-| [MGraph Attribute Model Redesign](./22%20Dec%20-%20MGraph_Attribute_Model_Redesign.pdf) | Documentation | 22 Dec |
-| [Refactoring Attributes Brittle to Robust](./22%20Dec%20-%20Refactoring_Attributes_Brittle_to_Robust.pdf) | Documentation | 22 Dec |
+---
 
-### Infographics
+## 🖼️ Infographic
 
-| Image | Type | Date |
-|-------|------|------|
-| [Graph Export Service Refactoring Architecture](./22%20Dec%20-%20Graph%20Export%20Service%20Refactoring%20Architecture.png) | Framework | 22 Dec |
-| [HTML Multi-Graph Refactor Strategy](./22%20Dec%20-%20HTML%20Multi-Graph%20Refactor%20Strategy.png) | Business | 22 Dec |
-| [Refactoring HTML Attribute Storage Design](./22%20Dec%20-%20Refactoring%20HTML%20Attribute%20Storage%20Design.png) | Documentation | 22 Dec |
-| [Refactoring HTML Attribute Storage Model](./22%20Dec%20-%20Refactoring%20HTML%20Attribute%20Storage%20Model.png) | Documentation | 22 Dec |
+![Graph Export Service Refactoring Architecture](./22%20Dec%20-%20Graph%20Export%20Service%20Refactoring%20Architecture.png)
 
+![Refactoring HTML Attribute Storage Model](./22%20Dec%20-%20Refactoring%20HTML%20Attribute%20Storage%20Model.png)
+
+![Refactoring HTML Attribute Storage Design](./22%20Dec%20-%20Refactoring%20HTML%20Attribute%20Storage%20Design.png)
+
+![HTML Multi-Graph Refactor Strategy](./22%20Dec%20-%20HTML%20Multi-Graph%20Refactor%20Strategy.png)
+
+---
+
+## 📊 Slide Decks
+
+| Presentation | Date |
+|--------------|------|
+| [Export Architecture Blueprint](./22%20Dec%20-%20Export_Architecture_Blueprint.pdf) | 22 Dec |
+| [MGraph Attribute Model Redesign](./22%20Dec%20-%20MGraph_Attribute_Model_Redesign.pdf) | 22 Dec |
+| [Refactoring Attributes Brittle to Robust](./22%20Dec%20-%20Refactoring_Attributes_Brittle_to_Robust.pdf) | 22 Dec |

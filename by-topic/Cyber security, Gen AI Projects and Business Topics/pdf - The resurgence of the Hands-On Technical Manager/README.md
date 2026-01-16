@@ -1,22 +1,17 @@
-[🏠 Home](../../../README.md) / [By Topic](../../) / [Cyber Security, GenAI Projects & Business](../) / **The Resurgence of the Hands-On Technical Manager**
+[🏠 Home](../../../README.md) / [By Topic](../../) / [Cyber Security, GenAI Projects & Business](../) / **Pdf   The resurgence of the Hands On Technical Manager**
 
 ---
 
+# Pdf   The resurgence of the Hands On Technical Manager
 
-# The Resurgence of the Hands-On Technical Manager
+| 📄 Source | 🖼️ Infographic | 📊 Slides |
+|---|---|---|
+| [Source Doc](./29%20Dec%20-%20PDF%20-%20The%20Resurgence%20of%20the%20Hands-On%20Technical%20Manager.pdf) | [View Image](./29%20Dec%20-%20The%20Hands-On%20Technical%20Manager%20Resurgence.png) | [Slide Deck](./29%20Dec%20-%20The_Resurgence_of_the_HandsOn_Technical_Leader.pdf) |
 
-## Contents
+> *Generated with [Google NotebookLM](https://notebooklm.google.com/) — Source document → Infographic → Slide deck*
 
-### Slide Decks / Documents
+---
 
-| Document | Type | Date |
-|----------|------|------|
-| [PDF - The Resurgence of the Hands-On Technical Manager](./29%20Dec%20-%20PDF%20-%20The%20Resurgence%20of%20the%20Hands-On%20Technical%20Manager.pdf) | Business | 29 Dec |
-| [The Resurgence of the HandsOn Technical Leader](./29%20Dec%20-%20The_Resurgence_of_the_HandsOn_Technical_Leader.pdf) | Business | 29 Dec |
+## 🖼️ Infographic
 
-### Infographics
-
-| Image | Type | Date |
-|-------|------|------|
-| [The Hands-On Technical Manager Resurgence](./29%20Dec%20-%20The%20Hands-On%20Technical%20Manager%20Resurgence.png) | Business | 29 Dec |
-
+![The Hands-On Technical Manager Resurgence](./29%20Dec%20-%20The%20Hands-On%20Technical%20Manager%20Resurgence.png)

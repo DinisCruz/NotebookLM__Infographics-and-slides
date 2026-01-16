@@ -1,21 +1,17 @@
-[🏠 Home](../../../../README.md) / [By Topic](../../../) / [osbot-utils](../../) / [features](../) / **v3.70.3 - Flow System Usage**
+[🏠 Home](../../../../README.md) / [By Topic](../../../) / [OSBot Utils](../../) / [Features](../) / **V3 70 3 flow system llm usage brief**
 
 ---
 
+# V3 70 3 flow system llm usage brief
 
-# v3.70.3 - Flow System Usage
+| 📄 Source | 🖼️ Infographic | 📊 Slides |
+|---|---|---|
+| [Source Doc](./v3_70_3__flow-system__llm-usage-brief.md) | [View Image](./15%20Jan%20-%20Untangle%20Python%20Code%20-%20Flow%20System.jpg) | [Slide Deck](./15%20Jan%20-%20The_Flow_System.pdf) |
 
-## Contents
+> *Generated with [Google NotebookLM](https://notebooklm.google.com/) — Source document → Infographic → Slide deck*
 
-### Slide Decks / Documents
+---
 
-| Document | Type | Date |
-|----------|------|------|
-| [The Flow System](./15%20Jan%20-%20The_Flow_System.pdf) | LLM Brief | 15 Jan |
+## 🖼️ Infographic
 
-### Documentation
-
-| Document | Type | Date |
-|----------|------|------|
-| [v3.70.3 - Flow System Usage](./v3_70_3__flow-system__llm-usage-brief.md) | LLM Brief | - |
-
+![Untangle Python Code - Flow System](./15%20Jan%20-%20Untangle%20Python%20Code%20-%20Flow%20System.jpg)

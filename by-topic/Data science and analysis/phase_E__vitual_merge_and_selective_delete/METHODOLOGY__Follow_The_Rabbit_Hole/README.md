@@ -1,21 +1,17 @@
-[🏠 Home](../../../../README.md) / [By Topic](../../../) / [Data Science & Analysis](../../) / [Phase E: Virtual Merge and Selective Delete](../) / **Methodology: Follow The Rabbit Hole**
+[🏠 Home](../../../../README.md) / [By Topic](../../../) / [Data Science & Analysis](../../) / [Phase E vitual merge and selective delete](../) / **METHODOLOGY Follow The Rabbit Hole**
 
 ---
 
+# METHODOLOGY Follow The Rabbit Hole
 
-# Methodology: Follow The Rabbit Hole
+| 📄 Source | 🖼️ Infographic | 📊 Slides |
+|---|---|---|
+| [Source Doc](./METHODOLOGY__Follow_The_Rabbit_Hole.md) | [View Image](./11%20Jan%20-%20Systematic%20Performance%20Debugging%20Guide.jpg) | [Slide Deck](./11%20Jan%20-%20Follow_The_Rabbit_Hole.pdf) |
 
-## Contents
+> *Generated with [Google NotebookLM](https://notebooklm.google.com/) — Source document → Infographic → Slide deck*
 
-### Slide Decks / Documents
+---
 
-| Document | Type | Date |
-|----------|------|------|
-| [Follow The Rabbit Hole](./11%20Jan%20-%20Follow_The_Rabbit_Hole.pdf) | Methodology | 11 Jan |
+## 🖼️ Infographic
 
-### Documentation
-
-| Document | Type | Date |
-|----------|------|------|
-| [Methodology: Follow The Rabbit Hole](./METHODOLOGY__Follow_The_Rabbit_Hole.md) | Methodology | - |
-
+![Systematic Performance Debugging Guide](./11%20Jan%20-%20Systematic%20Performance%20Debugging%20Guide.jpg)

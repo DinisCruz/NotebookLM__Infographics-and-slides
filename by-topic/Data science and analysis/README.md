@@ -2,7 +2,6 @@
 
 ---
 
-
 # Data Science & Analysis
 
 Data analysis methodologies and pipeline development.
@@ -11,5 +10,4 @@ Data analysis methodologies and pipeline development.
 
 | Folder | Type | Items | Description |
 |--------|------|-------|-------------|
-| [Phase E: Virtual Merge and Selective Delete](./phase_E__vitual_merge_and_selective_delete/) | Analysis | 22 | Phase E development: virtual merge and selective delete o... |
-
+| [Phase E: Virtual Merge and Selective Delete](./phase_E__vitual_merge_and_selective_delete/) | Analysis | 35 | Phase E development: virtual merge and selective delete o... |

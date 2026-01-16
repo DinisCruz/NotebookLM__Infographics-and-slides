@@ -1,22 +1,17 @@
-[🏠 Home](../../../README.md) / [By Topic](../../) / [Dinis Cruz Startups](../) / **Open Source Strategy**
+[🏠 Home](../../../README.md) / [By Topic](../../) / [Dinis Cruz Startups](../) / **Open Source strategy**
 
 ---
 
+# Open Source strategy
 
-# Open Source Strategy
+| 📄 Source | 🖼️ Infographic | 📊 Slides |
+|---|---|---|
+| [Source Doc](./4%20Sep%20-%20PDF%20-%20Dinis%20Cruz%E2%80%99s%20Multi-Startup%20Strategy_%20Open-Source%20Innovation%20Across%20Four%20Synergistic%20Ventures.pdf) | [View Image](./29%20Dec%20-%20Open-Source%20Startup%20Ecosystem%20Four%20Ventures.png) | [Slide Deck](./29%20Dec%20-%20Four_Ventures_One_AI_Engine.pdf) |
 
-## Contents
+> *Generated with [Google NotebookLM](https://notebooklm.google.com/) — Source document → Infographic → Slide deck*
 
-### Slide Decks / Documents
+---
 
-| Document | Type | Date |
-|----------|------|------|
-| [Four Ventures One AI Engine](./29%20Dec%20-%20Four_Ventures_One_AI_Engine.pdf) | Business | 29 Dec |
-| [PDF - Dinis Cruz’s Multi-Startup Strategy Open-Source Innovation Across Four Synergistic Ventures](./4%20Sep%20-%20PDF%20-%20Dinis%20Cruz’s%20Multi-Startup%20Strategy_%20Open-Source%20Innovation%20Across%20Four%20Synergistic%20Ventures.pdf) | Business | 4 Sep |
+## 🖼️ Infographic
 
-### Infographics
-
-| Image | Type | Date |
-|-------|------|------|
-| [Open-Source Startup Ecosystem Four Ventures](./29%20Dec%20-%20Open-Source%20Startup%20Ecosystem%20Four%20Ventures.png) | Framework | 29 Dec |
-
+![Open-Source Startup Ecosystem Four Ventures](./29%20Dec%20-%20Open-Source%20Startup%20Ecosystem%20Four%20Ventures.png)

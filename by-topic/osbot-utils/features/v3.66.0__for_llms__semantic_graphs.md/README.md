@@ -1,26 +1,17 @@
-[🏠 Home](../../../../README.md) / [By Topic](../../../) / [osbot-utils](../../) / [features](../) / **v3.66.0 - Semantic Graphs for LLMs**
+[🏠 Home](../../../../README.md) / [By Topic](../../../) / [OSBot Utils](../../) / [Features](../) / **V3.66.0 for llms semantic graphs.md**
 
 ---
 
+# V3.66.0 for llms semantic graphs.md
 
-# v3.66.0 - Semantic Graphs for LLMs
+| 📄 Source | 🖼️ Infographic | 📊 Slides |
+|---|---|---|
+| [Source Doc](./v3.66.0__for_llms__semantic_graphs.md) | [View Image](./5%20Jan%20-%20Unified%20Graph%20Architecture%20Principles.jpg) | [Slide Deck](./5%20Jan%20-%20The_Graph_of_Graphs_Framework.pdf) |
 
-## Contents
+> *Generated with [Google NotebookLM](https://notebooklm.google.com/) — Source document → Infographic → Slide deck*
 
-### Slide Decks / Documents
+---
 
-| Document | Type | Date |
-|----------|------|------|
-| [The Graph of Graphs Framework](./5%20Jan%20-%20The_Graph_of_Graphs_Framework.pdf) | LLM Brief | 5 Jan |
+## 🖼️ Infographic
 
-### Documentation
-
-| Document | Type | Date |
-|----------|------|------|
-| [v3.66.0 - for llms - semantic graphs](./v3.66.0__for_llms__semantic_graphs.md) | LLM Brief | - |
-
-
-## Related Content
-
-- [GenAI Development](../../../../by-topic/GenAI%20development/) - AI agent integration with graphs
-- [Semantic Graphs](../../../../by-topic/osbot-utils/semantic-graphs/) - Semantic graph implementations
+![Unified Graph Architecture Principles](./5%20Jan%20-%20Unified%20Graph%20Architecture%20Principles.jpg)

@@ -1,25 +1,17 @@
-[🏠 Home](../../../../../README.md) / [By Topic](../../../../) / [osbot-utils](../../../) / [LLM Briefs](../../) / [Type Safety](../) / **v3.1.1 - Type-Safe Testing Guidance**
+[🏠 Home](../../../../../README.md) / [By Topic](../../../../) / [OSBot Utils](../../../) / [Llm briefs](../../) / [Type safety](../) / **V3.1.1 for llms type safe testing guidance**
 
 ---
 
+# V3.1.1 for llms type safe testing guidance
 
-# v3.1.1 - Type-Safe Testing Guidance
+| 📄 Source | 🖼️ Infographic | 📊 Slides |
+|---|---|---|
+| [Source Doc](./v3.1.1__for_llms__type_safe__testing_guidance.md) | [View Image](./2%20Jan%20-%20Effective%20Testing%20Type_Safe%20Framework%20Guide.jpg) | [Slide Deck](./2%20Jan%20-%20TypeSafe_Testing_Doctrine.pdf) |
 
-## Contents
+> *Generated with [Google NotebookLM](https://notebooklm.google.com/) — Source document → Infographic → Slide deck*
 
-### Slide Decks / Documents
+---
 
-| Document | Type | Date |
-|----------|------|------|
-| [TypeSafe Testing Doctrine](./2%20Jan%20-%20TypeSafe_Testing_Doctrine.pdf) | LLM Brief | 2 Jan |
+## 🖼️ Infographic
 
-### Documentation
-
-| Document | Type | Date |
-|----------|------|------|
-| [v3.1.1 - Type-Safe Testing Guidance](./v3.1.1__for_llms__type_safe__testing_guidance.md) | LLM Brief | - |
-
-
-## Related Content
-
-- [Dev Briefs](../../../../../by-topic/osbot-utils/dev-briefs/) - Technical implementation details
+![Effective Testing Type Safe Framework Guide](./2%20Jan%20-%20Effective%20Testing%20Type_Safe%20Framework%20Guide.jpg)

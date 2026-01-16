@@ -1,15 +1,17 @@
-[🏠 Home](../../../README.md) / [By Topic](../../) / [3rd Party Documents](../) / **Ontology and Information Systems (Stanford)**
+[🏠 Home](../../../README.md) / [By Topic](../../) / [3rd Party Documents](../) / **Ontology and Information Systems (stanford white paper)**
 
 ---
 
+# Ontology and Information Systems (stanford white paper)
 
-# Ontology and Information Systems (Stanford)
+| 🖼️ Infographic | 📊 Slides |
+|---|---|
+| [View Image](./4%20Jan%20-%20Structuring%20Knowledge%20with%20Ontologies.jpg) | [Slide Deck](./4%20Jan%20-%20Building_Intelligent_Meaning_Systems.pdf) |
 
-## Contents
+> *Generated with [Google NotebookLM](https://notebooklm.google.com/) — Source document → Infographic → Slide deck*
 
-### Slide Decks / Documents
+---
 
-| Document | Type | Date |
-|----------|------|------|
-| [Building Intelligent Meaning Systems](./4%20Jan%20-%20Building_Intelligent_Meaning_Systems.pdf) | Framework | 4 Jan |
+## 🖼️ Infographic
 
+![Structuring Knowledge with Ontologies](./4%20Jan%20-%20Structuring%20Knowledge%20with%20Ontologies.jpg)

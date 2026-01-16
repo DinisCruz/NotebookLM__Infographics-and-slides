@@ -1,21 +1,17 @@
-[🏠 Home](../../../../README.md) / [By Topic](../../../) / [Data Science & Analysis](../../) / [Phase E: Virtual Merge and Selective Delete](../) / **Phase E.3 - Storage Usage LLM Brief**
+[🏠 Home](../../../../README.md) / [By Topic](../../../) / [Data Science & Analysis](../../) / [Phase E vitual merge and selective delete](../) / **PHASE E 3 llm brief storage usage**
 
 ---
 
+# PHASE E 3 llm brief storage usage
 
-# Phase E.3 - Storage Usage LLM Brief
+| 📄 Source | 🖼️ Infographic | 📊 Slides |
+|---|---|---|
+| [Source Doc](./PHASE_E_3__llm_brief__storage_usage.md) | [View Image](./11%20Jan%20-%20Guide%20to%20Backend-Agnostic%20Storage.jpg) | [Slide Deck](./11%20Jan%20-%20E3_Cache_Storage_Abstraction.pdf) |
 
-## Contents
+> *Generated with [Google NotebookLM](https://notebooklm.google.com/) — Source document → Infographic → Slide deck*
 
-### Slide Decks / Documents
+---
 
-| Document | Type | Date |
-|----------|------|------|
-| [E3 Cache Storage Abstraction](./11%20Jan%20-%20E3_Cache_Storage_Abstraction.pdf) | LLM Brief | 11 Jan |
+## 🖼️ Infographic
 
-### Documentation
-
-| Document | Type | Date |
-|----------|------|------|
-| [Phase E.3 - Storage Usage LLM Brief](./PHASE_E_3__llm_brief__storage_usage.md) | LLM Brief | - |
-
+![Guide to Backend-Agnostic Storage](./11%20Jan%20-%20Guide%20to%20Backend-Agnostic%20Storage.jpg)

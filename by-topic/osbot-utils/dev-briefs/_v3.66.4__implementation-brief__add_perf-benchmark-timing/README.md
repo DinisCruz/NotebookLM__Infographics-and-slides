@@ -1,21 +1,17 @@
-[🏠 Home](../../../../README.md) / [By Topic](../../../) / [osbot-utils](../../) / [Dev Briefs](../) / **v3.66.4 - Perf Benchmark Timing**
+[🏠 Home](../../../../README.md) / [By Topic](../../../) / [OSBot Utils](../../) / [Dev Briefs](../) / **V3.66.4 implementation brief add perf benchmark timing**
 
 ---
 
+# V3.66.4 implementation brief add perf benchmark timing
 
-# v3.66.4 - Perf Benchmark Timing
+| 📄 Source | 🖼️ Infographic | 📊 Slides |
+|---|---|---|
+| [Source Doc](./v3.66.4__implementation-brief__add_perf-benchmark-timing.md) | [View Image](./6%20Jan%20-%20A%20New%20Performance%20Benchmarking%20Framework.jpg) | [Slide Deck](./6%20Jan%20-%20Engineering_Benchmarking_Toolkit.pdf) |
 
-## Contents
+> *Generated with [Google NotebookLM](https://notebooklm.google.com/) — Source document → Infographic → Slide deck*
 
-### Slide Decks / Documents
+---
 
-| Document | Type | Date |
-|----------|------|------|
-| [Engineering Benchmarking Toolkit](./6%20Jan%20-%20Engineering_Benchmarking_Toolkit.pdf) | Dev Brief | 6 Jan |
+## 🖼️ Infographic
 
-### Documentation
-
-| Document | Type | Date |
-|----------|------|------|
-| [v3.66.4 - implementation-brief - add perf-benchmark-timing](./v3.66.4__implementation-brief__add_perf-benchmark-timing.md) | Dev Brief | - |
-
+![A New Performance Benchmarking Framework](./6%20Jan%20-%20A%20New%20Performance%20Benchmarking%20Framework.jpg)

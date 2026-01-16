@@ -2,7 +2,6 @@
 
 ---
 
-
 # Dinis Cruz Startups
 
 Startup projects and business ventures.
@@ -11,7 +10,6 @@ Startup projects and business ventures.
 
 | Folder | Type | Items | Description |
 |--------|------|-------|-------------|
-| [MyFeeds AI](./MyFeeds-AI/) | Business | 2 | - |
+| [MyFeeds AI](./MyFeeds-AI/) | Business | 3 | - |
 | [Open Source Strategy](./Open%20Source%20strategy/) | Business | 3 | - |
 | [SGraph AI](./SGraph-AI/) | Business | 7 | - |
-
