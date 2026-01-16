@@ -1,24 +1,17 @@
 # Graphs
 
-Content focused on graph-based development approaches and knowledge graph implementations.
+## Subfolders
+
+- [Pragmatic Graph Development  A Domain-Driven Approach](./%281%20Jan%29%20-%20Pragmatic%20Graph%20Development_%20A%20Domain-Driven%20Approach/)
+- [Graph-driven development](./Graph-driven%20development/)
+- [MGraph-AI](./MGraph-AI/)
 
 ## Contents
 
-### Graph-Driven Development
-Methodologies and patterns for using graphs as a core development paradigm.
+### Slide Decks / Documents
 
-### Pragmatic Graph Development: A Domain-Driven Approach (1 Jan)
-A practical guide to implementing graph structures with domain-driven design principles.
+- [The Context Graph Thesis](./27%20Dec%20-%20The_Context_Graph_Thesis.pdf)
 
-## Key Concepts
+### Infographics
 
-- **Knowledge Graphs** - Representing domain knowledge as connected entities
-- **Domain-Driven Design** - Aligning graph structures with business domains
-- **Graph Databases** - Serverless and traditional graph storage approaches
-- **Semantic Layers** - Adding meaning and context to graph relationships
-
-## Related Content
-
-See also:
-- `by-topic/GenAI development/` - Graph integration with AI agents
-- `by-topic/osbot-utils/semantic-graphs/` - Semantic graph implementations
+- [The Context Graph AI Opportunity](./27%20Dec%20-%20The%20Context%20Graph%20AI%20Opportunity.png)
