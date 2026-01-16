@@ -13,7 +13,7 @@ A collection of AI-generated infographics and slide decks created using Google's
 | **PNG Infographics** | 100 |
 | **Markdown Documents** | 44 |
 | **Organized Folders** | 126 |
-| **Repository Size** | 4.2 GB |
+| **Repository Size** | 2.1 GB |
 
 ### Content by Topic
 
