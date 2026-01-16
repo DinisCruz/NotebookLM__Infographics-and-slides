@@ -2,96 +2,83 @@
 
 A collection of AI-generated infographics and slide decks created using Google's NotebookLM, covering topics in software development, cybersecurity, GenAI, and technical leadership.
 
-## Repository Overview
+---
 
-This repository contains **334 visual assets** (171 PDFs and 101 PNGs) organized across multiple dimensions for easy discovery and reference.
+## 📊 Repository Statistics
 
-## Folder Structure
+| Metric | Count |
+|--------|-------|
+| **Total Visual Assets** | 271 |
+| **PDF Documents** | 171 |
+| **PNG Infographics** | 100 |
+| **Markdown Documents** | 44 |
+| **Organized Folders** | 126 |
+| **Repository Size** | 4.2 GB |
+
+### Content by Topic
+
+| Topic | Assets | Description |
+|-------|--------|-------------|
+| [OSBot Utils](./by-topic/osbot-utils/) | 72 | Python utilities framework documentation |
+| [GenAI Development](./by-topic/GenAI%20development/) | 67 | Agentic AI, testing patterns, workflows |
+| [Cyber Security & Business](./by-topic/Cyber%20security%2C%20Gen%20AI%20Projects%20and%20Business%20Topics/) | 32 | Security research, risk management |
+| [Graphs](./by-topic/Graphs/) | 30 | Graph-driven development, MGraph-AI |
+| [Startups](./by-topic/Dinis%20Cruz%20-%20Startups/) | 12 | Startup projects and ventures |
+| [Data Science](./by-topic/Data%20science%20and%20analysis/) | 11 | Data analysis methodologies |
+| [3rd Party Documents](./by-topic/3rd%20party%20-%20documents%20or%20text%20/) | 6 | External reference materials |
+| [Dev Briefs](./by-topic/dev-briefs/) | 3 | Technical development summaries |
+| [Strategic Partnerships](./by-topic/Strategic%20partnerhips/) | 2 | Collaboration proposals |
+
+### LinkedIn Publishing Pipeline
+
+| Status | Count |
+|--------|-------|
+| [Published](./_for_linkedin/published/) | 16 |
+| [Queue (To Publish)](./_for_linkedin/to-publish/) | 14 |
+
+---
+
+## 🗂️ Folder Structure
 
 ```
-├── by-topic/                    # Primary content organization
-│   ├── GenAI development/       # AI development patterns and workflows
-│   │   ├── Architecture Patterns/
-│   │   ├── Beyond code - Testing/
-│   │   ├── Iterative Flow Development/
-│   │   ├── Zero Context-Switch Workflow/
-│   │   └── vibe-coding/
-│   ├── Graphs/                  # Graph-driven development
-│   │   ├── MGraph-AI/
-│   │   │   ├── HTML Graph Processing/
-│   │   │   └── Refactoring/
-│   │   └── Graph-driven development/
-│   ├── osbot-utils/             # OSBot framework documentation
-│   │   ├── Performance Profiling/
-│   │   │   └── Quadratic Incident/
-│   │   ├── osbot-aws/
-│   │   ├── dev-briefs/
-│   │   ├── features/
-│   │   └── helpers/
-│   ├── Cyber security.../       # Security and business topics
-│   │   └── Security Platforms/
-│   └── ...
-├── by-collaborator/             # Content organized by contributor
-└── _for_linkedin/               # Content prepared for LinkedIn sharing
+├── by-topic/              # Primary content - organized by subject
+├── by-collaborator/       # Content organized by contributor
+└── _for_linkedin/         # LinkedIn publishing pipeline
     ├── published/
     └── to-publish/
 ```
 
-## Content Categories
+## 🏷️ Key Themes
 
-### By Topic
-- **GenAI Development** - Agentic AI, testing patterns, workflow models
-- **Cyber Security** - Security research, business topics, risk management
-- **Data Science and Analysis** - Data-related insights and methodologies
-- **OSBot-Utils** - Documentation for the OSBot utilities framework
-- **Strategic Partnerships** - Partnership and collaboration content
-- **Dev Briefs** - Technical development summaries
+| Theme | Examples |
+|-------|----------|
+| **Python Development** | Performance profiling, type-safe programming, OSBot framework |
+| **Graph Technologies** | Graph-driven development, knowledge graphs, MGraph-AI |
+| **Testing & Quality** | Beyond unit tests, agentic testing, testing methodologies |
+| **Architecture** | Serverless patterns, legacy modernization, vibe coding |
+| **Security & Business** | Cyber security research, risk management, startup ventures |
 
-### Key Themes
-- Python performance profiling and optimization
-- Graph-driven development and knowledge graphs
-- Software testing methodologies (beyond unit tests)
-- Serverless architecture patterns
-- Legacy system modernization
-- Type-safe programming practices
+---
 
-## File Naming Convention
+## 📖 Usage
 
-Files follow a date-prefixed naming pattern:
-```
-DD Mon - Topic_Title.pdf
-DD Mon - Topic Title.png
-```
+These materials are designed for technical presentations, LinkedIn thought leadership, reference documentation, and team education.
 
-Example: `23 Dec - Python_Performance_Profiling_Made_Easy.pdf`
+**File naming convention:** `DD Mon - Topic_Title.pdf` (e.g., `23 Dec - Python_Performance_Profiling_Made_Easy.pdf`)
 
-## Usage
+## 🛠️ Tools Used
 
-These materials are designed for:
-- Technical presentations and workshops
-- LinkedIn thought leadership content
-- Reference documentation for development patterns
-- Educational resources for teams
+| Tool | Purpose |
+|------|---------|
+| **Google NotebookLM** | AI-powered content generation |
+| **Various AI Tools** | Infographic creation |
 
-## Tools Used
-
-- **Google NotebookLM** - AI-powered content generation
-- **Various AI image generators** - Infographic creation
-
-## Author
+## 👤 Author
 
 **Dinis Cruz** - [@DinisCruz](https://github.com/DinisCruz)
 
-## License
+## 📜 License
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-All content in this repository is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
-
-You are free to:
-- **Share** — copy and redistribute the material in any medium or format
-- **Adapt** — remix, transform, and build upon the material for any purpose, even commercially
-
-As long as you give appropriate credit, provide a link to the license, and indicate if changes were made.
-
-See the [LICENSE](LICENSE) file for full details.
+All content is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). You're free to share and adapt with attribution. See [LICENSE](LICENSE) for details.
