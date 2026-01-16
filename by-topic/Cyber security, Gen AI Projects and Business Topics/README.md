@@ -1,4 +1,4 @@
-[← Back](../) | [🏠 Home](../../README.md) | [📚 By Topic](../../by-topic/)
+[🏠 Home](../../README.md) / [by-topic](../) / **Cyber security, Gen AI Projects and Business Topics**
 
 ---
 
