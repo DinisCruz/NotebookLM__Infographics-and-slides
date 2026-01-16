@@ -1,4 +1,4 @@
-[🏠 Home](../../../../README.md) / [by-topic](../../../) / [osbot-utils](../../) / [Performance Profiling](../) / **Quadratic Incident**
+[🏠 Home](../../../../README.md) / [By Topic](../../../) / [osbot-utils](../../) / [Performance Profiling](../) / **Quadratic Incident**
 
 ---
 

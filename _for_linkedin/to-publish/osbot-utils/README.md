@@ -1,6 +1,16 @@
+[🏠 Home](../../../README.md) / [For LinkedIn](../../) / [To Publish](../) / **osbot-utils**
+
+---
+
+
 # osbot-utils
+
+Documentation for the OSBot utilities framework - Python tools for development.
 
 ## Subfolders
 
-- [dev-briefs](./dev-briefs/)
-- [llm-briefs](./llm-briefs/)
+| Folder | Type | Items | Description |
+|--------|------|-------|-------------|
+| [Dev Briefs](./dev-briefs/) | Dev Brief | 2 | Technical development briefs and implementation summaries. |
+| [LLM Briefs](./llm-briefs/) | LLM Brief | 6 | LLM-focused documentation and usage guides. |
+

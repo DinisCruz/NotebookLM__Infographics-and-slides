@@ -1,7 +1,15 @@
-#  Ontology and Information Systems (stanford white paper)
+[🏠 Home](../../../README.md) / [By Topic](../../) / [3rd Party Documents](../) / **Ontology and Information Systems (Stanford)**
+
+---
+
+
+# Ontology and Information Systems (Stanford)
 
 ## Contents
 
 ### Slide Decks / Documents
 
-- [Building Intelligent Meaning Systems](./4%20Jan%20-%20Building_Intelligent_Meaning_Systems.pdf)
+| Document | Type | Date |
+|----------|------|------|
+| [Building Intelligent Meaning Systems](./4%20Jan%20-%20Building_Intelligent_Meaning_Systems.pdf) | Framework | 4 Jan |
+

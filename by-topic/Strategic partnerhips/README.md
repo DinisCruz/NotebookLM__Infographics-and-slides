@@ -1,5 +1,15 @@
-# Strategic partnerhips
+[🏠 Home](../../README.md) / [By Topic](../) / **Strategic Partnerships**
+
+---
+
+
+# Strategic Partnerships
+
+Partnership strategies and collaboration proposals.
 
 ## Subfolders
 
-- [AWS](./AWS/)
+| Folder | Type | Items | Description |
+|--------|------|-------|-------------|
+| [AWS](./AWS/) | Documentation | 2 | - |
+

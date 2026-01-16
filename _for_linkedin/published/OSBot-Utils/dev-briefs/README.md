@@ -1,5 +1,15 @@
-# dev-briefs
+[🏠 Home](../../../../README.md) / [For LinkedIn](../../../) / [published](../../) / [OSBot Utils](../) / **Dev Briefs**
+
+---
+
+
+# Dev Briefs
+
+Technical development briefs and implementation summaries.
 
 ## Subfolders
 
-- [v3.65.0  stack-variable-discovery  implementation-brief](./%285%20Jan%29%20-%20v3.65.0__stack-variable-discovery__implementation-brief/)
+| Folder | Type | Items | Description |
+|--------|------|-------|-------------|
+| [v3.65.0 - Stack Variable Discovery](./%285%20Jan%29%20-%20v3.65.0__stack-variable-discovery__implementation-brief/) | Dev Brief | 2 | - |
+

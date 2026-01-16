@@ -1,7 +1,17 @@
-# Dinis Cruz - Startups
+[🏠 Home](../../README.md) / [By Topic](../) / **Dinis Cruz Startups**
+
+---
+
+
+# Dinis Cruz Startups
+
+Startup projects and business ventures.
 
 ## Subfolders
 
-- [MyFeeds-AI](./MyFeeds-AI/)
-- [Open Source strategy](./Open%20Source%20strategy/)
-- [SGraph-AI](./SGraph-AI/)
+| Folder | Type | Items | Description |
+|--------|------|-------|-------------|
+| [MyFeeds AI](./MyFeeds-AI/) | Business | 2 | - |
+| [Open Source Strategy](./Open%20Source%20strategy/) | Business | 3 | - |
+| [SGraph AI](./SGraph-AI/) | Business | 7 | - |
+

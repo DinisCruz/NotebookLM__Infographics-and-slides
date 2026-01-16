@@ -1,5 +1,15 @@
+[🏠 Home](../../../../../README.md) / [For LinkedIn](../../../../) / [published](../../../) / [OSBot Utils](../../) / [Type Safety](../) / **helpers**
+
+---
+
+
 # helpers
+
+Helper utilities and supporting tools documentation.
 
 ## Subfolders
 
-- [v3.69.1  performance-schemas  type-safe-briefing](./v3.69.1__performance-schemas__type-safe-briefing/)
+| Folder | Type | Items | Description |
+|--------|------|-------|-------------|
+| [v3.69.1 - Performance Schemas Type-Safe Briefing](./v3.69.1__performance-schemas__type-safe-briefing/) | Dev Brief | 2 | - |
+

@@ -1,6 +1,18 @@
-# Cyber Security and Business
+[🏠 Home](../../../README.md) / [For LinkedIn](../../) / [published](../) / **Cyber Security & Business**
+
+---
+
+
+# Cyber Security & Business
 
 ## Subfolders
 
-- [ GenCloudTwin - Creating a Cloud Environment Digital Twin with Semantic Knowledge Graphs](./%282%20Jan%29%20-%20%20GenCloudTwin%20-%20Creating%20a%20Cloud%20Environment%20Digital%20Twin%20with%20Semantic%20Knowledge%20Graphs/)
-- [Ephemeral Cloud Environments and GenCloudBCP  A New Paradigm for Resilience and Disaster Recovery](./%282%20Jan%29%20-%20Ephemeral%20Cloud%20Environments%20and%20GenCloudBCP_%20A%20New%20Paradigm%20for%20Resilience%20and%20Disaster%20Recovery/)
+| Folder | Type | Items | Description |
+|--------|------|-------|-------------|
+| [Ephemeral Cloud Environments & GenCloudBCP](./%282%20Jan%29%20-%20Ephemeral%20Cloud%20Environments%20and%20GenCloudBCP_%20A%20New%20Paradigm%20for%20Resilience%20and%20Disaster%20Recovery/) | Business | 2 | - |
+| [GenCloudTwin: Cloud Digital Twin with Semantic Graphs](./%282%20Jan%29%20-%20%20GenCloudTwin%20-%20Creating%20a%20Cloud%20Environment%20Digital%20Twin%20with%20Semantic%20Knowledge%20Graphs/) | Business | 2 | - |
+
+
+## Related Content
+
+- [Security Platforms](../../../by-topic/Cyber%20security%2C%20Gen%20AI%20Projects%20and%20Business%20Topics/Security%20Platforms/) - Security platform concepts
