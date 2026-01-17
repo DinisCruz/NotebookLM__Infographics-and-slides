@@ -1,4 +1,4 @@
-[🏠 Home](../../../../README.md) / [For LinkedIn](../../../) / [Failed on Publishing](../) / **Fighting Cognitive Overload**
+[🏠 Home](../../../../README.md) / [For LinkedIn](../../../) / [Published](../../) / [Development and Enginering](../) / **Fighting Cognitive Overload**
 
 ---
 

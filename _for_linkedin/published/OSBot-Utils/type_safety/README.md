@@ -1,4 +1,4 @@
-[🏠 Home](../../../../README.md) / [For LinkedIn](../../../) / [Published](../../) / [OSBot Utils](../) / **Type safety**
+[🏠 Home](../../../../README.md) / [For LinkedIn](../../../) / [Published](../../) / [OSBot-Utils](../) / **Type safety**
 
 ---
 

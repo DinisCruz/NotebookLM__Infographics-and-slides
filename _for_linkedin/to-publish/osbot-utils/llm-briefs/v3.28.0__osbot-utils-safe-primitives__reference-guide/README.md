@@ -1,4 +1,4 @@
-[🏠 Home](../../../../../README.md) / [For LinkedIn](../../../../) / [To Publish](../../../) / [OSBot Utils](../../) / [Llm briefs](../) / **V3.28.0 osbot utils safe primitives reference guide**
+[🏠 Home](../../../../../README.md) / [For LinkedIn](../../../../) / [To Publish](../../../) / [osbot-utils](../../) / [llm-briefs](../) / **V3.28.0 osbot utils safe primitives reference guide**
 
 ---
 

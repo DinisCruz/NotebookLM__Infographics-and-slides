@@ -1,4 +1,4 @@
-[🏠 Home](../../../../README.md) / [For LinkedIn](../../../) / [Failed on Publishing](../) / **Human Checkpoints in AI Agent Workflows**
+[🏠 Home](../../../../README.md) / [For LinkedIn](../../../) / [Published](../../) / [Development and Enginering](../) / **Human Checkpoints in AI Agent Workflows**
 
 ---
 

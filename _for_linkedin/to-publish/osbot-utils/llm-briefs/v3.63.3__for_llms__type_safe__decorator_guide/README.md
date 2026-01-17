@@ -1,4 +1,4 @@
-[🏠 Home](../../../../../README.md) / [For LinkedIn](../../../../) / [To Publish](../../../) / [OSBot Utils](../../) / [Llm briefs](../) / **V3.63.3 for llms type safe decorator guide**
+[🏠 Home](../../../../../README.md) / [For LinkedIn](../../../../) / [To Publish](../../../) / [osbot-utils](../../) / [llm-briefs](../) / **V3.63.3 for llms type safe decorator guide**
 
 ---
 
