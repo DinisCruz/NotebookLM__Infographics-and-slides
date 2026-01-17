@@ -1,1 +1,0 @@
-can you focus on the concept in this paper that the 'manual step' in the LLM workflow is not a roadblock or a tax to the user or a way to control, but an opportunity to think again an revaluate the original question/brief . We always had to do this, now the loop is just faster

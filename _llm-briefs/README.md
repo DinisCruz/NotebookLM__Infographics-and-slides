@@ -4,19 +4,33 @@
 
 # LLM Briefs
 
-Instructions for LLMs on how to create and maintain documentation for this repository.
+Instructions for LLMs on how to work with this repository.
 
 ---
 
-## 📂 Available Briefs
+## 🚀 Start Here
+
+| Brief | Purpose |
+|-------|---------|
+| **[MAIN.md](./MAIN.md)** | **Start here** — Full context for new Cowork sessions |
+
+---
+
+## 📂 Task-Specific Briefs
 
 | Brief | Purpose |
 |-------|---------|
 | [create-readme.md](./create-readme.md) | How to create README.md files for content folders |
-| [create-content.md](./create-content.md) | How to create CONTENT.md semantic index files |
+| [create-content.md](./create-content.md) | How to create CONTENT.md semantic index files (SKG serialization) |
 
 ---
 
 ## Usage
 
-When working with this repository, read the appropriate brief before creating or updating documentation files. These briefs ensure consistency across all folders and enable both human readers and automated systems to effectively navigate and search the content.
+**New session?** Read [MAIN.md](./MAIN.md) first for full context.
+
+**Specific task?** Reference the appropriate brief:
+- Creating/updating navigation → `create-readme.md`
+- Creating searchable content indexes → `create-content.md`
+
+These briefs ensure consistency across all folders and enable both human readers and automated systems to effectively navigate and search the content.
