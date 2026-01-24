@@ -1,6 +1,8 @@
 # Wardley Maps as an Analogy for Software Development Evolution
 
-> *Semantic Knowledge Graph (SKG) - markdown serialization for search, discovery, and graph database integration*
+[📖 README](./README.md) · [🖼️ Infographic](./22%20Jan%20-%20Mapping%20Software%20Evolution%20to%20Commodity.jpg) · [📑 Slides](./22%20Jan%20-%20Strategic_Code_Evolution.pdf) · [🏠 Home](../../../../README.md)
+
+> *Semantic Knowledge Graph (SKG) — machine-readable metadata for search, discovery, and graph database integration*
 
 ---
 

@@ -1,6 +1,8 @@
 # Vibe Coding Workflow for Rapid Product-Market Fit Discovery
 
-> *Semantic Knowledge Graph (SKG) - markdown serialization for search, discovery, and graph database integration*
+[📖 README](./README.md) · [🖼️ Infographic](./22%20Jan%20-%20Vibe%20Coding%20Workflow%20Ecosystem%20Diagram.jpg) · [📑 Slides](./22%20Jan%20-%20Vibe_Coding_Product_Fit.pdf) · [🏠 Home](../../../../README.md)
+
+> *Semantic Knowledge Graph (SKG) — machine-readable metadata for search, discovery, and graph database integration*
 
 ---
 

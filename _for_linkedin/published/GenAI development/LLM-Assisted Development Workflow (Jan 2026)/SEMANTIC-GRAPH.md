@@ -1,6 +1,8 @@
 # LLM-Assisted Development Workflow (Jan 2026)
 
-> *Semantic Knowledge Graph (SKG) - markdown serialization for search, discovery, and graph database integration*
+[📖 README](./README.md) · [🖼️ Infographic](./22Jan%20-%20Disciplined%20LLM-Assisted%20Development%20Workflow.jpg) · [📑 Slides](./AI_Engineering_Discipline.pdf) · [🏠 Home](../../../../README.md)
+
+> *Semantic Knowledge Graph (SKG) — machine-readable metadata for search, discovery, and graph database integration*
 
 ---
 

@@ -1,6 +1,8 @@
 # Unbaking the Cake - Capturing Data Before Entropy
 
-> *Semantic Knowledge Graph (SKG) - markdown serialization for search, discovery, and graph database integration*
+[📖 README](./README.md) · [🖼️ Infographic](./24%20Jan%20-%20The%20Case%20for%20Native%20Data%20Capture.jpg) · [📑 Slides](./24%20Jan%20-%20Capture_Not_Retrieval.pdf) · [🏠 Home](../../../../README.md)
+
+> *Semantic Knowledge Graph (SKG) — machine-readable metadata for search, discovery, and graph database integration*
 
 ---
 

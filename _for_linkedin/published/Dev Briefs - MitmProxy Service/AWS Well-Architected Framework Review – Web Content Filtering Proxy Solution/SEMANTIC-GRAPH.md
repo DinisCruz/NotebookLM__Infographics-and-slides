@@ -1,6 +1,8 @@
 # AWS Well-Architected Framework Review – Web Content Filtering Proxy Solution
 
-> *Semantic Knowledge Graph (SKG) - markdown serialization for search, discovery, and graph database integration*
+[📖 README](./README.md) · [🖼️ Infographic](./22%20Jan%20-%20Cloud%20Proxy%20Risk%20and%20Optimisation..jpg) · [📑 Slides](./22%20Jan%20-%20Web_Content_Filtering_Proxy_Audit.pdf) · [🏠 Home](../../../../README.md)
+
+> *Semantic Knowledge Graph (SKG) — machine-readable metadata for search, discovery, and graph database integration*
 
 ---
 

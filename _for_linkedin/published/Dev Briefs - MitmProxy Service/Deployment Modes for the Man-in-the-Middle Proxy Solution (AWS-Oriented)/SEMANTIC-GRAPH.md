@@ -1,6 +1,8 @@
 # Deployment Modes for the Man-in-the-Middle Proxy Solution (AWS-Oriented)
 
-> *Semantic Knowledge Graph (SKG) - markdown serialization for search, discovery, and graph database integration*
+[📖 README](./README.md) · [🖼️ Infographic](./23%20Jan%20-%20MiTM%20Proxy%20Scaling%20Strategies.jpg) · [📑 Slides](./23%20Jan-%20Deployment_Modes_Scaling_the_MiTM_Proxy.pdf) · [🏠 Home](../../../../README.md)
+
+> *Semantic Knowledge Graph (SKG) — machine-readable metadata for search, discovery, and graph database integration*
 
 ---
 
