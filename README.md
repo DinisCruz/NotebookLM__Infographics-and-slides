@@ -41,12 +41,49 @@ A collection of AI-generated infographics and slide decks created using Google's
 ## 🗂️ Folder Structure
 
 ```
+├── CLAUDE.md              # Claude Code context (auto-loaded)
+├── .claude/               # Detailed workflow guides for Claude
 ├── by-topic/              # Primary content - organized by subject
 ├── by-collaborator/       # Content organized by contributor
+├── curated-guides/        # Themed collections
 └── _for_linkedin/         # LinkedIn publishing pipeline
-    ├── published/
+    ├── published/         # Enhanced with SEMANTIC-GRAPH.md
     └── to-publish/
 ```
+
+---
+
+## 🤖 Claude Code / Cowork Integration
+
+This repository includes comprehensive workflow guides for [Claude Code](https://claude.ai/code) and [Cowork](https://claude.ai) sessions. Claude automatically loads context when working in this repo.
+
+### What's Included
+
+| File | Purpose |
+|------|---------|
+| [`CLAUDE.md`](./CLAUDE.md) | Quick context auto-loaded at session start |
+| [`.claude/`](./.claude/) | Detailed workflow guides |
+
+### Key Features
+
+- **SEMANTIC-GRAPH.md files** — Machine-readable metadata with Mermaid diagrams and Neo4j Cypher export
+- **Slide mosaics** — 4x4 grid previews of slide decks
+- **Structured READMEs** — Navigation, embedded images, prominent SKG sections
+- **Curated guides** — Themed collections linking related content
+
+### Example Workflow
+
+Claude can help with:
+1. Creating `SEMANTIC-GRAPH.md` files with Mermaid visualizations
+2. Generating slide mosaics from PDF decks
+3. Building navigation-rich README files
+4. Importing graphs into Neo4j for visualization
+
+**See it in action:** [Semantic Knowledge Graphs Collection](./curated-guides/semantic-knowledge-graphs/)
+
+> 💡 **Tip:** This `.claude/` folder is a good example of how to structure AI workflow guides for your own repositories. See [.claude/README.md](./.claude/README.md) for the full guide index.
+
+---
 
 ## 🏷️ Key Themes
 
@@ -66,16 +103,33 @@ These materials are designed for technical presentations, LinkedIn thought leade
 
 **File naming convention:** `DD Mon - Topic_Title.pdf` (e.g., `23 Dec - Python_Performance_Profiling_Made_Easy.pdf`)
 
+### Enhanced Content (January 2026)
+
+Select published content now includes:
+- **SEMANTIC-GRAPH.md** — Structured metadata with Mermaid diagrams
+- **slides_mosaic.png** — Visual preview of all slides
+- **Neo4j Cypher** — Ready-to-import graph database queries
+
+See [curated-guides/semantic-knowledge-graphs/](./curated-guides/semantic-knowledge-graphs/) for examples.
+
+---
+
 ## 🛠️ Tools Used
 
 | Tool | Purpose |
 |------|---------|
 | **Google NotebookLM** | AI-powered content generation |
-| **Various AI Tools** | Infographic creation |
+| **Claude Code / Cowork** | Documentation enhancement, SEMANTIC-GRAPH.md creation |
+| **Neo4j** | Knowledge graph visualization |
+| **Mermaid** | Diagram-as-code (GitHub-rendered) |
+
+---
 
 ## 👤 Author
 
 **Dinis Cruz** - [@DinisCruz](https://github.com/DinisCruz)
+
+---
 
 ## 📜 License
 
