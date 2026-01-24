@@ -1,6 +1,6 @@
 # Vibe Coding Workflow for Rapid Product-Market Fit Discovery
 
-[Home](../../../../README.md) > [By Topic](../../../README.md) > [GenAI Development](../README.md) > Vibe Coding Workflow for Product-Market Fit
+[← Back to GenAI Development](../README.md) · [Published](../../README.md) · [Home](../../../../README.md)
 
 ---
 

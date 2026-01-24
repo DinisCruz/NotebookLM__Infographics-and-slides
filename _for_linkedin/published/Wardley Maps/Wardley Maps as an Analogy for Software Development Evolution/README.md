@@ -1,6 +1,6 @@
 # Wardley Maps as an Analogy for Software Development Evolution
 
-[Home](../../../../README.md) > [By Topic](../../../README.md) > [Wardley Maps](../README.md) > Wardley Maps as an Analogy for Software Development
+[← Back to Wardley Maps](../README.md) · [Published](../../README.md) · [Home](../../../../README.md)
 
 ---
 

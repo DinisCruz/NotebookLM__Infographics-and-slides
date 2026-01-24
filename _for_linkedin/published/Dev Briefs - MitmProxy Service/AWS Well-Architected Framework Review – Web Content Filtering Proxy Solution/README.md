@@ -1,6 +1,6 @@
 # AWS Well-Architected Framework Review – Web Content Filtering Proxy Solution
 
-[← Back to mitmproxy-service](../README.md) · [Dev Briefs](../../README.md) · [By Topic](../../../README.md)
+[← Back to Dev Briefs - MitmProxy Service](../README.md) · [Published](../../README.md) · [Home](../../../../README.md)
 
 ---
 

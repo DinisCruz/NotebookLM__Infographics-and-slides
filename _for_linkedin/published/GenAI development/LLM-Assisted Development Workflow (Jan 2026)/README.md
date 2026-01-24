@@ -1,6 +1,6 @@
 # LLM-Assisted Development Workflow (Jan 2026)
 
-[Home](../../../../README.md) > [By Topic](../../../README.md) > [GenAI Development](../README.md) > LLM-Assisted Development Workflow
+[← Back to GenAI Development](../README.md) · [Published](../../README.md) · [Home](../../../../README.md)
 
 ---
 
