@@ -2,6 +2,18 @@
 
 [← Back to GenAI Development](../README.md) · [Published](../../README.md) · [Home](../../../../README.md)
 
+| 📄 Source | 🖼️ Infographic | 📑 Slides |
+|-----------|----------------|-----------|
+| [Source Doc](./Vibe%20Coding%20Workflow%20for%20Rapid%20Product-Market%20Fit%20Discovery.pdf) | [View Image](./22%20Jan%20-%20Vibe%20Coding%20Workflow%20Ecosystem%20Diagram.jpg) | [Slide Deck](./22%20Jan%20-%20Vibe_Coding_Product_Fit.pdf) |
+
+> Generated with [Google NotebookLM](https://notebooklm.google.com/) — Source document → Infographic → Slide deck
+
+---
+
+## 🖼️ Infographic
+
+![Vibe Coding Workflow Ecosystem Diagram](./22%20Jan%20-%20Vibe%20Coding%20Workflow%20Ecosystem%20Diagram.jpg)
+
 ---
 
 ## Overview

@@ -2,6 +2,18 @@
 
 [← Back to Wardley Maps](../README.md) · [Published](../../README.md) · [Home](../../../../README.md)
 
+| 📄 Source | 🖼️ Infographic | 📑 Slides |
+|-----------|----------------|-----------|
+| [Source Doc](./Wardley%20Maps%20as%20an%20Analogy%20for%20Software%20Development%20Evolution.pdf) | [View Image](./22%20Jan%20-%20Mapping%20Software%20Evolution%20to%20Commodity.jpg) | [Slide Deck](./22%20Jan%20-%20Strategic_Code_Evolution.pdf) |
+
+> Generated with [Google NotebookLM](https://notebooklm.google.com/) — Source document → Infographic → Slide deck
+
+---
+
+## 🖼️ Infographic
+
+![Mapping Software Evolution to Commodity](./22%20Jan%20-%20Mapping%20Software%20Evolution%20to%20Commodity.jpg)
+
 ---
 
 ## Overview

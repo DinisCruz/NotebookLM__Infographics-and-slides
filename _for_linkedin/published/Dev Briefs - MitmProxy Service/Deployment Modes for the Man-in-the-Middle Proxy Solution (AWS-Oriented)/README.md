@@ -2,6 +2,18 @@
 
 [← Back to Dev Briefs - MitmProxy Service](../README.md) · [Published](../../README.md) · [Home](../../../../README.md)
 
+| 📄 Source | 🖼️ Infographic | 📑 Slides |
+|-----------|----------------|-----------|
+| [Source Doc](./Deployment%20Modes%20for%20the%20Man-in-the-Middle%20Proxy%20Solution%20%28AWS-Oriented%29.pdf) | [View Image](./23%20Jan%20-%20MiTM%20Proxy%20Scaling%20Strategies.jpg) | [Slide Deck](./23%20Jan-%20Deployment_Modes_Scaling_the_MiTM_Proxy.pdf) |
+
+> Generated with [Google NotebookLM](https://notebooklm.google.com/) — Source document → Infographic → Slide deck
+
+---
+
+## 🖼️ Infographic
+
+![MiTM Proxy Scaling Strategies](./23%20Jan%20-%20MiTM%20Proxy%20Scaling%20Strategies.jpg)
+
 ---
 
 ## Overview

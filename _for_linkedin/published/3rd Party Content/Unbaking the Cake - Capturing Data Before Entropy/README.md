@@ -2,6 +2,18 @@
 
 [← Back to 3rd Party Content](../README.md) · [Published](../../README.md) · [Home](../../../../README.md)
 
+| 📄 Source | 🖼️ Infographic | 📑 Deep Dive |
+|-----------|----------------|--------------|
+| [source.txt](./source.txt) | [View Image](./24%20Jan%20-%20The%20Case%20for%20Native%20Data%20Capture.jpg) | [PDF Document](./24%20Jan%20-%20Capture_Not_Retrieval.pdf) |
+
+> Generated with [Google NotebookLM](https://notebooklm.google.com/) — Source post → Infographic → Deep dive document
+
+---
+
+## 🖼️ Infographic
+
+![The Case for Native Data Capture](./24%20Jan%20-%20The%20Case%20for%20Native%20Data%20Capture.jpg)
+
 ---
 
 ## Overview

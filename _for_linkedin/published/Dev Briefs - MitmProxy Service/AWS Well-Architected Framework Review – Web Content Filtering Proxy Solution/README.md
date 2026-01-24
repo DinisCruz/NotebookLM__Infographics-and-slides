@@ -2,6 +2,18 @@
 
 [← Back to Dev Briefs - MitmProxy Service](../README.md) · [Published](../../README.md) · [Home](../../../../README.md)
 
+| 📄 Source | 🖼️ Infographic | 📑 Slides |
+|-----------|----------------|-----------|
+| [Source Doc](./AWS%20Well-Architected%20Framework%20Review%20–%20Web%20Content%20Filtering%20Proxy%20Solution.pdf) | [View Image](./22%20Jan%20-%20Cloud%20Proxy%20Risk%20and%20Optimisation..jpg) | [Slide Deck](./22%20Jan%20-%20Web_Content_Filtering_Proxy_Audit.pdf) |
+
+> Generated with [Google NotebookLM](https://notebooklm.google.com/) — Source document → Infographic → Slide deck
+
+---
+
+## 🖼️ Infographic
+
+![Cloud Proxy Risk and Optimisation](./22%20Jan%20-%20Cloud%20Proxy%20Risk%20and%20Optimisation..jpg)
+
 ---
 
 ## Overview

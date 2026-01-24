@@ -2,6 +2,18 @@
 
 [← Back to GenAI Development](../README.md) · [Published](../../README.md) · [Home](../../../../README.md)
 
+| 📄 Source | 🖼️ Infographic | 📑 Slides |
+|-----------|----------------|-----------|
+| [Source Doc](./LLM-Assisted%20Development%20Workflow%20%28Jan%202026%29.pdf) | [View Image](./22Jan%20-%20Disciplined%20LLM-Assisted%20Development%20Workflow.jpg) | [Slide Deck](./AI_Engineering_Discipline.pdf) |
+
+> Generated with [Google NotebookLM](https://notebooklm.google.com/) — Source document → Infographic → Slide deck
+
+---
+
+## 🖼️ Infographic
+
+![Disciplined LLM-Assisted Development Workflow](./22Jan%20-%20Disciplined%20LLM-Assisted%20Development%20Workflow.jpg)
+
 ---
 
 ## Overview
