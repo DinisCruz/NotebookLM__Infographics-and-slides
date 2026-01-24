@@ -20,19 +20,16 @@
 
 Comprehensive workflow documentation for AI-augmented software engineering, treating the LLM as a powerful pair programmer requiring clear direction, context, and human oversight. The document outlines a five-stage process: requirements gathering with focused context, iterative planning and architecture brainstorming, detailed specification development, code generation, and testing/debugging refinement.
 
-## LinkedIn Posts
-
-| Post | URL |
-|------|-----|
-| (Check webloc files for links) | |
-
 ## Contents
 
 | File | Description |
 |------|-------------|
-| `LLM-Assisted Development Workflow (Jan 2026).pdf` | Full workflow guide (10 pages) |
-| `*.webloc` | LinkedIn post bookmarks |
-| `CONTENT.md` | Semantic Knowledge Graph metadata for search and discovery |
+| [LLM-Assisted Development Workflow (Jan 2026).pdf](./LLM-Assisted%20Development%20Workflow%20%28Jan%202026%29.pdf) | Full workflow guide (10 pages) |
+| [22Jan - Disciplined LLM-Assisted Development Workflow.jpg](./22Jan%20-%20Disciplined%20LLM-Assisted%20Development%20Workflow.jpg) | Infographic visualization |
+| [AI_Engineering_Discipline.pdf](./AI_Engineering_Discipline.pdf) | NotebookLM slide deck |
+| [LinkedIn post (Infographic)](https://www.linkedin.com/posts/diniscruz_here-is-the-workflow-that-i-use-when-coding-activity-7420090079521447937-WEjv/) | LinkedIn post with infographic |
+| [LinkedIn post (Slides)](https://www.linkedin.com/posts/diniscruz_my-genai-development-workflow-activity-7420090880356814848-bpmb/) | LinkedIn post with slide deck |
+| [CONTENT.md](./CONTENT.md) | Semantic Knowledge Graph metadata |
 
 ## Key Topics
 

@@ -26,10 +26,11 @@ The target system intercepts user web requests, deconstructs HTML content into c
 
 | File | Description |
 |------|-------------|
-| `AWS Well-Architected Framework Review – Web Content Filtering Proxy Solution.pdf` | Source analysis document (19 pages) |
-| `22 Jan - Cloud Proxy Risk and Optimisation..jpg` | Infographic: risk and optimization analysis |
-| `22 Jan - Web_Content_Filtering_Proxy_Audit.pdf` | NotebookLM deep dive presentation |
-| `CONTENT.md` | Semantic Knowledge Graph metadata |
+| [AWS Well-Architected Framework Review – Web Content Filtering Proxy Solution.pdf](./AWS%20Well-Architected%20Framework%20Review%20–%20Web%20Content%20Filtering%20Proxy%20Solution.pdf) | Source analysis document (19 pages) |
+| [22 Jan - Cloud Proxy Risk and Optimisation..jpg](./22%20Jan%20-%20Cloud%20Proxy%20Risk%20and%20Optimisation..jpg) | Infographic: risk and optimization analysis |
+| [22 Jan - Web_Content_Filtering_Proxy_Audit.pdf](./22%20Jan%20-%20Web_Content_Filtering_Proxy_Audit.pdf) | NotebookLM deep dive presentation |
+| [LinkedIn post](https://www.linkedin.com/posts/diniscruz_web-content-filtering-proxy-audit-ugcPost-7420502543375708160-jcrE/) | LinkedIn post with slide deck |
+| [CONTENT.md](./CONTENT.md) | Semantic Knowledge Graph metadata |
 
 ## Key Topics
 

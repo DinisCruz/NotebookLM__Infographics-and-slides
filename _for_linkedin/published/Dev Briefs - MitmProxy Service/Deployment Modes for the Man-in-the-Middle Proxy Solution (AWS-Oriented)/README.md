@@ -26,11 +26,11 @@ Comprehensive guide to six deployment models for the MiTM proxy solution, rangin
 
 | File | Description |
 |------|-------------|
-| `Deployment Modes for the Man-in-the-Middle Proxy Solution (AWS-Oriented).pdf` | Main deployment guide (9 pages) |
-| `23 Jan- Deployment_Modes_Scaling_the_MiTM_Proxy.pdf` | NotebookLM deep dive on scaling |
-| `23 Jan - MiTM Proxy Scaling Strategies.jpg` | Infographic on scaling strategies |
-| `LinkedIn post with slides.webloc` | LinkedIn post with slide deck |
-| `CONTENT.md` | Semantic Knowledge Graph metadata |
+| [Deployment Modes for the Man-in-the-Middle Proxy Solution (AWS-Oriented).pdf](./Deployment%20Modes%20for%20the%20Man-in-the-Middle%20Proxy%20Solution%20%28AWS-Oriented%29.pdf) | Main deployment guide (9 pages) |
+| [23 Jan- Deployment_Modes_Scaling_the_MiTM_Proxy.pdf](./23%20Jan-%20Deployment_Modes_Scaling_the_MiTM_Proxy.pdf) | NotebookLM deep dive on scaling |
+| [23 Jan - MiTM Proxy Scaling Strategies.jpg](./23%20Jan%20-%20MiTM%20Proxy%20Scaling%20Strategies.jpg) | Infographic on scaling strategies |
+| [LinkedIn post](https://www.linkedin.com/posts/diniscruz_deployment-modes-scaling-the-mitm-proxy-ugcPost-7420506134899298304-5N77/) | LinkedIn post with slide deck |
+| [CONTENT.md](./CONTENT.md) | Semantic Knowledge Graph metadata |
 
 ---
 

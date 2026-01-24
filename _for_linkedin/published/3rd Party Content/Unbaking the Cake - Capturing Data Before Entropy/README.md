@@ -26,13 +26,13 @@ A thought-provoking LinkedIn post by Timothy Cook challenging the current approa
 
 | File | Description |
 |------|-------------|
-| `source.txt` | Original LinkedIn post text with attribution |
-| `24 Jan - Capture_Not_Retrieval.pdf` | NotebookLM-generated deep dive document |
-| `24 Jan - The Case for Native Data Capture.jpg` | Infographic visualization |
-| `LinkedIn - Timothy Cook.webloc` | Link to author's LinkedIn profile |
-| `LinkedIn - Source post.webloc` | Link to original LinkedIn post |
-| `LinkedIn - My post about the source post.webloc` | Link to Dinis Cruz's commentary post |
-| `CONTENT.md` | Semantic Knowledge Graph metadata |
+| [source.txt](./source.txt) | Original LinkedIn post text with attribution |
+| [24 Jan - Capture_Not_Retrieval.pdf](./24%20Jan%20-%20Capture_Not_Retrieval.pdf) | NotebookLM-generated deep dive document |
+| [24 Jan - The Case for Native Data Capture.jpg](./24%20Jan%20-%20The%20Case%20for%20Native%20Data%20Capture.jpg) | Infographic visualization |
+| [Timothy Cook](https://www.linkedin.com/in/timothywaynecook/) | Author's LinkedIn profile |
+| [Source post](https://www.linkedin.com/feed/update/urn:li:activity:7419714503782850560/) | Original LinkedIn post |
+| [My commentary post](https://www.linkedin.com/feed/update/urn:li:activity:7420815037105172480/) | Dinis Cruz's commentary post |
+| [CONTENT.md](./CONTENT.md) | Semantic Knowledge Graph metadata |
 
 ---
 

@@ -20,21 +20,15 @@
 
 Workflow document describing a rapid prototyping approach using AI-assisted coding for product-market fit discovery. Built around a MITM proxy infrastructure with page caching and version serving, the workflow enables CEO/CPO "vibe coders" to quickly create and demo webpage transformations to pilot customers, identifying which features elicit a "Yes, I want this!" reaction.
 
-## LinkedIn Posts
-
-| Post | URL |
-|------|-----|
-| Slide post | (See `LinkedIn post about Slide.webloc`) |
-
 ## Contents
 
 | File | Description |
 |------|-------------|
-| `Vibe Coding Workflow for Rapid Product-Market Fit Discovery.pdf` | Full workflow guide (8 pages) |
-| `22 Jan - Vibe_Coding_Product_Fit.pdf` | Extended product fit document |
-| `22 Jan - Vibe Coding Workflow Ecosystem Diagram.jpg` | Visual workflow diagram |
-| `LinkedIn post about Slide.webloc` | LinkedIn post bookmark |
-| `CONTENT.md` | Semantic Knowledge Graph metadata for search and discovery |
+| [Vibe Coding Workflow for Rapid Product-Market Fit Discovery.pdf](./Vibe%20Coding%20Workflow%20for%20Rapid%20Product-Market%20Fit%20Discovery.pdf) | Full workflow guide (8 pages) |
+| [22 Jan - Vibe_Coding_Product_Fit.pdf](./22%20Jan%20-%20Vibe_Coding_Product_Fit.pdf) | NotebookLM slide deck |
+| [22 Jan - Vibe Coding Workflow Ecosystem Diagram.jpg](./22%20Jan%20-%20Vibe%20Coding%20Workflow%20Ecosystem%20Diagram.jpg) | Visual workflow diagram |
+| [LinkedIn post](https://www.linkedin.com/posts/diniscruz_vibe-coding-to-discover-product-market-fit-activity-7420157833951780864-Pa1M/) | LinkedIn post with slide deck |
+| [CONTENT.md](./CONTENT.md) | Semantic Knowledge Graph metadata |
 
 ## Key Topics
 

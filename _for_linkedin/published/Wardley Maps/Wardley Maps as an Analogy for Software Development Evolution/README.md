@@ -20,21 +20,15 @@
 
 White paper exploring how Wardley Maps' evolution stages (Genesis → Custom-Built → Product → Commodity) provide a powerful analogy for software development decisions. The document demonstrates how identifying each module's evolutionary stage informs refactoring priorities, resource allocation, and LLM-assisted development workflows where code history becomes the best brief for generating improved implementations.
 
-## LinkedIn Posts
-
-| Post | URL |
-|------|-----|
-| Slide post | (See `LinkedIn post with Slide.webloc`) |
-
 ## Contents
 
 | File | Description |
 |------|-------------|
-| `Wardley Maps as an Analogy for Software Development Evolution.pdf` | Full white paper (7 pages) |
-| `22 Jan - Strategic_Code_Evolution.pdf` | Extended strategic analysis |
-| `22 Jan - Mapping Software Evolution to Commodity.jpg` | Visual evolution diagram |
-| `LinkedIn post with Slide.webloc` | LinkedIn post bookmark |
-| `CONTENT.md` | Semantic Knowledge Graph metadata for search and discovery |
+| [Wardley Maps as an Analogy for Software Development Evolution.pdf](./Wardley%20Maps%20as%20an%20Analogy%20for%20Software%20Development%20Evolution.pdf) | Full white paper (7 pages) |
+| [22 Jan - Strategic_Code_Evolution.pdf](./22%20Jan%20-%20Strategic_Code_Evolution.pdf) | NotebookLM slide deck |
+| [22 Jan - Mapping Software Evolution to Commodity.jpg](./22%20Jan%20-%20Mapping%20Software%20Evolution%20to%20Commodity.jpg) | Visual evolution diagram |
+| [LinkedIn post](https://www.linkedin.com/posts/diniscruz_wardley-maps-strategic-code-evolution-activity-7420165433149890561-J1a3/) | LinkedIn post with slide deck |
+| [CONTENT.md](./CONTENT.md) | Semantic Knowledge Graph metadata |
 
 ## Key Topics
 
