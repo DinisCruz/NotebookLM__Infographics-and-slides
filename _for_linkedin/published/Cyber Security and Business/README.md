@@ -10,3 +10,4 @@
 |--------|------|-------|-------------|
 | [GenCloudTwin: Cloud Digital Twin with Semantic Graphs](./%282%20Jan%29%20-%20%20GenCloudTwin%20-%20Creating%20a%20Cloud%20Environment%20Digital%20Twin%20with%20Semantic%20Knowledge%20Graphs/) | Business | 3 | - |
 | [Ephemeral Cloud Environments & GenCloudBCP](./%282%20Jan%29%20-%20Ephemeral%20Cloud%20Environments%20and%20GenCloudBCP_%20A%20New%20Paradigm%20for%20Resilience%20and%20Disaster%20Recovery/) | Business | 3 | - |
+| [Portugal - Dynamic Weather-Driven Algarve Tourism Campaign](./Portugal%20-%20Dynamic%20Weather-Driven%20Algarve%20Tourism%20Campaign/) | Business | 10 | Weather-triggered DOOH ads with GenAI |

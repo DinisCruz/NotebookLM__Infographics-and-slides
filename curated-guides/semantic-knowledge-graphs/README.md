@@ -25,6 +25,7 @@ This collection showcases the new Semantic Knowledge Graph format applied to Not
 | 4 | GenAI Development | [LLM-Assisted Development](../../_for_linkedin/published/GenAI%20development/LLM-Assisted%20Development%20Workflow%20%28Jan%202026%29/) | Context engineering, human-in-the-loop workflows |
 | 5 | MitmProxy Service | [AWS Well-Architected Review](../../_for_linkedin/published/Dev%20Briefs%20-%20MitmProxy%20Service/AWS%20Well-Architected%20Framework%20Review%20–%20Web%20Content%20Filtering%20Proxy%20Solution/) | Six pillars assessment, architecture review |
 | 6 | MitmProxy Service | [Deployment Modes](../../_for_linkedin/published/Dev%20Briefs%20-%20MitmProxy%20Service/Deployment%20Modes%20for%20the%20Man-in-the-Middle%20Proxy%20Solution%20%28AWS-Oriented%29/) | Six deployment patterns, stateless architecture |
+| 7 | Tourism & Marketing | [Algarve Tourism Campaign](../../_for_linkedin/published/Cyber%20Security%20and%20Business/Portugal%20-%20Dynamic%20Weather-Driven%20Algarve%20Tourism%20Campaign/) | Weather-triggered DOOH ads, GenAI personalization |
 
 ---
 
@@ -38,6 +39,7 @@ This collection showcases the new Semantic Knowledge Graph format applied to Not
 | LLM-Assisted Development | [View Graph](../../_for_linkedin/published/GenAI%20development/LLM-Assisted%20Development%20Workflow%20%28Jan%202026%29/SEMANTIC-GRAPH.md) | ✅ |
 | AWS Well-Architected Review | [View Graph](../../_for_linkedin/published/Dev%20Briefs%20-%20MitmProxy%20Service/AWS%20Well-Architected%20Framework%20Review%20–%20Web%20Content%20Filtering%20Proxy%20Solution/SEMANTIC-GRAPH.md) | ✅ |
 | Deployment Modes | [View Graph](../../_for_linkedin/published/Dev%20Briefs%20-%20MitmProxy%20Service/Deployment%20Modes%20for%20the%20Man-in-the-Middle%20Proxy%20Solution%20%28AWS-Oriented%29/SEMANTIC-GRAPH.md) | ✅ |
+| Algarve Tourism Campaign | [View Graph](../../_for_linkedin/published/Cyber%20Security%20and%20Business/Portugal%20-%20Dynamic%20Weather-Driven%20Algarve%20Tourism%20Campaign/SEMANTIC-GRAPH.md) | ✅ |
 
 ---
 
@@ -73,10 +75,10 @@ Each file follows a consistent structure:
 
 | Metric | Count |
 |--------|-------|
-| Documents with SEMANTIC-GRAPH.md | 6 |
-| Mermaid diagrams | ~25 |
-| Neo4j-importable graphs | 6 |
-| Unique topic areas covered | 4 |
+| Documents with SEMANTIC-GRAPH.md | 7 |
+| Mermaid diagrams | ~30 |
+| Neo4j-importable graphs | 7 |
+| Unique topic areas covered | 5 |
 
 ---
 
