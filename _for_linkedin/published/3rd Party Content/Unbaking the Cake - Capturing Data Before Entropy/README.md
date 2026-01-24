@@ -32,7 +32,7 @@
 
 > **Machine-readable metadata** — Structured content for search, discovery, and graph database integration
 
-This document includes a comprehensive [CONTENT.md](./CONTENT.md) file containing:
+This document includes a comprehensive [SEMANTIC-GRAPH.md](./SEMANTIC-GRAPH.md) file containing:
 
 | Section | Description |
 |---------|-------------|
@@ -44,7 +44,7 @@ This document includes a comprehensive [CONTENT.md](./CONTENT.md) file containin
 | **Ontology & Taxonomy** | Structured hierarchy for knowledge graphs |
 | **Graph Nodes & Edges** | Ready-to-import relationships for Neo4j/similar |
 
-[📖 View CONTENT.md](./CONTENT.md)
+[📖 View SEMANTIC-GRAPH.md](./SEMANTIC-GRAPH.md)
 
 ---
 
@@ -73,7 +73,7 @@ The argument reframes the GenAI industry's obsession with unstructured data proc
 | [source.txt](./source.txt) | Original LinkedIn post text with attribution |
 | [24 Jan - Capture_Not_Retrieval.pdf](./24%20Jan%20-%20Capture_Not_Retrieval.pdf) | NotebookLM-generated deep dive document |
 | [24 Jan - The Case for Native Data Capture.jpg](./24%20Jan%20-%20The%20Case%20for%20Native%20Data%20Capture.jpg) | Infographic visualization |
-| [CONTENT.md](./CONTENT.md) | Semantic Knowledge Graph metadata |
+| [SEMANTIC-GRAPH.md](./SEMANTIC-GRAPH.md) | Semantic Knowledge Graph metadata |
 
 ---
 

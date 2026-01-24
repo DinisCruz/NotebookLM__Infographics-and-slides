@@ -413,3 +413,22 @@ CREATE (capture)-[:PREVENTS]->(entropy)
 CREATE (capture)-[:PRESERVES]->(structured)
 CREATE (structured)-[:TRANSFORMED_FROM]->(unstructured)
 ```
+
+---
+
+### Neo4j Visualization
+
+![Semantic Knowledge Graph in Neo4j](./neo4j-view-of-semantic-graph.png)
+
+**How to import and visualize this graph in Neo4j:**
+
+1. **Create a free Neo4j Sandbox** at [sandbox.neo4j.com](https://sandbox.neo4j.com/) — select "Blank Sandbox"
+2. **Open Neo4j Browser** and paste the Cypher code above into the query editor
+3. **Run the query** (click the play button or press Ctrl+Enter)
+4. **Visualize the graph** with this query:
+   ```cypher
+   MATCH p=()-[]-()
+   RETURN p
+   ```
+
+This renders all nodes and relationships, showing how concepts like *Data Entropy*, *Native Semantic Capture*, and *RAG Pipeline* interconnect as a visual knowledge graph.

@@ -2,6 +2,8 @@
 
 [← Back to Wardley Maps](../README.md) · [Published](../../README.md) · [Home](../../../../README.md)
 
+> White paper exploring how Wardley Maps' evolution stages (Genesis → Custom-Built → Product → Commodity) provide a powerful analogy for software development decisions. The document demonstrates how identifying each module's evolutionary stage informs refactoring priorities, resource allocation, and LLM-assisted development workflows where code history becomes the best brief for generating improved implementations.
+
 | 📄 Source | 🖼️ Infographic | 📑 Slides |
 |-----------|----------------|-----------|
 | [Source Doc](./Wardley%20Maps%20as%20an%20Analogy%20for%20Software%20Development%20Evolution.pdf) | [View Image](./22%20Jan%20-%20Mapping%20Software%20Evolution%20to%20Commodity.jpg) | [Slide Deck](./22%20Jan%20-%20Strategic_Code_Evolution.pdf) |
@@ -16,29 +18,35 @@
 
 ---
 
-## 📑 Slide Deck Preview
+## 📑 Slide Deck (15 slides)
 
 > **Deep Dive Presentation** — NotebookLM-generated slide deck on strategic code evolution using Wardley Maps
 
-[![Slide Deck Preview](./slide_preview-01.png)](./22%20Jan%20-%20Strategic_Code_Evolution.pdf)
+[![All Slides](./slides_mosaic.png)](./22%20Jan%20-%20Strategic_Code_Evolution.pdf)
 
-*Click the image above to open the full slide deck*
+*Click image to open the slide deck* · [⬇️ Download PDF](https://github.com/DinisCruz/NotebookLM__Infographics-and-slides/raw/refs/heads/main/_for_linkedin/published/Wardley%20Maps/Wardley%20Maps%20as%20an%20Analogy%20for%20Software%20Development%20Evolution/22%20Jan%20-%20Strategic_Code_Evolution.pdf)
 
 ---
 
-## Overview
+## 🧠 Semantic Knowledge Graph
 
-White paper exploring how Wardley Maps' evolution stages (Genesis → Custom-Built → Product → Commodity) provide a powerful analogy for software development decisions. The document demonstrates how identifying each module's evolutionary stage informs refactoring priorities, resource allocation, and LLM-assisted development workflows where code history becomes the best brief for generating improved implementations.
+> **Machine-readable metadata** — Structured content for search, discovery, and graph database integration
 
-## Contents
+This document includes a comprehensive [SEMANTIC-GRAPH.md](./SEMANTIC-GRAPH.md) file containing:
 
-| File | Description |
-|------|-------------|
-| [Wardley Maps as an Analogy for Software Development Evolution.pdf](./Wardley%20Maps%20as%20an%20Analogy%20for%20Software%20Development%20Evolution.pdf) | Full white paper (7 pages) |
-| [22 Jan - Strategic_Code_Evolution.pdf](./22%20Jan%20-%20Strategic_Code_Evolution.pdf) | NotebookLM slide deck |
-| [22 Jan - Mapping Software Evolution to Commodity.jpg](./22%20Jan%20-%20Mapping%20Software%20Evolution%20to%20Commodity.jpg) | Visual evolution diagram |
-| [LinkedIn post](https://www.linkedin.com/posts/diniscruz_wardley-maps-strategic-code-evolution-activity-7420165433149890561-J1a3/) | LinkedIn post with slide deck |
-| [CONTENT.md](./CONTENT.md) | Semantic Knowledge Graph metadata |
+| Section | Description |
+|---------|-------------|
+| **Summary** | Concise overview of the core thesis |
+| **Key Concepts** | 6 main ideas with detailed explanations |
+| **Core Arguments** | 6 numbered arguments from the source |
+| **Key Quotes** | 4 memorable quotes for reference |
+| **Tags & Search Phrases** | 12 tags + 10 search phrases for discovery |
+| **Ontology & Taxonomy** | Structured hierarchy for knowledge graphs |
+| **Graph Nodes & Edges** | Ready-to-import relationships for Neo4j/similar |
+
+[📖 View SEMANTIC-GRAPH.md](./SEMANTIC-GRAPH.md)
+
+---
 
 ## Key Topics
 
@@ -57,11 +65,27 @@ White paper exploring how Wardley Maps' evolution stages (Genesis → Custom-Bui
 | Product | Stable internal library | Reuse confidently |
 | Commodity | Open-source/cloud service | Use as-is, don't reinvent |
 
-## Source
+---
 
-- **Authors**: Dinis Cruz and ChatGPT Deep Research
-- **Date**: January 2026
-- **References**: Simon Wardley's mapping framework, Joel Spolsky on code rewrites
+## Contents
+
+| File | Description |
+|------|-------------|
+| [Wardley Maps as an Analogy for Software Development Evolution.pdf](./Wardley%20Maps%20as%20an%20Analogy%20for%20Software%20Development%20Evolution.pdf) | Full white paper (7 pages) |
+| [22 Jan - Strategic_Code_Evolution.pdf](./22%20Jan%20-%20Strategic_Code_Evolution.pdf) | NotebookLM slide deck |
+| [22 Jan - Mapping Software Evolution to Commodity.jpg](./22%20Jan%20-%20Mapping%20Software%20Evolution%20to%20Commodity.jpg) | Visual evolution diagram |
+| [LinkedIn Post](https://www.linkedin.com/posts/diniscruz_wardley-maps-strategic-code-evolution-activity-7420165433149890561-J1a3/) | LinkedIn post with slide deck |
+| [SEMANTIC-GRAPH.md](./SEMANTIC-GRAPH.md) | Semantic Knowledge Graph metadata |
+
+---
+
+## Source Information
+
+| Field | Value |
+|-------|-------|
+| **Authors** | Dinis Cruz, ChatGPT Deep Research |
+| **Date** | January 2026 |
+| **References** | Simon Wardley's mapping framework, Joel Spolsky on code rewrites |
 
 ---
 

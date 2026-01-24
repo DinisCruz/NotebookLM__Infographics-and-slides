@@ -2,6 +2,8 @@
 
 [← Back to Dev Briefs - MitmProxy Service](../README.md) · [Published](../../README.md) · [Home](../../../../README.md)
 
+> Technical guide presenting six deployment models for the MiTM proxy solution, spanning the spectrum from single-machine monolith to fully distributed cloud-native microservices. The architecture's stateless design—externalizing state to S3—enables horizontal scaling across all models. Each deployment mode offers different trade-offs: all-in-one for simplicity, split tiers for security segmentation, single Lambda for serverless benefits, multiple Lambdas for maximum granularity, Kubernetes for container portability, and offline mode for air-gapped environments.
+
 | 📄 Source | 🖼️ Infographic | 📑 Slides |
 |-----------|----------------|-----------|
 | [Source Doc](./Deployment%20Modes%20for%20the%20Man-in-the-Middle%20Proxy%20Solution%20%28AWS-Oriented%29.pdf) | [View Image](./23%20Jan%20-%20MiTM%20Proxy%20Scaling%20Strategies.jpg) | [Slide Deck](./23%20Jan-%20Deployment_Modes_Scaling_the_MiTM_Proxy.pdf) |
@@ -16,19 +18,54 @@
 
 ---
 
-## 📑 Slide Deck Preview
+## 📑 Slide Deck (15 slides)
 
-> **Deep Dive Presentation** — NotebookLM-generated slide deck exploring all six deployment modes in detail
+> **Deep Dive Presentation** — NotebookLM-generated slide deck on deployment modes and scaling strategies
 
-[![Slide Deck Preview](./slide_preview-01.png)](./23%20Jan-%20Deployment_Modes_Scaling_the_MiTM_Proxy.pdf)
+[![All Slides](./slides_mosaic.png)](./23%20Jan-%20Deployment_Modes_Scaling_the_MiTM_Proxy.pdf)
 
-*Click the image above to open the full slide deck*
+*Click image to open the slide deck* · [⬇️ Download PDF](https://github.com/DinisCruz/NotebookLM__Infographics-and-slides/raw/refs/heads/main/_for_linkedin/published/Dev%20Briefs%20-%20MitmProxy%20Service/Deployment%20Modes%20for%20the%20Man-in-the-Middle%20Proxy%20Solution%20%28AWS-Oriented%29/23%20Jan-%20Deployment_Modes_Scaling_the_MiTM_Proxy.pdf)
 
 ---
 
-## Overview
+## 🧠 Semantic Knowledge Graph
 
-Comprehensive guide to six deployment models for the MiTM proxy solution, ranging from simple all-in-one single instance deployments to fully distributed serverless microservices on AWS Lambda or Kubernetes. The document explains how each model balances trade-offs in complexity, scalability, and resource usage, with all patterns being cloud-agnostic despite AWS-centric descriptions. Key insight: the architecture's stateless design (externalizing state to S3) enables horizontal scaling across all models.
+> **Machine-readable metadata** — Structured content for search, discovery, and graph database integration
+
+This document includes a comprehensive [SEMANTIC-GRAPH.md](./SEMANTIC-GRAPH.md) file containing:
+
+| Section | Description |
+|---------|-------------|
+| **Summary** | Concise overview of deployment options |
+| **Key Concepts** | 6 architectural patterns explained |
+| **Core Arguments** | 6 deployment trade-off analyses |
+| **Key Quotes** | 4 memorable quotes for reference |
+| **Tags & Search Phrases** | 15 tags + 10 search phrases for discovery |
+| **Ontology & Taxonomy** | Structured hierarchy for knowledge graphs |
+| **Graph Nodes & Edges** | Ready-to-import relationships for Neo4j/similar |
+
+[📖 View SEMANTIC-GRAPH.md](./SEMANTIC-GRAPH.md)
+
+---
+
+## Key Topics
+
+- **Stateless Architecture**: Externalizing state to S3 for horizontal scaling
+- **Six Deployment Modes**: All-in-one, split tier, single Lambda, multi-Lambda, Kubernetes, offline
+- **FastAPI TestClient**: In-memory microservices for same-process communication
+- **Persistent Compute**: Why the proxy engine requires EC2/containers (not pure serverless)
+- **Cloud Agnostic**: Patterns translate to Azure and GCP
+
+## Deployment Modes Comparison
+
+| Mode | Use Case | Pros | Cons |
+|------|----------|------|------|
+| All-in-One | Development, low traffic | Simple, single instance | Limited scaling |
+| Split Tier | Security segmentation | DMZ isolation, independent scaling | More infrastructure |
+| Single Lambda | Moderate loads | Serverless simplicity | Cold starts, 15min limit |
+| Multi-Lambda | Large scale | Max scalability, fault isolation | Network latency, complexity |
+| Kubernetes | Enterprise | Container portability, no time limits | K8s expertise needed |
+| Offline | Air-gapped | No external dependencies | Limited ML capabilities |
 
 ---
 
@@ -36,33 +73,11 @@ Comprehensive guide to six deployment models for the MiTM proxy solution, rangin
 
 | File | Description |
 |------|-------------|
-| [Deployment Modes for the Man-in-the-Middle Proxy Solution (AWS-Oriented).pdf](./Deployment%20Modes%20for%20the%20Man-in-the-Middle%20Proxy%20Solution%20%28AWS-Oriented%29.pdf) | Main deployment guide (9 pages) |
-| [23 Jan- Deployment_Modes_Scaling_the_MiTM_Proxy.pdf](./23%20Jan-%20Deployment_Modes_Scaling_the_MiTM_Proxy.pdf) | NotebookLM deep dive on scaling |
-| [23 Jan - MiTM Proxy Scaling Strategies.jpg](./23%20Jan%20-%20MiTM%20Proxy%20Scaling%20Strategies.jpg) | Infographic on scaling strategies |
-| [LinkedIn post](https://www.linkedin.com/posts/diniscruz_deployment-modes-scaling-the-mitm-proxy-ugcPost-7420506134899298304-5N77/) | LinkedIn post with slide deck |
-| [CONTENT.md](./CONTENT.md) | Semantic Knowledge Graph metadata |
-
----
-
-## Deployment Models Covered
-
-| # | Model | Use Case |
-|---|-------|----------|
-| 1 | **All-in-One Single Instance** | Development, testing, small-scale production, on-prem appliances |
-| 2 | **Split Proxy and API (Two-Tier)** | Security segmentation, different resource profiles |
-| 3 | **All-in-One Serverless (Single Lambda)** | Reduce server management, bursty traffic |
-| 4 | **Microservices on Multiple Lambdas** | Maximum scalability, independent service scaling |
-| 5 | **Kubernetes Deployment** | Cloud-agnostic containers, on-prem K8s environments |
-| 6 | **Fully Offline / Self-Contained** | Air-gapped environments, high-security installations |
-
----
-
-## Key Architecture Principles
-
-- **Stateless Design**: All application servers remain stateless by externalizing state to S3, enabling any instance to serve any request
-- **In-Memory Microservices**: FastAPI's TestClient enables services to call each other internally without HTTP overhead
-- **Flexible Caching Layer**: Storage abstraction allows swapping between in-memory, local disk, compressed archives, or S3
-- **Cloud Agnostic**: Patterns translate to Azure (VMs, Functions, Blob, AKS) and GCP (GCE, Cloud Functions/Run, GCS, GKE)
+| [Deployment Modes for the Man-in-the-Middle Proxy Solution (AWS-Oriented).pdf](./Deployment%20Modes%20for%20the%20Man-in-the-Middle%20Proxy%20Solution%20%28AWS-Oriented%29.pdf) | Full technical guide (9 pages) |
+| [23 Jan- Deployment_Modes_Scaling_the_MiTM_Proxy.pdf](./23%20Jan-%20Deployment_Modes_Scaling_the_MiTM_Proxy.pdf) | NotebookLM slide deck |
+| [23 Jan - MiTM Proxy Scaling Strategies.jpg](./23%20Jan%20-%20MiTM%20Proxy%20Scaling%20Strategies.jpg) | Infographic visualization |
+| [LinkedIn Post](https://www.linkedin.com/posts/diniscruz_deployment-modes-scaling-the-mitm-proxy-ugcPost-7420506134899298304-5N77/) | LinkedIn post with slides |
+| [SEMANTIC-GRAPH.md](./SEMANTIC-GRAPH.md) | Semantic Knowledge Graph metadata |
 
 ---
 
@@ -70,8 +85,10 @@ Comprehensive guide to six deployment models for the MiTM proxy solution, rangin
 
 | Field | Value |
 |-------|-------|
-| **Content Type** | Technical Architecture Guide |
-| **Domain** | Dev Briefs / MitmProxy Service |
-| **Format** | PDF (9 pages) |
-| **Date** | January 2026 |
 | **Generated By** | ChatGPT |
+| **Date** | January 2026 |
+| **Target Audience** | DevOps Engineers, Cloud Architects, Platform Engineers |
+
+---
+
+*Generated for NotebookLM content pipeline*

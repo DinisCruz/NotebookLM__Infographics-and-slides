@@ -2,9 +2,11 @@
 
 [← Back to Dev Briefs - MitmProxy Service](../README.md) · [Published](../../README.md) · [Home](../../../../README.md)
 
+> AWS Well-Architected Framework review evaluating a man-in-the-middle web proxy designed for advanced content filtering against all six AWS pillars. Key findings include strong performance efficiency (9/10) and cost optimization (9/10) through serverless design and Spot usage, but operational gaps (6/10) due to missing runbooks, dashboards, and alarms. The review provides detailed recommendations for each pillar to achieve production-grade maturity.
+
 | 📄 Source | 🖼️ Infographic | 📑 Slides |
 |-----------|----------------|-----------|
-| [Source Doc](./AWS%20Well-Architected%20Framework%20Review%20–%20Web%20Content%20Filtering%20Proxy%20Solution.pdf) | [View Image](./22%20Jan%20-%20Cloud%20Proxy%20Risk%20and%20Optimisation..jpg) | [Slide Deck](./22%20Jan%20-%20Web_Content_Filtering_Proxy_Audit.pdf) |
+| [Source Doc](./AWS%20Well-Architected%20Framework%20Review%20%E2%80%93%20Web%20Content%20Filtering%20Proxy%20Solution.pdf) | [View Image](./22%20Jan%20-%20Cloud%20Proxy%20Risk%20and%20Optimisation..jpg) | [Slide Deck](./22%20Jan%20-%20Web_Content_Filtering_Proxy_Audit.pdf) |
 
 > Generated with [Google NotebookLM](https://notebooklm.google.com/) — Source document → Infographic → Slide deck
 
@@ -16,58 +18,76 @@
 
 ---
 
-## 📑 Slide Deck Preview
+## 📑 Slide Deck (12 slides)
 
-> **Deep Dive Presentation** — NotebookLM-generated slide deck covering the full AWS Well-Architected analysis
+> **Deep Dive Presentation** — NotebookLM-generated slide deck on AWS Well-Architected Framework review
 
-[![Slide Deck Preview](./slide_preview-01.png)](./22%20Jan%20-%20Web_Content_Filtering_Proxy_Audit.pdf)
+[![All Slides](./slides_mosaic.png)](./22%20Jan%20-%20Web_Content_Filtering_Proxy_Audit.pdf)
 
-*Click the image above to open the full slide deck*
+*Click image to open the slide deck* · [⬇️ Download PDF](https://github.com/DinisCruz/NotebookLM__Infographics-and-slides/raw/refs/heads/main/_for_linkedin/published/Dev%20Briefs%20-%20MitmProxy%20Service/AWS%20Well-Architected%20Framework%20Review%20%E2%80%93%20Web%20Content%20Filtering%20Proxy%20Solution/22%20Jan%20-%20Web_Content_Filtering_Proxy_Audit.pdf)
 
 ---
 
-## Overview
+## 🧠 Semantic Knowledge Graph
 
-A comprehensive AWS Well-Architected Framework review of a man-in-the-middle web proxy solution designed for advanced web content filtering. The review evaluates the architecture against all six pillars: Operational Excellence, Security, Reliability, Performance Efficiency, Cost Optimization, and Sustainability.
+> **Machine-readable metadata** — Structured content for search, discovery, and graph database integration
 
-The target system intercepts user web requests, deconstructs HTML content into components, analyzes and classifies text (including semantic analysis and sentiment), then reconstructs sanitized HTML before delivering it to the end user.
+This document includes a comprehensive [SEMANTIC-GRAPH.md](./SEMANTIC-GRAPH.md) file containing:
+
+| Section | Description |
+|---------|-------------|
+| **Summary** | Concise overview of the review findings |
+| **Key Concepts** | 6 main architectural concepts |
+| **Core Arguments** | 6 pillar assessments with ratings |
+| **Key Quotes** | 4 memorable quotes for reference |
+| **Tags & Search Phrases** | 12 tags + 10 search phrases for discovery |
+| **Ontology & Taxonomy** | Structured hierarchy for knowledge graphs |
+| **Graph Nodes & Edges** | Ready-to-import relationships for Neo4j/similar |
+
+[📖 View SEMANTIC-GRAPH.md](./SEMANTIC-GRAPH.md)
+
+---
+
+## Key Topics
+
+- **Six Pillars Assessment**: Operational Excellence, Security, Reliability, Performance, Cost, Sustainability
+- **Architecture Components**: CloudFront, EC2 Auto Scaling, Lambda microservices, S3 as database
+- **Identified Gaps**: Missing runbooks, no CloudWatch dashboards, secrets in GitHub
+- **Recommendations**: Implement alarms, adopt Secrets Manager, conduct game days
+
+## Pillar Ratings
+
+| Pillar | Rating | Notes |
+|--------|--------|-------|
+| Operational Excellence | 6/10 | Missing runbooks, dashboards |
+| Security | 7/10 | Needs secrets management migration |
+| Reliability | 8/10 | Strong multi-AZ, needs failure testing |
+| Performance Efficiency | 9/10 | Serverless + global CloudFront |
+| Cost Optimization | 9/10 | Spot Instances, scale-to-zero |
+| Sustainability | 8/10 | Consider Graviton instances |
+
+---
 
 ## Contents
 
 | File | Description |
 |------|-------------|
-| [AWS Well-Architected Framework Review – Web Content Filtering Proxy Solution.pdf](./AWS%20Well-Architected%20Framework%20Review%20–%20Web%20Content%20Filtering%20Proxy%20Solution.pdf) | Source analysis document (19 pages) |
-| [22 Jan - Cloud Proxy Risk and Optimisation..jpg](./22%20Jan%20-%20Cloud%20Proxy%20Risk%20and%20Optimisation..jpg) | Infographic: risk and optimization analysis |
-| [22 Jan - Web_Content_Filtering_Proxy_Audit.pdf](./22%20Jan%20-%20Web_Content_Filtering_Proxy_Audit.pdf) | NotebookLM deep dive presentation |
-| [LinkedIn post](https://www.linkedin.com/posts/diniscruz_web-content-filtering-proxy-audit-ugcPost-7420502543375708160-jcrE/) | LinkedIn post with slide deck |
-| [CONTENT.md](./CONTENT.md) | Semantic Knowledge Graph metadata |
+| [AWS Well-Architected Framework Review – Web Content Filtering Proxy Solution.pdf](./AWS%20Well-Architected%20Framework%20Review%20%E2%80%93%20Web%20Content%20Filtering%20Proxy%20Solution.pdf) | Full review document (19 pages) |
+| [22 Jan - Web_Content_Filtering_Proxy_Audit.pdf](./22%20Jan%20-%20Web_Content_Filtering_Proxy_Audit.pdf) | NotebookLM slide deck |
+| [22 Jan - Cloud Proxy Risk and Optimisation..jpg](./22%20Jan%20-%20Cloud%20Proxy%20Risk%20and%20Optimisation..jpg) | Infographic visualization |
+| [LinkedIn Post](https://www.linkedin.com/posts/diniscruz_web-content-filtering-proxy-audit-ugcPost-7420502543375708160-jcrE/) | LinkedIn post with slides |
+| [SEMANTIC-GRAPH.md](./SEMANTIC-GRAPH.md) | Semantic Knowledge Graph metadata |
 
-## Key Topics
-
-- **Six Pillar Analysis**: Operational Excellence, Security, Reliability, Performance Efficiency, Cost Optimization, Sustainability
-- **Architecture Components**: CloudFront global edge distribution, EC2 Auto Scaling proxy tier, Lambda microservices, S3 as database
-- **Identified Gaps**: Missing runbooks/playbooks, no CloudWatch dashboards/alarms, secrets in GitHub Secrets not AWS Secrets Manager
-- **Pillar Ratings**: OE 6/10, Security 7/10, Reliability 8/10, Performance 9/10, Cost 9/10, Sustainability 8/10
-- **Key Recommendations**: Implement monitoring dashboards, adopt AWS Secrets Manager, conduct game days, tighten IAM policies
-
-## Architecture Highlights
-
-- **Global Edge Distribution**: Amazon CloudFront with TLS termination and custom DNS
-- **Proxy Tier**: EC2 Auto Scaling Group with Spot Instances across multiple AZs
-- **Serverless Microservices**: AWS Lambda functions (FastAPI/Python) for filtering logic
-- **Data Storage**: Amazon S3 as primary data store via custom "MemoryFS" layer
-- **CI/CD**: Automated pipelines with Dev/QA/Prod environment separation (90%+ test coverage)
+---
 
 ## Source Information
 
 | Field | Value |
 |-------|-------|
-| **Document Type** | AWS Well-Architected Review |
 | **Generated By** | ChatGPT Deep Research |
 | **Date** | January 2026 |
-| **Pages** | 19 |
-| **Target System** | Web Content Filtering MITM Proxy |
+| **Target Audience** | Cloud Architects, DevOps Engineers, Security Teams |
 
 ---
 
-*Part of the MGraph.ai MITM Proxy Service documentation*
+*Generated for NotebookLM content pipeline*
