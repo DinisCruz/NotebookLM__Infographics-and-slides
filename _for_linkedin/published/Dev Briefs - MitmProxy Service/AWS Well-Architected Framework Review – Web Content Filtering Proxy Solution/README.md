@@ -16,6 +16,16 @@
 
 ---
 
+## 📑 Slide Deck Preview
+
+> **Deep Dive Presentation** — NotebookLM-generated slide deck covering the full AWS Well-Architected analysis
+
+[![Slide Deck Preview](./slide_preview-01.png)](./22%20Jan%20-%20Web_Content_Filtering_Proxy_Audit.pdf)
+
+*Click the image above to open the full slide deck*
+
+---
+
 ## Overview
 
 A comprehensive AWS Well-Architected Framework review of a man-in-the-middle web proxy solution designed for advanced web content filtering. The review evaluates the architecture against all six pillars: Operational Excellence, Security, Reliability, Performance Efficiency, Cost Optimization, and Sustainability.

@@ -16,6 +16,16 @@
 
 ---
 
+## 📑 Slide Deck Preview
+
+> **Deep Dive Presentation** — NotebookLM-generated slide deck on rapid prototyping for product-market fit
+
+[![Slide Deck Preview](./slide_preview-01.png)](./22%20Jan%20-%20Vibe_Coding_Product_Fit.pdf)
+
+*Click the image above to open the full slide deck*
+
+---
+
 ## Overview
 
 Workflow document describing a rapid prototyping approach using AI-assisted coding for product-market fit discovery. Built around a MITM proxy infrastructure with page caching and version serving, the workflow enables CEO/CPO "vibe coders" to quickly create and demo webpage transformations to pilot customers, identifying which features elicit a "Yes, I want this!" reaction.

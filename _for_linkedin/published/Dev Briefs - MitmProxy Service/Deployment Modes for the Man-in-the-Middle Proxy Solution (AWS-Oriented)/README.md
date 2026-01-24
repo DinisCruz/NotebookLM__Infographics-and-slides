@@ -16,6 +16,16 @@
 
 ---
 
+## 📑 Slide Deck Preview
+
+> **Deep Dive Presentation** — NotebookLM-generated slide deck exploring all six deployment modes in detail
+
+[![Slide Deck Preview](./slide_preview-01.png)](./23%20Jan-%20Deployment_Modes_Scaling_the_MiTM_Proxy.pdf)
+
+*Click the image above to open the full slide deck*
+
+---
+
 ## Overview
 
 Comprehensive guide to six deployment models for the MiTM proxy solution, ranging from simple all-in-one single instance deployments to fully distributed serverless microservices on AWS Lambda or Kubernetes. The document explains how each model balances trade-offs in complexity, scalability, and resource usage, with all patterns being cloud-agnostic despite AWS-centric descriptions. Key insight: the architecture's stateless design (externalizing state to S3) enables horizontal scaling across all models.

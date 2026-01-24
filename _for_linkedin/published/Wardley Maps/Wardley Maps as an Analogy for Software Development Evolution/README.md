@@ -16,6 +16,16 @@
 
 ---
 
+## 📑 Slide Deck Preview
+
+> **Deep Dive Presentation** — NotebookLM-generated slide deck on strategic code evolution using Wardley Maps
+
+[![Slide Deck Preview](./slide_preview-01.png)](./22%20Jan%20-%20Strategic_Code_Evolution.pdf)
+
+*Click the image above to open the full slide deck*
+
+---
+
 ## Overview
 
 White paper exploring how Wardley Maps' evolution stages (Genesis → Custom-Built → Product → Commodity) provide a powerful analogy for software development decisions. The document demonstrates how identifying each module's evolutionary stage informs refactoring priorities, resource allocation, and LLM-assisted development workflows where code history becomes the best brief for generating improved implementations.

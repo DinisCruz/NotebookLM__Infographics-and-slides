@@ -16,6 +16,16 @@
 
 ---
 
+## 📑 Slide Deck Preview
+
+> **Deep Dive Presentation** — NotebookLM-generated slide deck on disciplined AI-augmented software engineering
+
+[![Slide Deck Preview](./slide_preview-01.png)](./AI_Engineering_Discipline.pdf)
+
+*Click the image above to open the full slide deck*
+
+---
+
 ## Overview
 
 Comprehensive workflow documentation for AI-augmented software engineering, treating the LLM as a powerful pair programmer requiring clear direction, context, and human oversight. The document outlines a five-stage process: requirements gathering with focused context, iterative planning and architecture brainstorming, detailed specification development, code generation, and testing/debugging refinement.
