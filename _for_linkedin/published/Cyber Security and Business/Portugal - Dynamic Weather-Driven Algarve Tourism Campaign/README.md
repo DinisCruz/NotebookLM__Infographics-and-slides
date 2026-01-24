@@ -12,6 +12,16 @@
 
 ---
 
+## 📑 Slide Deck (12 slides)
+
+> **Closing the Sunshine Gap** — NotebookLM-generated presentation on the weather-triggered advertising strategy
+
+[![All Slides](./slides_mosaic.png)](./14%20Jan%20-%20%28side%20deck%29%20Closing%20the%20Sunshine%20Gap%20-%20Algarve%20Surplus%20Strategy.pdf)
+
+*Click image to open the slide deck* · [⬇️ Download PDF](https://github.com/DinisCruz/NotebookLM__Infographics-and-slides/raw/refs/heads/main/_for_linkedin/published/Cyber%20Security%20and%20Business/Portugal%20-%20Dynamic%20Weather-Driven%20Algarve%20Tourism%20Campaign/14%20Jan%20-%20%28side%20deck%29%20Closing%20the%20Sunshine%20Gap%20-%20Algarve%20Surplus%20Strategy.pdf)
+
+---
+
 ## 🖼️ Infographics
 
 ### Main Infographic
@@ -27,16 +37,6 @@ These infographics showcase interesting AI-generated ad design variations, thoug
 | ![AI Escape from Rainy London](./14%20Jan%20-%20%28interesting%20ad%20design%2C%20some%20text%20issues%29%20-%20AI%20Escape%20from%20Rainy%20London.png) | **Text issues** — Interesting design concept but text rendering problems |
 
 > 💡 **Note:** These variations demonstrate both the potential and current limitations of AI-generated advertising visuals. The design concepts are compelling, but text placement and accuracy remain challenges.
-
----
-
-## 📑 Slide Deck (12 slides)
-
-> **Closing the Sunshine Gap** — NotebookLM-generated presentation on the weather-triggered advertising strategy
-
-[![All Slides](./slides_mosaic.png)](./14%20Jan%20-%20%28side%20deck%29%20Closing%20the%20Sunshine%20Gap%20-%20Algarve%20Surplus%20Strategy.pdf)
-
-*Click image to open the slide deck* · [⬇️ Download PDF](https://github.com/DinisCruz/NotebookLM__Infographics-and-slides/raw/refs/heads/main/_for_linkedin/published/Cyber%20Security%20and%20Business/Portugal%20-%20Dynamic%20Weather-Driven%20Algarve%20Tourism%20Campaign/14%20Jan%20-%20%28side%20deck%29%20Closing%20the%20Sunshine%20Gap%20-%20Algarve%20Surplus%20Strategy.pdf)
 
 ### Alternative Slide Deck
 
