@@ -103,22 +103,150 @@ Timothy Cook argues that the GenAI industry's massive investment in processing "
 
 ## Semantic Knowledge Graph
 
-<details>
-<summary>Click to expand SKG structure (for graph database import)</summary>
+### The Core Problem (Visual)
+
+```mermaid
+flowchart LR
+    subgraph origin ["🏛️ DATA ORIGIN (Structured)"]
+        DB[(Database Rows)]
+        SENSOR[Sensor Data]
+        FORM[Form Entries]
+        API[API Responses]
+    end
+
+    subgraph compression ["⚠️ COMPRESSION (Entropy)"]
+        PDF[PDF Reports]
+        SLIDES[Slide Decks]
+        DOCS[Documents]
+    end
+
+    subgraph loss ["❌ INFORMATION LOSS"]
+        META[Metadata Lost]
+        LINEAGE[Lineage Lost]
+        CONTEXT[Context Lost]
+    end
+
+    subgraph recovery ["💸 EXPENSIVE RECOVERY"]
+        VECTOR[(Vector DBs)]
+        RAG[RAG Pipelines]
+        LLM[LLM Guessing]
+    end
+
+    DB --> PDF
+    SENSOR --> PDF
+    FORM --> SLIDES
+    API --> DOCS
+
+    PDF --> META
+    SLIDES --> LINEAGE
+    DOCS --> CONTEXT
+
+    META --> VECTOR
+    LINEAGE --> RAG
+    CONTEXT --> LLM
+
+    style origin fill:#c8e6c9,stroke:#2e7d32
+    style compression fill:#fff3e0,stroke:#ef6c00
+    style loss fill:#ffcdd2,stroke:#c62828
+    style recovery fill:#e1bee7,stroke:#7b1fa2
+```
+
+### The Solution (Visual)
+
+```mermaid
+flowchart LR
+    subgraph origin ["🏛️ DATA ORIGIN"]
+        DB[(Database)]
+        SENSOR[Sensors]
+        FORM[Forms]
+    end
+
+    subgraph capture ["✅ NATIVE CAPTURE"]
+        SKG[("Semantic\nKnowledge\nGraph")]
+    end
+
+    subgraph benefits ["🎯 PRESERVED"]
+        META[✓ Metadata]
+        LINEAGE[✓ Lineage]
+        CONTEXT[✓ Context]
+        STRUCTURE[✓ Structure]
+    end
+
+    DB --> SKG
+    SENSOR --> SKG
+    FORM --> SKG
+
+    SKG --> META
+    SKG --> LINEAGE
+    SKG --> CONTEXT
+    SKG --> STRUCTURE
+
+    style origin fill:#c8e6c9,stroke:#2e7d32
+    style capture fill:#bbdefb,stroke:#1565c0
+    style benefits fill:#c8e6c9,stroke:#2e7d32
+```
+
+---
 
 ### Ontology
 
+> The ontology defines the **types of entities** (nodes) and **relationships** (predicates) in this knowledge domain.
+
 #### Node Types
 
-| Ref | Description |
-|-----|-------------|
-| `concept` | Abstract concept or principle |
-| `technology` | Technology or tool category |
-| `problem` | Problem or anti-pattern |
-| `solution` | Proposed solution or approach |
-| `artifact` | Data artifact type |
+```mermaid
+classDiagram
+    class Concept {
+        <<abstract>>
+        Abstract principle or idea
+    }
+    class Technology {
+        <<tool>>
+        Technology or tool category
+    }
+    class Problem {
+        <<anti-pattern>>
+        Problem or issue
+    }
+    class Solution {
+        <<pattern>>
+        Proposed approach
+    }
+    class Artifact {
+        <<data>>
+        Data artifact type
+    }
 
-#### Predicates
+    Concept <|-- Problem : specializes
+    Concept <|-- Solution : specializes
+    Technology -- Artifact : processes
+    Problem -- Solution : addressed_by
+```
+
+| Ref | Description | Examples |
+|-----|-------------|----------|
+| `concept` | Abstract concept or principle | Data Entropy, Unbaking Fallacy |
+| `technology` | Technology or tool category | Vector DB, RAG Pipeline, LLM |
+| `problem` | Problem or anti-pattern | Structure Loss, Metadata Stripping |
+| `solution` | Proposed solution or approach | Native Capture, Source Preservation |
+| `artifact` | Data artifact type | Structured Data, PDF, Document |
+
+#### Predicates (Relationships)
+
+```mermaid
+graph LR
+    A[Entity A] -->|causes| B[Entity B]
+    B -->|caused_by| A
+
+    C[Problem] -->|remedied_by| D[Solution]
+    D -->|remedies| C
+
+    E[Solution] -->|prevents| F[Problem]
+    F -->|prevented_by| E
+
+    G[Artifact] -->|transforms| H[Artifact]
+    H -->|transformed_from| G
+```
 
 | Ref | Inverse | Description |
 |-----|---------|-------------|
@@ -127,7 +255,43 @@ Timothy Cook argues that the GenAI industry's massive investment in processing "
 | `prevents` | `prevented_by` | Prevention relationship |
 | `transforms` | `transformed_from` | Data transformation |
 
+---
+
 ### Taxonomy
+
+> Hierarchical classification of concepts in this domain.
+
+```mermaid
+mindmap
+  root((Data Entropy Thesis))
+    Problems
+      Data Entropy
+      Structure Loss
+      Metadata Stripping
+      Context Destruction
+    Current Approaches
+      Vector Databases
+      RAG Pipelines
+      Ingestion Engines
+      LLM Structure Guessing
+    Data Lifecycle
+      Structured Origin
+        Database Rows
+        Sensor Measurements
+        Form Entries
+      Compression Step
+        PDF Reports
+        Slide Decks
+        Summary Documents
+      Entropy Result
+        Unstructured Data
+    Proposed Solution
+      Native Capture
+      Source Preservation
+      Semantic State Retention
+```
+
+**ASCII Tree View:**
 
 ```
 data_entropy_thesis
@@ -158,9 +322,51 @@ data_entropy_thesis
     └── semantic_state_retention
 ```
 
-### Graph
+---
 
-#### Nodes
+### Knowledge Graph
+
+> Visual representation of entities and their relationships.
+
+```mermaid
+graph TB
+    subgraph artifacts ["📦 Artifacts"]
+        STRUCTURED[("Structured Data\n(artifact)")]
+        UNSTRUCTURED[("Unstructured Data\n(artifact)")]
+    end
+
+    subgraph problems ["⚠️ Problems"]
+        ENTROPY["Data Entropy\n(problem)"]
+        COMPRESSION["Document Compression\n(problem)"]
+    end
+
+    subgraph tech ["🔧 Technology"]
+        RAG["RAG Pipeline\n(technology)"]
+        VECTOR["Vector Database\n(technology)"]
+    end
+
+    subgraph solutions ["✅ Solutions"]
+        CAPTURE["Native Semantic Capture\n(solution)"]
+    end
+
+    COMPRESSION -->|causes| ENTROPY
+    ENTROPY -->|transforms| UNSTRUCTURED
+    STRUCTURED -->|transformed_from| UNSTRUCTURED
+    RAG -->|remedies| UNSTRUCTURED
+    VECTOR -->|remedies| UNSTRUCTURED
+    CAPTURE -->|prevents| ENTROPY
+    CAPTURE -->|preserves| STRUCTURED
+
+    style STRUCTURED fill:#c8e6c9,stroke:#2e7d32
+    style UNSTRUCTURED fill:#ffcdd2,stroke:#c62828
+    style ENTROPY fill:#fff3e0,stroke:#ef6c00
+    style COMPRESSION fill:#fff3e0,stroke:#ef6c00
+    style RAG fill:#e1bee7,stroke:#7b1fa2
+    style VECTOR fill:#e1bee7,stroke:#7b1fa2
+    style CAPTURE fill:#bbdefb,stroke:#1565c0
+```
+
+#### Nodes (for database import)
 
 | ID | Type | Name |
 |----|------|------|
@@ -168,17 +374,42 @@ data_entropy_thesis
 | `structured_data` | `artifact` | Structured Data |
 | `unstructured_data` | `artifact` | Unstructured Data |
 | `rag_pipeline` | `technology` | RAG Pipeline |
+| `vector_database` | `technology` | Vector Database |
 | `native_capture` | `solution` | Native Semantic Capture |
 | `document_compression` | `problem` | Document Compression |
 
-#### Edges
+#### Edges (for database import)
 
 | From | Predicate | To |
 |------|-----------|-----|
 | `document_compression` | `causes` | `data_entropy` |
 | `data_entropy` | `transforms` | `unstructured_data` |
 | `rag_pipeline` | `remedies` | `unstructured_data` |
+| `vector_database` | `remedies` | `unstructured_data` |
 | `native_capture` | `prevents` | `data_entropy` |
+| `native_capture` | `preserves` | `structured_data` |
 | `structured_data` | `transformed_from` | `unstructured_data` |
 
-</details>
+---
+
+### Cypher Import (Neo4j)
+
+```cypher
+// Create nodes
+CREATE (entropy:Problem {id: 'data_entropy', name: 'Data Entropy'})
+CREATE (structured:Artifact {id: 'structured_data', name: 'Structured Data'})
+CREATE (unstructured:Artifact {id: 'unstructured_data', name: 'Unstructured Data'})
+CREATE (rag:Technology {id: 'rag_pipeline', name: 'RAG Pipeline'})
+CREATE (vector:Technology {id: 'vector_database', name: 'Vector Database'})
+CREATE (capture:Solution {id: 'native_capture', name: 'Native Semantic Capture'})
+CREATE (compression:Problem {id: 'document_compression', name: 'Document Compression'})
+
+// Create relationships
+CREATE (compression)-[:CAUSES]->(entropy)
+CREATE (entropy)-[:TRANSFORMS]->(unstructured)
+CREATE (rag)-[:REMEDIES]->(unstructured)
+CREATE (vector)-[:REMEDIES]->(unstructured)
+CREATE (capture)-[:PREVENTS]->(entropy)
+CREATE (capture)-[:PRESERVES]->(structured)
+CREATE (structured)-[:TRANSFORMED_FROM]->(unstructured)
+```
