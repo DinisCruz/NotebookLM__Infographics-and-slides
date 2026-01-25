@@ -234,6 +234,24 @@ rm slide_thumb-*.png
 
 ---
 
+## Execution Modes (Two-Pass Workflow)
+
+All content creation tasks should use the **two-pass workflow** for quality assurance:
+
+| Pass | Mode | Purpose |
+|------|------|---------|
+| 1 | 🔨 EXECUTOR | Create/modify files |
+| 2 | 🔍 REVIEWER | Validate against checklists |
+
+**Quick commands:**
+- `"Use two-pass workflow"` — Automatic both passes
+- `"STRICT REVIEW"` — Aggressive fault-finding
+
+📖 **Full guide**: [execution-modes.md](./execution-modes.md)
+📋 **Checklists**: [review-checklists.md](./review-checklists.md)
+
+---
+
 ## Common Tasks
 
 ### Creating documentation for a new content folder

@@ -26,6 +26,7 @@ This folder contains detailed guides for maintaining and enhancing the NotebookL
 | [create-semantic-graph.md](./create-semantic-graph.md) | Create SEMANTIC-GRAPH.md files with Mermaid + Cypher |
 | [create-slide-mosaic.md](./create-slide-mosaic.md) | Generate 4x4 slide preview grids using pdftoppm + montage |
 | [create-curated-guide.md](./create-curated-guide.md) | Create themed collection pages linking related content |
+| [execution-modes.md](./execution-modes.md) | Two-pass workflow pattern (Executor/Reviewer) |
 
 ---
 
@@ -35,6 +36,7 @@ This folder contains detailed guides for maintaining and enhancing the NotebookL
 |-------|---------|
 | [mermaid-templates.md](./mermaid-templates.md) | Copy-paste Mermaid diagram templates (flowchart, mindmap, classDiagram, graph) |
 | [neo4j-import.md](./neo4j-import.md) | Import Cypher into Neo4j sandbox and create visualizations |
+| [review-checklists.md](./review-checklists.md) | Consolidated validation checklists for all content types |
 
 ---
 
@@ -51,6 +53,10 @@ This folder contains detailed guides for maintaining and enhancing the NotebookL
 - Creating collections → `create-curated-guide.md`
 - Mermaid diagram help → `mermaid-templates.md`
 - Neo4j visualization → `neo4j-import.md`
+
+**Quality assurance?**
+- Two-pass workflow → `execution-modes.md`
+- Validation checklists → `review-checklists.md`
 
 ---
 
