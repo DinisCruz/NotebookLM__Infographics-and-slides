@@ -1,4 +1,4 @@
-[🏠 Home](../../README.md) / [For LinkedIn](../) / **Published**
+[🏠 Home](../../README.md) / [LinkedIn Published](../) / **Published**
 
 ---
 

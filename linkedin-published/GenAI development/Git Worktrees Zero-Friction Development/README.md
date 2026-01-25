@@ -1,4 +1,4 @@
-[🏠 Home](../../../../README.md) / [Published](../../README.md) / [GenAI Development](../README.md) / **Git Worktrees Zero-Friction Development**
+[🏠 Home](../../../../README.md) / [LinkedIn Published](../../README.md) / [GenAI Development](../README.md) / **Git Worktrees Zero-Friction Development**
 
 ---
 
@@ -24,7 +24,7 @@ A comprehensive guide to using `git worktree` for checking out multiple branches
 
 [![All Slides](./slides_mosaic.png)](./24%20Jan%20-%20Git_Worktrees_Zero_Friction_Development.pdf)
 
-*Click image to open the slide deck* · [⬇️ Download PDF](https://github.com/DinisCruz/NotebookLM__Infographics-and-slides/raw/refs/heads/main/_for_linkedin/published/GenAI%20Development/Git%20Worktrees%20Zero-Friction%20Development/24%20Jan%20-%20Git_Worktrees_Zero_Friction_Development.pdf)
+*Click image to open the slide deck* · [⬇️ Download PDF](https://github.com/DinisCruz/NotebookLM__Infographics-and-slides/raw/refs/heads/main/linkedin-published/GenAI%20Development/Git%20Worktrees%20Zero-Friction%20Development/24%20Jan%20-%20Git_Worktrees_Zero_Friction_Development.pdf)
 
 ---
 

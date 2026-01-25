@@ -1,4 +1,4 @@
-[🏠 Home](../../../../README.md) / [Published](../../README.md) / [GenAI Development](../README.md) / **Multi-Agent Orchestration with Claude-Flow**
+[🏠 Home](../../../../README.md) / [LinkedIn Published](../../README.md) / [GenAI Development](../README.md) / **Multi-Agent Orchestration with Claude-Flow**
 
 ---
 
@@ -24,7 +24,7 @@ A complete guide to implementing isolated, parallel AI agent workflows for conte
 
 [![All Slides](./slides_mosaic.png)](./25%20Jan%20-%20Agent_Isolation_and_Quality_Control.pdf)
 
-*Click image to open the slide deck* · [⬇️ Download PDF](https://github.com/DinisCruz/NotebookLM__Infographics-and-slides/raw/refs/heads/main/_for_linkedin/published/GenAI%20Development/Multi-Agent%20Orchestration%20with%20Claude-Flow/25%20Jan%20-%20Agent_Isolation_and_Quality_Control.pdf)
+*Click image to open the slide deck* · [⬇️ Download PDF](https://github.com/DinisCruz/NotebookLM__Infographics-and-slides/raw/refs/heads/main/linkedin-published/GenAI%20Development/Multi-Agent%20Orchestration%20with%20Claude-Flow/25%20Jan%20-%20Agent_Isolation_and_Quality_Control.pdf)
 
 ---
 

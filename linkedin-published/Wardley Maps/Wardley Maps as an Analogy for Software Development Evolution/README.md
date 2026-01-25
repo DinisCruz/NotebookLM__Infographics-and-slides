@@ -1,6 +1,6 @@
 # Wardley Maps as an Analogy for Software Development Evolution
 
-[← Back to Wardley Maps](../README.md) · [Published](../../README.md) · [Home](../../../../README.md)
+[← Back to Wardley Maps](../README.md) · [LinkedIn Published](../../README.md) · [Home](../../../../README.md)
 
 > White paper exploring how Wardley Maps' evolution stages (Genesis → Custom-Built → Product → Commodity) provide a powerful analogy for software development decisions. The document demonstrates how identifying each module's evolutionary stage informs refactoring priorities, resource allocation, and LLM-assisted development workflows where code history becomes the best brief for generating improved implementations.
 
@@ -24,7 +24,7 @@
 
 [![All Slides](./slides_mosaic.png)](./22%20Jan%20-%20Strategic_Code_Evolution.pdf)
 
-*Click image to open the slide deck* · [⬇️ Download PDF](https://github.com/DinisCruz/NotebookLM__Infographics-and-slides/raw/refs/heads/main/_for_linkedin/published/Wardley%20Maps/Wardley%20Maps%20as%20an%20Analogy%20for%20Software%20Development%20Evolution/22%20Jan%20-%20Strategic_Code_Evolution.pdf)
+*Click image to open the slide deck* · [⬇️ Download PDF](https://github.com/DinisCruz/NotebookLM__Infographics-and-slides/raw/refs/heads/main/linkedin-published/Wardley%20Maps/Wardley%20Maps%20as%20an%20Analogy%20for%20Software%20Development%20Evolution/22%20Jan%20-%20Strategic_Code_Evolution.pdf)
 
 ---
 

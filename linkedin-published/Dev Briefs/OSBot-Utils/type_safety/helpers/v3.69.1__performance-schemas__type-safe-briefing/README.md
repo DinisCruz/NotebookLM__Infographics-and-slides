@@ -1,4 +1,4 @@
-[🏠 Home](../../../../../../README.md) / [For LinkedIn](../../../../../) / [Published](../../../../) / [OSBot-Utils](../../../) / [type_safety](../../) / [helpers](../) / **V3.69.1 performance schemas type safe briefing**
+[🏠 Home](../../../../../../README.md) / [LinkedIn Published](../../../../../) / [OSBot-Utils](../../../) / [type_safety](../../) / [helpers](../) / **V3.69.1 performance schemas type safe briefing**
 
 ---
 

@@ -1,6 +1,6 @@
 # Multi-Agent Orchestration with Claude-Flow in Docker
 
-[📖 README](./README.md) · [🖼️ Infographic](./25%20Jan%20-%20Scaling%20AI%20Workflows%20via%20Claude-Flow.jpg) · [📑 Slides](./25%20Jan%20-%20Agent_Isolation_and_Quality_Control.pdf) · [🏠 Home](../../../../README.md) · [Published](../../README.md)
+[📖 README](./README.md) · [🖼️ Infographic](./25%20Jan%20-%20Scaling%20AI%20Workflows%20via%20Claude-Flow.jpg) · [📑 Slides](./25%20Jan%20-%20Agent_Isolation_and_Quality_Control.pdf) · [🏠 Home](../../../../README.md) · [LinkedIn Published](../../README.md)
 
 > *Semantic Knowledge Graph (SKG) — machine-readable metadata for search, discovery, and graph database integration*
 

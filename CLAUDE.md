@@ -31,7 +31,7 @@ This repository contains AI-generated infographics and slide decks from Google N
 │   ├── mermaid-templates.md      ← Copy-paste Mermaid diagrams
 │   ├── neo4j-import.md           ← Neo4j sandbox import guide
 │   └── create-curated-guide.md   ← Collection page creation
-├── _for_linkedin/
+├── linkedin-published/
 │   ├── published/            ← Live content with full structure
 │   └── to-publish/           ← Queue for upcoming posts
 ├── by-topic/                 ← Content organized by subject
@@ -86,7 +86,7 @@ rm slide_thumb-*.png
 ```markdown
 # Title
 
-[← Back](../README.md) · [Published](../../README.md) · [🏠 Home](../../../../README.md)
+[← Back](../README.md) · [LinkedIn Published](../../README.md) · [🏠 Home](../../../../README.md)
 
 > Overview blockquote
 

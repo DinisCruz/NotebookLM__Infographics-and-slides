@@ -1,4 +1,4 @@
-[🏠 Home](../../../README.md) / [For LinkedIn](../../) / [Published](../) / **Cyber Security and Business**
+[🏠 Home](../../../README.md) / [LinkedIn Published](../../) / **Cyber Security and Business**
 
 ---
 

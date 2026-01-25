@@ -1,4 +1,4 @@
-[🏠 Home](../../../../../README.md) / [For LinkedIn](../../../../) / [Published](../../../) / [Strategic Partnerships](../../) / [AWS](../) / **(6 Jan)   Strategic AWS Partnership with Dinis Cruz’s GenAI and Graph Innovations**
+[🏠 Home](../../../../../README.md) / [LinkedIn Published](../../../../) / [Strategic Partnerships](../../) / [AWS](../) / **(6 Jan)   Strategic AWS Partnership with Dinis Cruz’s GenAI and Graph Innovations**
 
 ---
 

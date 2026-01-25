@@ -1,6 +1,6 @@
 # Services Registry Implementation Blueprint
 
-[📖 README](./README.md) · [🖼️ Infographic](./24%20Jan%20-%20Unified%20Service%20Discovery%20Services%20Registry.png) · [📑 Slides](./24%20Jan%20-%20Services_Registry_Implementation_Blueprint.pdf) · [🏠 Home](../../../README.md) · [Published](../README.md)
+[📖 README](./README.md) · [🖼️ Infographic](./24%20Jan%20-%20Unified%20Service%20Discovery%20Services%20Registry.png) · [📑 Slides](./24%20Jan%20-%20Services_Registry_Implementation_Blueprint.pdf) · [🏠 Home](../../../README.md) · [LinkedIn Published](../README.md)
 
 > *Semantic Knowledge Graph (SKG) — machine-readable metadata for search, discovery, and graph database integration*
 

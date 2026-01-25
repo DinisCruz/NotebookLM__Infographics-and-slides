@@ -1,4 +1,4 @@
-[🏠 Home](../../../../README.md) / [For LinkedIn](../../../) / [Published](../../) / [Software and Development](../) / **31 Dec   The More Code, The Faster You Go**
+[🏠 Home](../../../../README.md) / [LinkedIn Published](../../../) / [Software and Development](../) / **31 Dec   The More Code, The Faster You Go**
 
 ---
 

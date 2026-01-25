@@ -1,4 +1,4 @@
-# Dev Briefs - MitmProxy Service
+# Dev Briefs/MitmProxy Service
 
 [← Back to Published](../README.md) · [Home](../../../README.md)
 

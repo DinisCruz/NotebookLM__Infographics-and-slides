@@ -1,4 +1,4 @@
-[🏠 Home](../../../README.md) / [For LinkedIn](../../) / [To Publish](../) / **Secure Agentic Solutions - Achieving Safe Autonomy Through Exact Privileges**
+[🏠 Home](../../../README.md) / [LinkedIn Published](../../) / [To Publish](../) / **Secure Agentic Solutions - Achieving Safe Autonomy Through Exact Privileges**
 
 ---
 

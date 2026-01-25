@@ -1,4 +1,4 @@
-[🏠 Home](../../../README.md) / [For LinkedIn](../../) / [To Publish](../) / **Development and Enginering**
+[🏠 Home](../../../README.md) / [LinkedIn Published](../../) / [To Publish](../) / **Development and Enginering**
 
 ---
 

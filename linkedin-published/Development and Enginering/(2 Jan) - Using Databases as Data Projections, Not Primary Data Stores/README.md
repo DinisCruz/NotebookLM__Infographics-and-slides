@@ -1,4 +1,4 @@
-[🏠 Home](../../../../README.md) / [For LinkedIn](../../../) / [Published](../../) / [Development and Enginering](../) / **(2 Jan)   Using Databases as Data Projections, Not Primary Data Stores**
+[🏠 Home](../../../../README.md) / [LinkedIn Published](../../../) / [Development and Enginering](../) / **(2 Jan)   Using Databases as Data Projections, Not Primary Data Stores**
 
 ---
 

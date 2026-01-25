@@ -283,8 +283,8 @@ EDGES:
 This consolidated graph synthesizes knowledge from:
 
 1. [Blueprint for a Lean, AI-Driven Startup in 2026](../../by-collaborator/Rafael%20Knuth/Blueprint%20for%20a%20Lean%2C%20AI-Driven%20Startup%20in%202026/)
-2. [Empowering the GenAI Entrepreneur](../../_for_linkedin/published/Development%20and%20Enginering/%2818%20Jan%29%20-%20Empowering%20the%20GenAI%20Entrepreneur_%20From%20Idea%20to%20Impact/)
-3. [Next-Level Vibe Coding: Multi-Agent Workflow](../../_for_linkedin/published/Development%20and%20Enginering/%2818%20Jan%29%20-%20Next-Level%20Vibe%20Coding_%20Multi-Agent%20%26%20Multi-Role%20Workflow/)
+2. [Empowering the GenAI Entrepreneur](../../linkedin-published/Development%20and%20Enginering/%2818%20Jan%29%20-%20Empowering%20the%20GenAI%20Entrepreneur_%20From%20Idea%20to%20Impact/)
+3. [Next-Level Vibe Coding: Multi-Agent Workflow](../../linkedin-published/Development%20and%20Enginering/%2818%20Jan%29%20-%20Next-Level%20Vibe%20Coding_%20Multi-Agent%20%26%20Multi-Role%20Workflow/)
 4. [Open-Source-First Strategy](../../by-collaborator/Rafael%20Knuth/Open-Source-First%20Strategy%20for%20Generative%20AI%20Companies/)
-5. [Human Checkpoints in AI Agent Workflows](../../_for_linkedin/published/Development%20and%20Enginering/%2816%20Jan%29%20-%20The%20Importance%20of%20Human%20Checkpoints%20in%20AI%20Agent%20Workflows/)
-6. [Pass-Driven Development](../../_for_linkedin/published/Development%20and%20Enginering/%2816%20Jan%29%20-%20Pass-Driven%20Development%20%28PDD%29%20-%20A%20Practical%20Alternative%20to%20Traditional%20TDD/)
+5. [Human Checkpoints in AI Agent Workflows](../../linkedin-published/Development%20and%20Enginering/%2816%20Jan%29%20-%20The%20Importance%20of%20Human%20Checkpoints%20in%20AI%20Agent%20Workflows/)
+6. [Pass-Driven Development](../../linkedin-published/Development%20and%20Enginering/%2816%20Jan%29%20-%20Pass-Driven%20Development%20%28PDD%29%20-%20A%20Practical%20Alternative%20to%20Traditional%20TDD/)

@@ -1,6 +1,6 @@
 # Vibe Coding Workflow for Rapid Product-Market Fit Discovery
 
-[← Back to GenAI Development](../README.md) · [Published](../../README.md) · [Home](../../../../README.md)
+[← Back to GenAI Development](../README.md) · [LinkedIn Published](../../README.md) · [Home](../../../../README.md)
 
 > Workflow document describing a rapid prototyping approach using AI-assisted coding for product-market fit discovery. Built around a MITM proxy infrastructure with page caching and version serving, the workflow enables CEO/CPO "vibe coders" to quickly create and demo webpage transformations to pilot customers, identifying which features elicit a "Yes, I want this!" reaction.
 
@@ -24,7 +24,7 @@
 
 [![All Slides](./slides_mosaic.png)](./22%20Jan%20-%20Vibe_Coding_Product_Fit.pdf)
 
-*Click image to open the slide deck* · [⬇️ Download PDF](https://github.com/DinisCruz/NotebookLM__Infographics-and-slides/raw/refs/heads/main/_for_linkedin/published/GenAI%20development/Vibe%20Coding%20Workflow%20for%20Rapid%20Product-Market%20Fit%20Discovery/22%20Jan%20-%20Vibe_Coding_Product_Fit.pdf)
+*Click image to open the slide deck* · [⬇️ Download PDF](https://github.com/DinisCruz/NotebookLM__Infographics-and-slides/raw/refs/heads/main/linkedin-published/GenAI%20development/Vibe%20Coding%20Workflow%20for%20Rapid%20Product-Market%20Fit%20Discovery/22%20Jan%20-%20Vibe_Coding_Product_Fit.pdf)
 
 ---
 

@@ -1,6 +1,6 @@
 # LLM-Assisted Development Workflow (Jan 2026)
 
-[← Back to GenAI Development](../README.md) · [Published](../../README.md) · [Home](../../../../README.md)
+[← Back to GenAI Development](../README.md) · [LinkedIn Published](../../README.md) · [Home](../../../../README.md)
 
 > Comprehensive workflow documentation for AI-augmented software engineering, treating the LLM as a powerful pair programmer requiring clear direction, context, and human oversight. The document outlines a five-stage process: requirements gathering with focused context, iterative planning and architecture brainstorming, detailed specification development, code generation, and testing/debugging refinement.
 
@@ -24,7 +24,7 @@
 
 [![All Slides](./slides_mosaic.png)](./AI_Engineering_Discipline.pdf)
 
-*Click image to open the slide deck* · [⬇️ Download PDF](https://github.com/DinisCruz/NotebookLM__Infographics-and-slides/raw/refs/heads/main/_for_linkedin/published/GenAI%20development/LLM-Assisted%20Development%20Workflow%20%28Jan%202026%29/AI_Engineering_Discipline.pdf)
+*Click image to open the slide deck* · [⬇️ Download PDF](https://github.com/DinisCruz/NotebookLM__Infographics-and-slides/raw/refs/heads/main/linkedin-published/GenAI%20development/LLM-Assisted%20Development%20Workflow%20%28Jan%202026%29/AI_Engineering_Discipline.pdf)
 
 ---
 

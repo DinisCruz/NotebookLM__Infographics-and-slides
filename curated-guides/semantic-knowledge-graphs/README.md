@@ -19,13 +19,13 @@ This collection showcases the new Semantic Knowledge Graph format applied to Not
 
 | # | Topic Area | Document | Key Focus |
 |---|------------|----------|-----------|
-| 1 | 3rd Party Content | [Unbaking the Cake](../../_for_linkedin/published/3rd%20Party%20Content/Unbaking%20the%20Cake%20-%20Capturing%20Data%20Before%20Entropy/) | Data entropy, native semantic capture vs RAG |
-| 2 | Wardley Maps | [Software Development Evolution](../../_for_linkedin/published/Wardley%20Maps/Wardley%20Maps%20as%20an%20Analogy%20for%20Software%20Development%20Evolution/) | Strategic evolution of code, LLM evolutionary briefs |
-| 3 | GenAI Development | [Vibe Coding Workflow](../../_for_linkedin/published/GenAI%20development/Vibe%20Coding%20Workflow%20for%20Rapid%20Product-Market%20Fit%20Discovery/) | 8-step rapid prototyping, product-market fit |
-| 4 | GenAI Development | [LLM-Assisted Development](../../_for_linkedin/published/GenAI%20development/LLM-Assisted%20Development%20Workflow%20%28Jan%202026%29/) | Context engineering, human-in-the-loop workflows |
-| 5 | MitmProxy Service | [AWS Well-Architected Review](../../_for_linkedin/published/Dev%20Briefs%20-%20MitmProxy%20Service/AWS%20Well-Architected%20Framework%20Review%20–%20Web%20Content%20Filtering%20Proxy%20Solution/) | Six pillars assessment, architecture review |
-| 6 | MitmProxy Service | [Deployment Modes](../../_for_linkedin/published/Dev%20Briefs%20-%20MitmProxy%20Service/Deployment%20Modes%20for%20the%20Man-in-the-Middle%20Proxy%20Solution%20%28AWS-Oriented%29/) | Six deployment patterns, stateless architecture |
-| 7 | Tourism & Marketing | [Algarve Tourism Campaign](../../_for_linkedin/published/Cyber%20Security%20and%20Business/Portugal%20-%20Dynamic%20Weather-Driven%20Algarve%20Tourism%20Campaign/) | Weather-triggered DOOH ads, GenAI personalization |
+| 1 | 3rd Party Content | [Unbaking the Cake](../../linkedin-published/3rd%20Party%20Content/Unbaking%20the%20Cake%20-%20Capturing%20Data%20Before%20Entropy/) | Data entropy, native semantic capture vs RAG |
+| 2 | Wardley Maps | [Software Development Evolution](../../linkedin-published/Wardley%20Maps/Wardley%20Maps%20as%20an%20Analogy%20for%20Software%20Development%20Evolution/) | Strategic evolution of code, LLM evolutionary briefs |
+| 3 | GenAI Development | [Vibe Coding Workflow](../../linkedin-published/GenAI%20development/Vibe%20Coding%20Workflow%20for%20Rapid%20Product-Market%20Fit%20Discovery/) | 8-step rapid prototyping, product-market fit |
+| 4 | GenAI Development | [LLM-Assisted Development](../../linkedin-published/GenAI%20development/LLM-Assisted%20Development%20Workflow%20%28Jan%202026%29/) | Context engineering, human-in-the-loop workflows |
+| 5 | MitmProxy Service | [AWS Well-Architected Review](../../linkedin-published/Dev%20Briefs%20-%20MitmProxy%20Service/AWS%20Well-Architected%20Framework%20Review%20–%20Web%20Content%20Filtering%20Proxy%20Solution/) | Six pillars assessment, architecture review |
+| 6 | MitmProxy Service | [Deployment Modes](../../linkedin-published/Dev%20Briefs%20-%20MitmProxy%20Service/Deployment%20Modes%20for%20the%20Man-in-the-Middle%20Proxy%20Solution%20%28AWS-Oriented%29/) | Six deployment patterns, stateless architecture |
+| 7 | Tourism & Marketing | [Algarve Tourism Campaign](../../linkedin-published/Cyber%20Security%20and%20Business/Portugal%20-%20Dynamic%20Weather-Driven%20Algarve%20Tourism%20Campaign/) | Weather-triggered DOOH ads, GenAI personalization |
 
 ---
 
@@ -33,13 +33,13 @@ This collection showcases the new Semantic Knowledge Graph format applied to Not
 
 | Document | SEMANTIC-GRAPH.md | Neo4j Ready |
 |----------|-------------------|-------------|
-| Unbaking the Cake | [View Graph](../../_for_linkedin/published/3rd%20Party%20Content/Unbaking%20the%20Cake%20-%20Capturing%20Data%20Before%20Entropy/SEMANTIC-GRAPH.md) | ✅ + Screenshot |
-| Wardley Maps Evolution | [View Graph](../../_for_linkedin/published/Wardley%20Maps/Wardley%20Maps%20as%20an%20Analogy%20for%20Software%20Development%20Evolution/SEMANTIC-GRAPH.md) | ✅ |
-| Vibe Coding Workflow | [View Graph](../../_for_linkedin/published/GenAI%20development/Vibe%20Coding%20Workflow%20for%20Rapid%20Product-Market%20Fit%20Discovery/SEMANTIC-GRAPH.md) | ✅ |
-| LLM-Assisted Development | [View Graph](../../_for_linkedin/published/GenAI%20development/LLM-Assisted%20Development%20Workflow%20%28Jan%202026%29/SEMANTIC-GRAPH.md) | ✅ |
-| AWS Well-Architected Review | [View Graph](../../_for_linkedin/published/Dev%20Briefs%20-%20MitmProxy%20Service/AWS%20Well-Architected%20Framework%20Review%20–%20Web%20Content%20Filtering%20Proxy%20Solution/SEMANTIC-GRAPH.md) | ✅ |
-| Deployment Modes | [View Graph](../../_for_linkedin/published/Dev%20Briefs%20-%20MitmProxy%20Service/Deployment%20Modes%20for%20the%20Man-in-the-Middle%20Proxy%20Solution%20%28AWS-Oriented%29/SEMANTIC-GRAPH.md) | ✅ |
-| Algarve Tourism Campaign | [View Graph](../../_for_linkedin/published/Cyber%20Security%20and%20Business/Portugal%20-%20Dynamic%20Weather-Driven%20Algarve%20Tourism%20Campaign/SEMANTIC-GRAPH.md) | ✅ |
+| Unbaking the Cake | [View Graph](../../linkedin-published/3rd%20Party%20Content/Unbaking%20the%20Cake%20-%20Capturing%20Data%20Before%20Entropy/SEMANTIC-GRAPH.md) | ✅ + Screenshot |
+| Wardley Maps Evolution | [View Graph](../../linkedin-published/Wardley%20Maps/Wardley%20Maps%20as%20an%20Analogy%20for%20Software%20Development%20Evolution/SEMANTIC-GRAPH.md) | ✅ |
+| Vibe Coding Workflow | [View Graph](../../linkedin-published/GenAI%20development/Vibe%20Coding%20Workflow%20for%20Rapid%20Product-Market%20Fit%20Discovery/SEMANTIC-GRAPH.md) | ✅ |
+| LLM-Assisted Development | [View Graph](../../linkedin-published/GenAI%20development/LLM-Assisted%20Development%20Workflow%20%28Jan%202026%29/SEMANTIC-GRAPH.md) | ✅ |
+| AWS Well-Architected Review | [View Graph](../../linkedin-published/Dev%20Briefs%20-%20MitmProxy%20Service/AWS%20Well-Architected%20Framework%20Review%20–%20Web%20Content%20Filtering%20Proxy%20Solution/SEMANTIC-GRAPH.md) | ✅ |
+| Deployment Modes | [View Graph](../../linkedin-published/Dev%20Briefs%20-%20MitmProxy%20Service/Deployment%20Modes%20for%20the%20Man-in-the-Middle%20Proxy%20Solution%20%28AWS-Oriented%29/SEMANTIC-GRAPH.md) | ✅ |
+| Algarve Tourism Campaign | [View Graph](../../linkedin-published/Cyber%20Security%20and%20Business/Portugal%20-%20Dynamic%20Weather-Driven%20Algarve%20Tourism%20Campaign/SEMANTIC-GRAPH.md) | ✅ |
 
 ---
 
@@ -67,7 +67,7 @@ Each file follows a consistent structure:
 3. Run in Neo4j Browser
 4. Visualize with: `MATCH p=()-[]-() RETURN p`
 
-![Neo4j Visualization Example](../../_for_linkedin/published/3rd%20Party%20Content/Unbaking%20the%20Cake%20-%20Capturing%20Data%20Before%20Entropy/neo4j-view-of-semantic-graph.png)
+![Neo4j Visualization Example](../../linkedin-published/3rd%20Party%20Content/Unbaking%20the%20Cake%20-%20Capturing%20Data%20Before%20Entropy/neo4j-view-of-semantic-graph.png)
 
 ---
 

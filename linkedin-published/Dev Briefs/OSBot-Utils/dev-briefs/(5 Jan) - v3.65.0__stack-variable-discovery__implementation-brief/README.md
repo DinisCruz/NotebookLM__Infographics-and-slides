@@ -1,4 +1,4 @@
-[🏠 Home](../../../../../README.md) / [For LinkedIn](../../../../) / [Published](../../../) / [OSBot Utils](../../) / [Dev Briefs](../) / **(5 Jan)   v3.65.0 stack variable discovery implementation brief**
+[🏠 Home](../../../../../README.md) / [LinkedIn Published](../../../../) / [OSBot Utils](../../) / [Dev Briefs](../) / **(5 Jan)   v3.65.0 stack variable discovery implementation brief**
 
 ---
 

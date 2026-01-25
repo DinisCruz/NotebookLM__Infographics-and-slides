@@ -381,8 +381,8 @@ CREATE (node1)-[:RELATIONSHIP_TYPE]->(node2)
 ## Complete Example
 
 See the enhanced SEMANTIC-GRAPH.md files in:
-- `_for_linkedin/published/3rd Party Content/Unbaking the Cake - Capturing Data Before Entropy/SEMANTIC-GRAPH.md`
-- `_for_linkedin/published/Wardley Maps/Wardley Maps as an Analogy for Software Development Evolution/SEMANTIC-GRAPH.md`
+- `linkedin-published/3rd Party Content/Unbaking the Cake - Capturing Data Before Entropy/SEMANTIC-GRAPH.md`
+- `linkedin-published/Wardley Maps/Wardley Maps as an Analogy for Software Development Evolution/SEMANTIC-GRAPH.md`
 
 ---
 

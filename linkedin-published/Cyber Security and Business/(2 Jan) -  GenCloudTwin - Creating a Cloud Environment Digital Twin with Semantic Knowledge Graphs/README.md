@@ -1,4 +1,4 @@
-[🏠 Home](../../../../README.md) / [For LinkedIn](../../../) / [Published](../../) / [Cyber Security and Business](../) / **(2 Jan)    GenCloudTwin   Creating a Cloud Environment Digital Twin with Semantic Knowledge Graphs**
+[🏠 Home](../../../../README.md) / [LinkedIn Published](../../../) / [Cyber Security and Business](../) / **(2 Jan)    GenCloudTwin   Creating a Cloud Environment Digital Twin with Semantic Knowledge Graphs**
 
 ---
 

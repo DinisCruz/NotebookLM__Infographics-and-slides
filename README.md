@@ -33,8 +33,8 @@ A collection of AI-generated infographics and slide decks created using Google's
 
 | Status | Count |
 |--------|-------|
-| [Published](./_for_linkedin/published/) | 16 |
-| [Queue (To Publish)](./_for_linkedin/to-publish/) | 14 |
+| [Published](./linkedin-published/) | 16 |
+| [Queue (To Publish)](./linkedin-published/__to-publish/) | 14 |
 
 ---
 
@@ -46,7 +46,7 @@ A collection of AI-generated infographics and slide decks created using Google's
 ├── by-topic/              # Primary content - organized by subject
 ├── by-collaborator/       # Content organized by contributor
 ├── curated-guides/        # Themed collections
-└── _for_linkedin/         # LinkedIn publishing pipeline
+└── linkedin-published/         # LinkedIn publishing pipeline
     ├── published/         # Enhanced with SEMANTIC-GRAPH.md
     └── to-publish/
 ```

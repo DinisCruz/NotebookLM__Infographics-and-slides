@@ -1,4 +1,4 @@
-[🏠 Home](../../../../../README.md) / [For LinkedIn](../../../../) / [Published](../../../) / [OSBot-Utils](../../) / [features](../) / **Semantic Graphs v3.71.1**
+[🏠 Home](../../../../../README.md) / [LinkedIn Published](../../../../) / [OSBot-Utils](../../) / [features](../) / **Semantic Graphs v3.71.1**
 
 ---
 

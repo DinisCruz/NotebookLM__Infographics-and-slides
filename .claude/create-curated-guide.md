@@ -140,11 +140,11 @@ Use lowercase with hyphens:
 From `curated-guides/[guide]/README.md` to content:
 
 ```markdown
-<!-- To _for_linkedin/published/Category/Folder/ -->
-[Title](../../_for_linkedin/published/Category/Folder/)
+<!-- To linkedin-published/Category/Folder/ -->
+[Title](../../linkedin-published/Category/Folder/)
 
-<!-- To _for_linkedin/published/Category/Folder/SEMANTIC-GRAPH.md -->
-[View Graph](../../_for_linkedin/published/Category/Folder/SEMANTIC-GRAPH.md)
+<!-- To linkedin-published/Category/Folder/SEMANTIC-GRAPH.md -->
+[View Graph](../../linkedin-published/Category/Folder/SEMANTIC-GRAPH.md)
 ```
 
 ### URL Encoding
@@ -155,7 +155,7 @@ Remember to encode special characters:
 
 ```markdown
 <!-- Folder with spaces and parentheses -->
-[Link](../../_for_linkedin/published/Dev%20Briefs/AWS%20Well-Architected%20%28Review%29/)
+[Link](../../linkedin-published/Dev%20Briefs/AWS%20Well-Architected%20%28Review%29/)
 ```
 
 ---
@@ -218,8 +218,8 @@ This collection showcases the new Semantic Knowledge Graph format...
 
 | # | Topic Area | Document | Key Focus |
 |---|------------|----------|-----------|
-| 1 | 3rd Party Content | [Unbaking the Cake](../../_for_linkedin/published/3rd%20Party%20Content/Unbaking%20the%20Cake%20-%20Capturing%20Data%20Before%20Entropy/) | Data entropy, native semantic capture |
-| 2 | Wardley Maps | [Software Development Evolution](../../_for_linkedin/published/Wardley%20Maps/...) | Strategic evolution |
+| 1 | 3rd Party Content | [Unbaking the Cake](../../linkedin-published/3rd%20Party%20Content/Unbaking%20the%20Cake%20-%20Capturing%20Data%20Before%20Entropy/) | Data entropy, native semantic capture |
+| 2 | Wardley Maps | [Software Development Evolution](../../linkedin-published/Wardley%20Maps/...) | Strategic evolution |
 
 ...
 ```

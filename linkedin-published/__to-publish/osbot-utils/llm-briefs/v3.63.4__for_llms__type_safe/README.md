@@ -1,4 +1,4 @@
-[🏠 Home](../../../../../README.md) / [For LinkedIn](../../../../) / [To Publish](../../../) / [osbot-utils](../../) / [LLM Briefs](../) / **Type_Safe Capabilities Guide (v3.63.4)**
+[🏠 Home](../../../../../README.md) / [LinkedIn Published](../../../../) / [To Publish](../../../) / [osbot-utils](../../) / [LLM Briefs](../) / **Type_Safe Capabilities Guide (v3.63.4)**
 
 ---
 

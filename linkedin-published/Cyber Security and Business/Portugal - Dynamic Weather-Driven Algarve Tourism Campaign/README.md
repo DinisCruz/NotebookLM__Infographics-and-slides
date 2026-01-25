@@ -1,6 +1,6 @@
 # Dynamic Weather-Driven Algarve Tourism Campaign
 
-[← Back to Cyber Security & Business](../README.md) · [Published](../../README.md) · [🏠 Home](../../../../README.md)
+[← Back to Cyber Security & Business](../README.md) · [LinkedIn Published](../../README.md) · [🏠 Home](../../../../README.md)
 
 > A white paper proposing AI-powered, weather-triggered digital billboard advertising in London to promote off-season tourism to Portugal's Algarve region. The concept leverages live webcam feeds, real-time weather data, flight APIs, and Generative AI to show rain-soaked Londoners exactly what they're missing — sunny beaches just 2.5 hours away.
 
@@ -18,7 +18,7 @@
 
 [![All Slides](./slides_mosaic.png)](./14%20Jan%20-%20%28side%20deck%29%20Closing%20the%20Sunshine%20Gap%20-%20Algarve%20Surplus%20Strategy.pdf)
 
-*Click image to open the slide deck* · [⬇️ Download PDF](https://github.com/DinisCruz/NotebookLM__Infographics-and-slides/raw/refs/heads/main/_for_linkedin/published/Cyber%20Security%20and%20Business/Portugal%20-%20Dynamic%20Weather-Driven%20Algarve%20Tourism%20Campaign/14%20Jan%20-%20%28side%20deck%29%20Closing%20the%20Sunshine%20Gap%20-%20Algarve%20Surplus%20Strategy.pdf)
+*Click image to open the slide deck* · [⬇️ Download PDF](https://github.com/DinisCruz/NotebookLM__Infographics-and-slides/raw/refs/heads/main/linkedin-published/Cyber%20Security%20and%20Business/Portugal%20-%20Dynamic%20Weather-Driven%20Algarve%20Tourism%20Campaign/14%20Jan%20-%20%28side%20deck%29%20Closing%20the%20Sunshine%20Gap%20-%20Algarve%20Surplus%20Strategy.pdf)
 
 ---
 

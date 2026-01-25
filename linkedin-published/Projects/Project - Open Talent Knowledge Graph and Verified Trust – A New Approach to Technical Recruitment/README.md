@@ -1,4 +1,4 @@
-[🏠 Home](../../../../README.md) / [For LinkedIn](../../../) / [Published](../../) / [Projects](../) / **Open Talent Knowledge Graph**
+[🏠 Home](../../../../README.md) / [LinkedIn Published](../../../) / [Projects](../) / **Open Talent Knowledge Graph**
 
 ---
 

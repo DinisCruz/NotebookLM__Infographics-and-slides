@@ -1,4 +1,4 @@
-[🏠 Home](../../../README.md) / [For LinkedIn](../../) / [Published](../) / **Strategic Partnerships**
+[🏠 Home](../../../README.md) / [LinkedIn Published](../../) / **Strategic Partnerships**
 
 ---
 

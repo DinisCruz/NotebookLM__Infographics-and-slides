@@ -42,7 +42,7 @@
 | 22 | Cypher node IDs match Mermaid node IDs | Warning |
 | 23 | Content accurately reflects source document | Required |
 | 24 | Navigation link depth matches folder depth (e.g., `../../../../README.md` for 4 levels) | Required |
-| 25 | File is in correct location (`_for_linkedin/published/` not `by-topic/`) | Required |
+| 25 | File is in correct location (`linkedin-published/` not `by-topic/`) | Required |
 
 ### Quick Validation Commands
 
@@ -150,7 +150,7 @@ du -h "path/to/slides_mosaic.png"
 | 6 | Collection Overview table present | Required |
 | 7 | All links in table are correct and working | Required |
 | 8 | Direct SEMANTIC-GRAPH.md links provided | Required |
-| 9 | Links point to `_for_linkedin/published/` (not `by-topic/`) | Required |
+| 9 | Links point to `linkedin-published/` (not `by-topic/`) | Required |
 | 10 | Use Cases section present | Warning |
 | 11 | Statistics section present | Warning |
 | 12 | Parent `curated-guides/README.md` updated | Required |
@@ -165,7 +165,7 @@ Use this checklist when moving content from staging to published location.
 
 | # | Check | Severity |
 |---|-------|----------|
-| 1 | Destination folder created in `_for_linkedin/published/[Category]/` | Required |
+| 1 | Destination folder created in `linkedin-published/[Category]/` | Required |
 | 2 | All files transferred (README, SEMANTIC-GRAPH, mosaic, images, PDFs, weblocs) | Required |
 | 3 | README.md navigation updated for new location depth | Required |
 | 4 | SEMANTIC-GRAPH.md navigation updated for new location depth | Required |
@@ -178,10 +178,10 @@ Use this checklist when moving content from staging to published location.
 
 ```bash
 # List files in destination
-ls -la "_for_linkedin/published/[Category]/[Folder]/"
+ls -la "linkedin-published/[Category]/[Folder]/"
 
 # Check README navigation depth
-head -5 "_for_linkedin/published/[Category]/[Folder]/README.md"
+head -5 "linkedin-published/[Category]/[Folder]/README.md"
 
 # Find any broken links in curated guides
 grep -r "by-topic" curated-guides/

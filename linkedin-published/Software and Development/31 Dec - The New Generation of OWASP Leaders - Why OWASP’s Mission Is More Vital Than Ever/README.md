@@ -1,4 +1,4 @@
-[🏠 Home](../../../../README.md) / [For LinkedIn](../../../) / [Published](../../) / [Software and Development](../) / **31 Dec   The New Generation of OWASP Leaders   Why OWASP’s Mission Is More Vital Than Ever**
+[🏠 Home](../../../../README.md) / [LinkedIn Published](../../../) / [Software and Development](../) / **31 Dec   The New Generation of OWASP Leaders   Why OWASP’s Mission Is More Vital Than Ever**
 
 ---
 

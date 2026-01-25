@@ -1,4 +1,4 @@
-[🏠 Home](../../../README.md) / [For LinkedIn](../../) / [To Publish](../) / **Search for Co-Authors and Co-Publishers**
+[🏠 Home](../../../README.md) / [LinkedIn Published](../../) / [To Publish](../) / **Search for Co-Authors and Co-Publishers**
 
 ---
 

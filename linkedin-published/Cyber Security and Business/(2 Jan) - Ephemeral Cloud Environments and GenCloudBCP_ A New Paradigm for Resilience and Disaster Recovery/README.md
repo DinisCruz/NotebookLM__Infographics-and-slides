@@ -1,4 +1,4 @@
-[🏠 Home](../../../../README.md) / [For LinkedIn](../../../) / [Published](../../) / [Cyber Security and Business](../) / **(2 Jan)   Ephemeral Cloud Environments and GenCloudBCP  A New Paradigm for Resilience and Disaster Recovery**
+[🏠 Home](../../../../README.md) / [LinkedIn Published](../../../) / [Cyber Security and Business](../) / **(2 Jan)   Ephemeral Cloud Environments and GenCloudBCP  A New Paradigm for Resilience and Disaster Recovery**
 
 ---
 

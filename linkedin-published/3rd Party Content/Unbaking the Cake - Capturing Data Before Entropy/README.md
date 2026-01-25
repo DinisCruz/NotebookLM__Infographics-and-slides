@@ -1,6 +1,6 @@
 # Unbaking the Cake - Capturing Data Before Entropy
 
-[← Back to 3rd Party Content](../README.md) · [Published](../../README.md) · [Home](../../../../README.md)
+[← Back to 3rd Party Content](../README.md) · [LinkedIn Published](../../README.md) · [Home](../../../../README.md)
 
 > A thought-provoking LinkedIn post by **Timothy Cook** challenging the current approach to enterprise AI and unstructured data. The core thesis: data is born structured but becomes "unstructured" when we compress it into documents for human consumption, stripping away lineage, metadata, and semantic context. The GenAI industry then spends billions trying to reverse-engineer this lost structure through RAG pipelines and vector databases. **The solution isn't better retrieval—it's better capture at the source.**
 
@@ -24,7 +24,7 @@
 
 [![All Slides](./slides_mosaic.png)](./24%20Jan%20-%20Capture_Not_Retrieval.pdf)
 
-*Click image to open the slide deck* · [⬇️ Download PDF](https://github.com/DinisCruz/NotebookLM__Infographics-and-slides/raw/refs/heads/main/_for_linkedin/published/3rd%20Party%20Content/Unbaking%20the%20Cake%20-%20Capturing%20Data%20Before%20Entropy/24%20Jan%20-%20Capture_Not_Retrieval.pdf)
+*Click image to open the slide deck* · [⬇️ Download PDF](https://github.com/DinisCruz/NotebookLM__Infographics-and-slides/raw/refs/heads/main/linkedin-published/3rd%20Party%20Content/Unbaking%20the%20Cake%20-%20Capturing%20Data%20Before%20Entropy/24%20Jan%20-%20Capture_Not_Retrieval.pdf)
 
 ---
 

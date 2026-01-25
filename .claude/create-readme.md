@@ -56,7 +56,7 @@ One-line description of what this content is about.
 
 **Example for a folder 4 levels deep:**
 ```markdown
-[🏠 Home](../../../../README.md) / [For LinkedIn](../../../) / [Published](../../) / [Development & Engineering](../) / **Current Folder**
+[🏠 Home](../../../../README.md) / [LinkedIn Published](../../../) / [Development & Engineering](../) / **Current Folder**
 ```
 
 ### 2. Quick Links Table
@@ -143,7 +143,7 @@ Common filename patterns:
 ## Example: Complete README
 
 ```markdown
-[🏠 Home](../../../../README.md) / [For LinkedIn](../../../) / [Published](../../) / [Development & Engineering](../) / **Pass-Driven Development (PDD)**
+[🏠 Home](../../../../README.md) / [LinkedIn Published](../../../) / [Development & Engineering](../) / **Pass-Driven Development (PDD)**
 
 ---
 

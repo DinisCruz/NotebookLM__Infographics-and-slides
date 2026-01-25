@@ -1,6 +1,6 @@
 # Deployment Modes for the Man-in-the-Middle Proxy Solution (AWS-Oriented)
 
-[← Back to Dev Briefs - MitmProxy Service](../README.md) · [Published](../../README.md) · [Home](../../../../README.md)
+[← Back to Dev Briefs/MitmProxy Service](../README.md) · [LinkedIn Published](../../README.md) · [Home](../../../../README.md)
 
 > Technical guide presenting six deployment models for the MiTM proxy solution, spanning the spectrum from single-machine monolith to fully distributed cloud-native microservices. The architecture's stateless design—externalizing state to S3—enables horizontal scaling across all models. Each deployment mode offers different trade-offs: all-in-one for simplicity, split tiers for security segmentation, single Lambda for serverless benefits, multiple Lambdas for maximum granularity, Kubernetes for container portability, and offline mode for air-gapped environments.
 
@@ -24,7 +24,7 @@
 
 [![All Slides](./slides_mosaic.png)](./23%20Jan-%20Deployment_Modes_Scaling_the_MiTM_Proxy.pdf)
 
-*Click image to open the slide deck* · [⬇️ Download PDF](https://github.com/DinisCruz/NotebookLM__Infographics-and-slides/raw/refs/heads/main/_for_linkedin/published/Dev%20Briefs%20-%20MitmProxy%20Service/Deployment%20Modes%20for%20the%20Man-in-the-Middle%20Proxy%20Solution%20%28AWS-Oriented%29/23%20Jan-%20Deployment_Modes_Scaling_the_MiTM_Proxy.pdf)
+*Click image to open the slide deck* · [⬇️ Download PDF](https://github.com/DinisCruz/NotebookLM__Infographics-and-slides/raw/refs/heads/main/linkedin-published/Dev%20Briefs%20-%20MitmProxy%20Service/Deployment%20Modes%20for%20the%20Man-in-the-Middle%20Proxy%20Solution%20%28AWS-Oriented%29/23%20Jan-%20Deployment_Modes_Scaling_the_MiTM_Proxy.pdf)
 
 ---
 

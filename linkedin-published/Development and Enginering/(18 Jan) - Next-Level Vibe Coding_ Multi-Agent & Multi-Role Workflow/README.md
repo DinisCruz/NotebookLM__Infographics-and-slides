@@ -1,4 +1,4 @@
-[🏠 Home](../../../../README.md) / [For LinkedIn](../../../) / [Published](../../) / [Development and Enginering](../) / **Next-Level Vibe Coding**
+[🏠 Home](../../../../README.md) / [LinkedIn Published](../../../) / [Development and Enginering](../) / **Next-Level Vibe Coding**
 
 ---
 

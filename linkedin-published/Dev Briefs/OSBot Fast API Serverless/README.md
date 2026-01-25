@@ -1,4 +1,4 @@
-[🏠 Home](../../../README.md) / [Published](../README.md) / **Dev Briefs - OSBot Fast API Serverless**
+[🏠 Home](../../../README.md) / [LinkedIn Published](../README.md) / **Dev Briefs/OSBot Fast API Serverless**
 
 ---
 
@@ -24,7 +24,7 @@ A centralized, service-agnostic mechanism for registering and discovering FastAP
 
 [![All Slides](./slides_mosaic.png)](./24%20Jan%20-%20Services_Registry_Implementation_Blueprint.pdf)
 
-*Click image to open the slide deck* · [⬇️ Download PDF](https://github.com/DinisCruz/NotebookLM__Infographics-and-slides/raw/refs/heads/main/_for_linkedin/published/Dev%20Briefs%20-%20OSBot%20Fast%20API%20Serverless/24%20Jan%20-%20Services_Registry_Implementation_Blueprint.pdf)
+*Click image to open the slide deck* · [⬇️ Download PDF](https://github.com/DinisCruz/NotebookLM__Infographics-and-slides/raw/refs/heads/main/linkedin-published/Dev%20Briefs%20-%20OSBot%20Fast%20API%20Serverless/24%20Jan%20-%20Services_Registry_Implementation_Blueprint.pdf)
 
 ---
 

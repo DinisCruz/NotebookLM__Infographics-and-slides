@@ -46,7 +46,7 @@ NotebookLM__Infographics-and-slides/
 │   ├── neo4j-import.md           # Neo4j sandbox visualization
 │   └── create-curated-guide.md   # Collection page creation
 │
-├── _for_linkedin/         # LinkedIn publishing pipeline
+├── linkedin-published/         # LinkedIn publishing pipeline
 │   ├── published/         # Already shared on LinkedIn (fully structured)
 │   └── to-publish/        # Queue for future posts
 │
@@ -76,7 +76,7 @@ Each content folder should have two markdown files:
 ```markdown
 # Title
 
-[← Back](../README.md) · [Published](../../README.md) · [🏠 Home](../../../../README.md)
+[← Back](../README.md) · [LinkedIn Published](../../README.md) · [🏠 Home](../../../../README.md)
 
 > Overview blockquote summarizing the content
 
@@ -271,8 +271,8 @@ All content creation tasks should use the **two-pass workflow** for quality assu
 
 ### Adding content to LinkedIn pipeline
 
-- New content goes in `_for_linkedin/to-publish/[category]/`
-- After publishing, move to `_for_linkedin/published/[category]/`
+- New content goes in `linkedin-published/__to-publish/[category]/`
+- After publishing, move to `linkedin-published/[category]/`
 
 ### Creating a curated guide
 
@@ -328,7 +328,7 @@ When starting a new Cowork session on this repo:
 - [ ] Claude auto-loads `CLAUDE.md` at repo root
 - [ ] For deep work, read this brief (`.claude/MAIN.md`)
 - [ ] Understand current task (new content? navigation fix? bulk updates?)
-- [ ] Check staging area (`_for_linkedin/to-publish/`) for pending work
+- [ ] Check staging area (`linkedin-published/__to-publish/`) for pending work
 - [ ] Reference specific briefs as needed
 - [ ] Use `SEMANTIC-GRAPH.md` (not ~~CONTENT.md~~)
 - [ ] Include Mermaid diagrams + Cypher export

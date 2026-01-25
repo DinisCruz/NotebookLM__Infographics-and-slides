@@ -1,4 +1,4 @@
-[🏠 Home](../../../../README.md) / [For LinkedIn](../../../) / [Published](../../) / [OSBot-Utils](../) / **Features**
+[🏠 Home](../../../../README.md) / [LinkedIn Published](../../../) / [OSBot-Utils](../) / **Features**
 
 ---
 

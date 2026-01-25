@@ -28,11 +28,11 @@ The key insight: you don't need massive funding or a large team. You need a real
 | Resource | Focus | Link |
 |----------|-------|------|
 | **Blueprint for a Lean, AI-Driven Startup** | The 6-step playbook from problem to scale | [View →](../../by-collaborator/Rafael%20Knuth/Blueprint%20for%20a%20Lean%2C%20AI-Driven%20Startup%20in%202026/) |
-| **Empowering the GenAI Entrepreneur** | From idea to impact with vibe coding | [View →](../../_for_linkedin/published/Development%20and%20Enginering/%2818%20Jan%29%20-%20Empowering%20the%20GenAI%20Entrepreneur_%20From%20Idea%20to%20Impact/) |
-| **Next-Level Vibe Coding** | Multi-agent AI workflow for building | [View →](../../_for_linkedin/published/Development%20and%20Enginering/%2818%20Jan%29%20-%20Next-Level%20Vibe%20Coding_%20Multi-Agent%20%26%20Multi-Role%20Workflow/) |
+| **Empowering the GenAI Entrepreneur** | From idea to impact with vibe coding | [View →](../../linkedin-published/Development%20and%20Enginering/%2818%20Jan%29%20-%20Empowering%20the%20GenAI%20Entrepreneur_%20From%20Idea%20to%20Impact/) |
+| **Next-Level Vibe Coding** | Multi-agent AI workflow for building | [View →](../../linkedin-published/Development%20and%20Enginering/%2818%20Jan%29%20-%20Next-Level%20Vibe%20Coding_%20Multi-Agent%20%26%20Multi-Role%20Workflow/) |
 | **Open-Source-First Strategy** | Go-to-market approach for GenAI companies | [View →](../../by-collaborator/Rafael%20Knuth/Open-Source-First%20Strategy%20for%20Generative%20AI%20Companies/) |
-| **Human Checkpoints in AI Workflows** | Quality control in AI-assisted building | [View →](../../_for_linkedin/published/Development%20and%20Enginering/%2816%20Jan%29%20-%20The%20Importance%20of%20Human%20Checkpoints%20in%20AI%20Agent%20Workflows/) |
-| **Pass-Driven Development** | Practical dev methodology for iteration | [View →](../../_for_linkedin/published/Development%20and%20Enginering/%2816%20Jan%29%20-%20Pass-Driven%20Development%20%28PDD%29%20-%20A%20Practical%20Alternative%20to%20Traditional%20TDD/) |
+| **Human Checkpoints in AI Workflows** | Quality control in AI-assisted building | [View →](../../linkedin-published/Development%20and%20Enginering/%2816%20Jan%29%20-%20The%20Importance%20of%20Human%20Checkpoints%20in%20AI%20Agent%20Workflows/) |
+| **Pass-Driven Development** | Practical dev methodology for iteration | [View →](../../linkedin-published/Development%20and%20Enginering/%2816%20Jan%29%20-%20Pass-Driven%20Development%20%28PDD%29%20-%20A%20Practical%20Alternative%20to%20Traditional%20TDD/) |
 
 ---
 

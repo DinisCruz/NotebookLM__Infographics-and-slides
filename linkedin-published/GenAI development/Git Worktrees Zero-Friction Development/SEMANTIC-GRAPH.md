@@ -1,6 +1,6 @@
 # Git Worktrees: Multiple Working Directories, One Repository
 
-[📖 README](./README.md) · [🖼️ Infographic](./24%20Jan%20-%20Git%20Worktrees%20Multi-Tasking%20Bottleneck%20Solution.jpg) · [📑 Slides](./24%20Jan%20-%20Git_Worktrees_Zero_Friction_Development.pdf) · [🏠 Home](../../../../README.md) · [Published](../../README.md)
+[📖 README](./README.md) · [🖼️ Infographic](./24%20Jan%20-%20Git%20Worktrees%20Multi-Tasking%20Bottleneck%20Solution.jpg) · [📑 Slides](./24%20Jan%20-%20Git_Worktrees_Zero_Friction_Development.pdf) · [🏠 Home](../../../../README.md) · [LinkedIn Published](../../README.md)
 
 > *Semantic Knowledge Graph (SKG) — machine-readable metadata for search, discovery, and graph database integration*
 

@@ -1,6 +1,6 @@
 # AWS Well-Architected Framework Review – Web Content Filtering Proxy Solution
 
-[← Back to Dev Briefs - MitmProxy Service](../README.md) · [Published](../../README.md) · [Home](../../../../README.md)
+[← Back to Dev Briefs/MitmProxy Service](../README.md) · [LinkedIn Published](../../README.md) · [Home](../../../../README.md)
 
 > AWS Well-Architected Framework review evaluating a man-in-the-middle web proxy designed for advanced content filtering against all six AWS pillars. Key findings include strong performance efficiency (9/10) and cost optimization (9/10) through serverless design and Spot usage, but operational gaps (6/10) due to missing runbooks, dashboards, and alarms. The review provides detailed recommendations for each pillar to achieve production-grade maturity.
 
@@ -24,7 +24,7 @@
 
 [![All Slides](./slides_mosaic.png)](./22%20Jan%20-%20Web_Content_Filtering_Proxy_Audit.pdf)
 
-*Click image to open the slide deck* · [⬇️ Download PDF](https://github.com/DinisCruz/NotebookLM__Infographics-and-slides/raw/refs/heads/main/_for_linkedin/published/Dev%20Briefs%20-%20MitmProxy%20Service/AWS%20Well-Architected%20Framework%20Review%20%E2%80%93%20Web%20Content%20Filtering%20Proxy%20Solution/22%20Jan%20-%20Web_Content_Filtering_Proxy_Audit.pdf)
+*Click image to open the slide deck* · [⬇️ Download PDF](https://github.com/DinisCruz/NotebookLM__Infographics-and-slides/raw/refs/heads/main/linkedin-published/Dev%20Briefs%20-%20MitmProxy%20Service/AWS%20Well-Architected%20Framework%20Review%20%E2%80%93%20Web%20Content%20Filtering%20Proxy%20Solution/22%20Jan%20-%20Web_Content_Filtering_Proxy_Audit.pdf)
 
 ---
 

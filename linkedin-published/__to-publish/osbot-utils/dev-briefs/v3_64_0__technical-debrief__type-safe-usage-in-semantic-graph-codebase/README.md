@@ -1,4 +1,4 @@
-[🏠 Home](../../../../../README.md) / [For LinkedIn](../../../../) / [To Publish](../../../) / [osbot-utils](../../) / [Dev Briefs](../) / **Type_Safe in Semantic Graphs: Technical Debrief (v3.64.0)**
+[🏠 Home](../../../../../README.md) / [LinkedIn Published](../../../../) / [To Publish](../../../) / [osbot-utils](../../) / [Dev Briefs](../) / **Type_Safe in Semantic Graphs: Technical Debrief (v3.64.0)**
 
 ---
 
