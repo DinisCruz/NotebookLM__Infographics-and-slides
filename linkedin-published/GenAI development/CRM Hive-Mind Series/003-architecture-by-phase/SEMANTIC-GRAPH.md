@@ -1,6 +1,6 @@
-# Semantic Knowledge Graph: Architecture by Phase
+[🏠 Home](../../../../README.md) / [LinkedIn Published](../../../README.md) / [GenAI Development](../../README.md) / [CRM Hive-Mind Series](../README.md) / [Architecture by Phase](./README.md) / **Semantic Graph**
 
-[Home](../../../../../../README.md) / [GenAI Development](../../../../README.md) / [Dev Tools](../../../README.md) / [Claude-Flow](../../README.md) / [Create CRM Using Hive Mind](../README.md) / [Architecture by Phase](README.md) / Semantic Graph
+# Semantic Knowledge Graph: Architecture by Phase
 
 ---
 

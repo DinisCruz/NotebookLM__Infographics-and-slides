@@ -1,6 +1,6 @@
-# Semantic Knowledge Graph: CRM Development Debrief
+[🏠 Home](../../../../README.md) / [LinkedIn Published](../../../README.md) / [GenAI Development](../../README.md) / [CRM Hive-Mind Series](../README.md) / [CRM Development Debrief](./README.md) / **Semantic Graph**
 
-[Home](../../../../../../README.md) > [GenAI Development](../../../../../README.md) > [Dev Tools](../../../../README.md) > [Claude-Flow](../../../README.md) > [Create CRM Using Hive-Mind](../README.md) > [CRM Development Debrief](README.md) > **Semantic Graph**
+# Semantic Knowledge Graph: CRM Development Debrief
 
 ---
 

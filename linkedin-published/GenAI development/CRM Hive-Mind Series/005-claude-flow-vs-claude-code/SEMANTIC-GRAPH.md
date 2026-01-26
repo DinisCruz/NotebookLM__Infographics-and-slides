@@ -1,6 +1,6 @@
 # Semantic Knowledge Graph: Claude-Flow vs Claude Code
 
-[Home](../../../../../../README.md) > [GenAI Development](../../../../README.md) > [Dev Tools](../../../README.md) > [Claude-Flow](../../README.md) > [Create CRM Using Hive-Mind](../README.md) > [Claude-Flow vs Claude Code](README.md) > **Semantic Graph**
+[🏠 Home](../../../../README.md) / [LinkedIn Published](../../../README.md) / [GenAI Development](../../README.md) / [CRM Hive-Mind Series](../README.md) / [Claude-Flow vs Claude Code](./README.md) / **Semantic Graph**
 
 ---
 
@@ -403,6 +403,10 @@ CREATE (crm)-[:USED]->(direct)
 
 ## Navigation
 
-- **Back to README**: [README.md](README.md)
-- **Parent**: [Create CRM Using Hive-Mind](../README.md)
-- **Home**: [Repository Root](../../../../../../README.md)
+| Link | Path |
+|------|------|
+| Root | [../../../../README.md](../../../../README.md) |
+| LinkedIn Published | [../../../README.md](../../../README.md) |
+| GenAI Development | [../../README.md](../../README.md) |
+| CRM Hive-Mind Series | [../README.md](../README.md) |
+| This Document | [./README.md](./README.md) |

@@ -1,6 +1,6 @@
-# Semantic Knowledge Graph: Executive Summary - CRM Development
+[🏠 Home](../../../../README.md) / [LinkedIn Published](../../../README.md) / [GenAI Development](../../README.md) / [CRM Hive-Mind Series](../README.md) / [Executive Summary](./README.md) / **Semantic Graph**
 
-[README](README.md) | [Source](000-executive-summary.md) | [Parent](../README.md)
+# Semantic Knowledge Graph: Executive Summary - CRM Development
 
 ---
 
@@ -336,5 +336,5 @@ CREATE (hitl)-[:VALIDATES]->(tests)
 |------|-------------|
 | [README.md](README.md) | Folder overview and resource links |
 | [Source Document](000-executive-summary.md) | Original executive briefing |
-| [Parent Directory](../README.md) | Create CRM Using Hive-Mind |
-| [Home](../../../../../../README.md) | Repository root |
+| [Parent Directory](../README.md) | CRM Hive-Mind Series |
+| [Root](../../../../README.md) | Repository root |

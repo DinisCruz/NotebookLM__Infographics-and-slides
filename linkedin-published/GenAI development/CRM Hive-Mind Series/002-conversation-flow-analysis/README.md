@@ -1,6 +1,6 @@
 # Conversation Flow Analysis
 
-[Home](../../../../../../README.md) > [GenAI Development](../../../../README.md) > [Dev Tools](../../../README.md) > [Claude-Flow](../../README.md) > [Create CRM Using Hive-Mind](../README.md) > **Conversation Flow Analysis**
+[🏠 Home](../../../../README.md) / [LinkedIn Published](../../../README.md) / [GenAI Development](../../README.md) / [CRM Hive-Mind Series](../README.md) / **Conversation Flow Analysis**
 
 ---
 
@@ -73,4 +73,9 @@ Contents:
 
 ---
 
-*Part of the Claude-Flow development debrief series.*
+## Navigation
+
+| Direction | Link |
+|-----------|------|
+| Parent | [CRM Hive-Mind Series](../README.md) |
+| Root | [Home](../../../../README.md) |

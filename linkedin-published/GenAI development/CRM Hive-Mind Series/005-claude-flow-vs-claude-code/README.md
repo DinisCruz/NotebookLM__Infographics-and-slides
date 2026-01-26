@@ -1,6 +1,6 @@
 # Claude-Flow vs Claude Code: From AI Assistant to AI Team
 
-[Home](../../../../../../README.md) > [GenAI Development](../../../../README.md) > [Dev Tools](../../../README.md) > [Claude-Flow](../../README.md) > [Create CRM Using Hive-Mind](../README.md) > **Claude-Flow vs Claude Code**
+[🏠 Home](../../../../README.md) / [LinkedIn Published](../../../README.md) / [GenAI Development](../../README.md) / [CRM Hive-Mind Series](../README.md) / **Claude-Flow vs Claude Code**
 
 ---
 
@@ -113,6 +113,9 @@ npx claude-flow@alpha hive-mind spawn "Your vision here" --claude
 
 ## Navigation
 
-- **Previous**: [004 - Phase 4: Drag-and-Drop Feature](../004-phase-4-drag-and-drop/README.md)
-- **Next**: [006 - Docker Environment Design](../006-docker-environment-design/README.md)
-- **Parent**: [Create CRM Using Hive-Mind](../README.md)
+| Direction | Link |
+|-----------|------|
+| **Parent** | [CRM Hive-Mind Series](../README.md) |
+| **Root** | [Home](../../../../README.md) |
+| **Previous** | [004 - User Stories and Features](../004-user-stories-and-features/README.md) |
+| **Next** | [006 - Docker Environment Design](../006-docker-environment-design/README.md) |

@@ -1,6 +1,6 @@
-# Semantic Knowledge Graph: Conversation Flow Analysis
+[🏠 Home](../../../../README.md) / [LinkedIn Published](../../../README.md) / [GenAI Development](../../README.md) / [CRM Hive-Mind Series](../README.md) / [Conversation Flow Analysis](./README.md) / **Semantic Graph**
 
-[README](README.md) | [Source Document](002-conversation-flow-analysis.md)
+# Semantic Knowledge Graph: Conversation Flow Analysis
 
 ---
 
