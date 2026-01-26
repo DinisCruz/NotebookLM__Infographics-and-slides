@@ -68,8 +68,9 @@ For detailed concept mapping, relationships, and exportable graph data, see:
 
 | Post | Content |
 |------|---------|
-| [Post with Source Material](LinkedIn%20-%20post%20with%20source%20material.webloc) | Original article discussion |
-| [Post with Slides](Linkedin%20-%20post%20with%20slides.webloc) | Slide deck presentation |
+| [Post with Source Material](https://www.linkedin.com/feed/update/urn:li:activity:7421527915898638337/) | Original article discussion |
+| [Post with Slides](https://www.linkedin.com/feed/update/urn:li:ugcPost:7421605976543367168/) | Slide deck presentation |
+| [Post with Semantic Graph](https://www.linkedin.com/feed/update/urn:li:ugcPost:7421615241991544832/) | Knowledge graph and Cypher export |
 
 ---
 
