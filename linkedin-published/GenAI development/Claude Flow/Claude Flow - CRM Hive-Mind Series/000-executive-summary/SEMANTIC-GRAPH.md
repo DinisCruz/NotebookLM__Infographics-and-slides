@@ -1,4 +1,4 @@
-[🏠 Home](../../../../README.md) / [LinkedIn Published](../../../README.md) / [GenAI Development](../../README.md) / [CRM Hive-Mind Series](../README.md) / [Executive Summary](./README.md) / **Semantic Graph**
+[🏠 Home](../../../../../README.md) / [LinkedIn Published](../../../../README.md) / [GenAI Development](../../../README.md) / [Claude Flow](../../README.md) / [CRM Hive-Mind Series](../README.md) / [Executive Summary](./README.md) / **Semantic Graph**
 
 # Semantic Knowledge Graph: Executive Summary - CRM Development
 
@@ -337,4 +337,4 @@ CREATE (hitl)-[:VALIDATES]->(tests)
 | [README.md](README.md) | Folder overview and resource links |
 | [Source Document](000-executive-summary.md) | Original executive briefing |
 | [Parent Directory](../README.md) | CRM Hive-Mind Series |
-| [Root](../../../../README.md) | Repository root |
+| [Root](../../../../../README.md) | Repository root |

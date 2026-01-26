@@ -1,6 +1,6 @@
 # Semantic Knowledge Graph: CRM Pro User Stories and Features
 
-[🏠 Home](../../../../README.md) / [LinkedIn Published](../../../README.md) / [GenAI Development](../../README.md) / [CRM Hive-Mind Series](../README.md) / [User Stories and Features](./README.md) / **Semantic Graph**
+[🏠 Home](../../../../../README.md) / [LinkedIn Published](../../../../README.md) / [GenAI Development](../../../README.md) / [Claude Flow](../../README.md) / [CRM Hive-Mind Series](../README.md) / [User Stories and Features](./README.md) / **Semantic Graph**
 
 ---
 

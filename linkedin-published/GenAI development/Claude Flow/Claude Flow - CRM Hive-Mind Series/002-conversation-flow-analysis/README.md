@@ -1,6 +1,6 @@
 # Conversation Flow Analysis
 
-[🏠 Home](../../../../README.md) / [LinkedIn Published](../../../README.md) / [GenAI Development](../../README.md) / [CRM Hive-Mind Series](../README.md) / **Conversation Flow Analysis**
+[🏠 Home](../../../../../README.md) / [LinkedIn Published](../../../../README.md) / [GenAI Development](../../../README.md) / [Claude Flow](../../README.md) / [CRM Hive-Mind Series](../README.md) / **Conversation Flow Analysis**
 
 ---
 
@@ -78,4 +78,4 @@ Contents:
 | Direction | Link |
 |-----------|------|
 | Parent | [CRM Hive-Mind Series](../README.md) |
-| Root | [Home](../../../../README.md) |
+| Root | [Home](../../../../../README.md) |

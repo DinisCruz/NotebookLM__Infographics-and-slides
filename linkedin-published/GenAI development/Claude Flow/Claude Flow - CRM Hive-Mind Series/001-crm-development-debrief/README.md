@@ -1,6 +1,6 @@
 # CRM Development Debrief
 
-[🏠 Home](../../../../README.md) / [LinkedIn Published](../../../README.md) / [GenAI Development](../../README.md) / [CRM Hive-Mind Series](../README.md) / **CRM Development Debrief**
+[🏠 Home](../../../../../README.md) / [LinkedIn Published](../../../../README.md) / [GenAI Development](../../../README.md) / [Claude Flow](../../README.md) / [CRM Hive-Mind Series](../README.md) / **CRM Development Debrief**
 
 ---
 
@@ -63,4 +63,4 @@ For detailed concept mapping, arguments, and machine-readable graph exports, see
 | Direction | Link |
 |-----------|------|
 | Parent | [CRM Hive-Mind Series](../README.md) |
-| Root | [Home](../../../../README.md) |
+| Root | [Home](../../../../../README.md) |

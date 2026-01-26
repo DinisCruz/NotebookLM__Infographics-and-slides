@@ -1,4 +1,4 @@
-[🏠 Home](../../../README.md) / [LinkedIn Published](../../README.md) / [GenAI Development](../README.md) / **CRM Hive-Mind Series**
+[🏠 Home](../../../../README.md) / [LinkedIn Published](../../../README.md) / [GenAI Development](../../README.md) / [Claude Flow](../README.md) / **CRM Hive-Mind Series**
 
 ---
 
@@ -125,5 +125,5 @@ This series demonstrates the practical application of AI swarm development, cove
 
 | Direction | Link |
 |-----------|------|
-| ⬆️ Parent | [GenAI Development](../README.md) |
-| 🏠 Home | [Repository Root](../../../README.md) |
+| ⬆️ Parent | [Claude Flow](../README.md) |
+| 🏠 Home | [Repository Root](../../../../README.md) |

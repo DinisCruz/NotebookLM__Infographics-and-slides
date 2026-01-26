@@ -1,6 +1,6 @@
 # Docker Environment Design: Safe and Ephemeral AI Development
 
-[🏠 Home](../../../../README.md) / [LinkedIn Published](../../../README.md) / [GenAI Development](../../README.md) / [CRM Hive-Mind Series](../README.md) / **Docker Environment Design**
+[🏠 Home](../../../../../README.md) / [LinkedIn Published](../../../../README.md) / [GenAI Development](../../../README.md) / [Claude Flow](../../README.md) / [CRM Hive-Mind Series](../README.md) / **Docker Environment Design**
 
 ---
 
@@ -91,7 +91,7 @@ kompose convert -f docker-compose.yml
 | Direction | Link |
 |-----------|------|
 | **Parent** | [CRM Hive-Mind Series](../README.md) |
-| **Root** | [Home](../../../../README.md) |
+| **Root** | [Home](../../../../../README.md) |
 | **Previous** | [005 - Claude-Flow vs Claude Code](../005-claude-flow-vs-claude-code/README.md) |
 
 ---

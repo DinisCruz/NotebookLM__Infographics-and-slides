@@ -1,6 +1,6 @@
 # Architecture by Phase
 
-[🏠 Home](../../../../README.md) / [LinkedIn Published](../../../README.md) / [GenAI Development](../../README.md) / [CRM Hive-Mind Series](../README.md) / **Architecture by Phase**
+[🏠 Home](../../../../../README.md) / [LinkedIn Published](../../../../README.md) / [GenAI Development](../../../README.md) / [Claude Flow](../../README.md) / [CRM Hive-Mind Series](../README.md) / **Architecture by Phase**
 
 ---
 
@@ -83,4 +83,4 @@ Contents:
 | Direction | Link |
 |-----------|------|
 | Parent | [CRM Hive-Mind Series](../README.md) |
-| Root | [Home](../../../../README.md) |
+| Root | [Home](../../../../../README.md) |

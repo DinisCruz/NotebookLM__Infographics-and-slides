@@ -1,6 +1,6 @@
 # Executive Summary: CRM Development with Claude-Flow
 
-[🏠 Home](../../../../README.md) / [LinkedIn Published](../../../README.md) / [GenAI Development](../../README.md) / [CRM Hive-Mind Series](../README.md) / **Executive Summary**
+[🏠 Home](../../../../../README.md) / [LinkedIn Published](../../../../README.md) / [GenAI Development](../../../README.md) / [Claude Flow](../../README.md) / [CRM Hive-Mind Series](../README.md) / **Executive Summary**
 
 ---
 
@@ -94,4 +94,4 @@ For detailed concept mapping, relationships, and exportable graph data, see:
 | Direction | Link |
 |-----------|------|
 | Parent | [CRM Hive-Mind Series](../README.md) |
-| Root | [Home](../../../../README.md) |
+| Root | [Home](../../../../../README.md) |
