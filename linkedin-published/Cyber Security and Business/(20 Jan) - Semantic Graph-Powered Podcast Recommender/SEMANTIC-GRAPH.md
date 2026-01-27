@@ -130,25 +130,25 @@ flowchart TB
 
 ```mermaid
 flowchart LR
-    subgraph vector ["❌ VECTOR APPROACH"]
+    subgraph vector ["VECTOR APPROACH"]
         V_CONTENT["Podcast\nContent"]
         V_EMBED["Embedding\nModel"]
         V_STORE["Vector\nDatabase"]
         V_QUERY["User Query\nEmbedding"]
         V_RESULT["Similar\nVectors"]
-        V_EXPLAIN["❓ Why?\n(Black Box)"]
+        V_EXPLAIN["Why?\nBlack Box"]
 
         V_CONTENT --> V_EMBED --> V_STORE
         V_QUERY --> V_STORE --> V_RESULT --> V_EXPLAIN
     end
 
-    subgraph graph ["✅ KNOWLEDGE GRAPH APPROACH"]
+    subgraph graph ["KNOWLEDGE GRAPH APPROACH"]
         G_CONTENT["Podcast\nContent"]
         G_LLM["LLM\nExtraction"]
         G_STORE["Graph\nDatabase"]
         G_PERSONA["User\nPersona Graph"]
         G_RESULT["Matched\nSubgraph"]
-        G_EXPLAIN["✅ Path Trace\n(Glass Box)"]
+        G_EXPLAIN["Path Trace\nGlass Box"]
 
         G_CONTENT --> G_LLM --> G_STORE
         G_PERSONA --> G_STORE --> G_RESULT --> G_EXPLAIN
