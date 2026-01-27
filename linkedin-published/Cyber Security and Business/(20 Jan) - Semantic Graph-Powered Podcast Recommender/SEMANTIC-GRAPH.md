@@ -588,6 +588,71 @@ CREATE (matcher)-[:FEEDS]->(explainer)
 
 ---
 
+### How to Import into Neo4j Sandbox
+
+1. **Create a free Neo4j Sandbox** at [sandbox.neo4j.com](https://sandbox.neo4j.com)
+   - Select "Blank Sandbox" (or any template, then clear it)
+   - Wait for provisioning (~30 seconds)
+
+2. **Open Neo4j Browser** by clicking "Open with Browser"
+
+3. **Copy the entire Cypher script above** and paste into the query box
+
+4. **Run the query** (click Play or press Ctrl+Enter)
+
+5. **Verify import** with: `MATCH (n) RETURN count(n) as nodes` (should return ~22 nodes)
+
+---
+
+### Sample Queries to Explore
+
+**1. View the entire knowledge graph:**
+```cypher
+MATCH (n)-[r]->(m)
+RETURN n, r, m
+```
+
+**2. Find all components in the Ingestion Phase:**
+```cypher
+MATCH (phase:Phase {name: 'Offline Ingestion Phase'})-[:CONTAINS]->(c:Component)
+RETURN phase.name AS Phase, collect(c.name) AS Components
+```
+
+**3. Trace what enables Explainable Recommendations:**
+```cypher
+MATCH path = (c)-[:ENABLES*]->(cap:Capability {name: 'Explainable Recommendations'})
+RETURN path
+```
+
+**4. Find the data flow from RSS to recommendations:**
+```cypher
+MATCH path = (start:Component {name: 'RSS Fetcher'})-[:FEEDS|PRODUCES|INPUT_TO*]->(end)
+RETURN path
+```
+
+**5. What technologies does each component use?**
+```cypher
+MATCH (c:Component)-[:USES]->(t:Technology)
+RETURN c.name AS Component, t.name AS Technology
+ORDER BY c.name
+```
+
+**6. Find all principles the system enforces:**
+```cypher
+MATCH (s:System)-[:ENFORCES]->(p:Principle)
+RETURN s.name AS System, collect(p.name) AS Principles
+```
+
+**7. Shortest path between two nodes:**
+```cypher
+MATCH path = shortestPath(
+  (rss:Component {name: 'RSS Fetcher'})-[*]-(cap:Capability {name: 'Explainable Recommendations'})
+)
+RETURN path
+```
+
+---
+
 ## Metadata
 
 | Field | Value |
