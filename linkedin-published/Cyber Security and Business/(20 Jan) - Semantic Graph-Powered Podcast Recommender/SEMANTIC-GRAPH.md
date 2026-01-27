@@ -130,7 +130,7 @@ flowchart TB
 
 ```mermaid
 flowchart LR
-    subgraph vector ["VECTOR APPROACH"]
+    subgraph vector_approach ["VECTOR APPROACH"]
         V_CONTENT["Podcast\nContent"]
         V_EMBED["Embedding\nModel"]
         V_STORE["Vector\nDatabase"]
@@ -142,7 +142,7 @@ flowchart LR
         V_QUERY --> V_STORE --> V_RESULT --> V_EXPLAIN
     end
 
-    subgraph graph ["KNOWLEDGE GRAPH APPROACH"]
+    subgraph kg_approach ["KNOWLEDGE GRAPH APPROACH"]
         G_CONTENT["Podcast\nContent"]
         G_LLM["LLM\nExtraction"]
         G_STORE["Graph\nDatabase"]
@@ -154,8 +154,8 @@ flowchart LR
         G_PERSONA --> G_STORE --> G_RESULT --> G_EXPLAIN
     end
 
-    style vector fill:#ffcdd2,stroke:#c62828
-    style graph fill:#c8e6c9,stroke:#2e7d32
+    style vector_approach fill:#ffcdd2,stroke:#c62828
+    style kg_approach fill:#c8e6c9,stroke:#2e7d32
 ```
 
 ### Persona Graph Matching
