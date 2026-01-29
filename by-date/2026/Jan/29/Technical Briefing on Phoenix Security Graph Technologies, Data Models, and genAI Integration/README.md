@@ -8,6 +8,28 @@
 
 ---
 
+## Infographic
+
+![The Phoenix Actionable ASPM Model](./29%20Jan%20-%20The%20Phoenix%20Actionable%20ASPM%20Model.jpg)
+
+---
+
+## Slide Deck
+
+[![Slide Deck Mosaic](slides_mosaic.png)](./29%20Jan%20-%20Phoenix_Security_Architecture_Deep_Dive.pdf)
+
+*Click the mosaic above to view the full 14-slide presentation (PDF)*
+
+---
+
+## Semantic Knowledge Graph
+
+For detailed concept mapping, relationships, and exportable graph data, see:
+
+**[SEMANTIC-GRAPH.md](SEMANTIC-GRAPH.md)** — Contains Mermaid diagrams, concept taxonomy, ontology, and Cypher export for Neo4j integration.
+
+---
+
 ## Overview
 
 This technical briefing examines Phoenix Security's publicly evidenced technology surface area, focusing on three key dimensions:
@@ -119,42 +141,6 @@ Phoenix explicitly states intention to integrate remediation into modern IDE and
 
 ---
 
-## Canonical Entity Model (Inferred)
-
-**Node Families:**
-- **Software Construction**: Repository/Component, FOSS/SBOM elements, Build artefacts, SAST results
-- **Runtime & Infrastructure**: Container, Cloud resources/services, Environments
-- **Security Artefacts**: Vulnerability, Finding, Campaigns
-- **Org Model**: Teams, Business units, Owners/maintainers
-- **Threat Intelligence**: CVE/CWE, Threat actors, Attack techniques, Exploitability evidence
-
-**Edge Families:**
-- `APPLICATION contains COMPONENT`
-- `COMPONENT/BUILD produces CONTAINER_IMAGE`
-- `CONTAINER_IMAGE runs_in ENVIRONMENT`
-- `FINDING maps_to VULNERABILITY`
-- `VULNERABILITY linked_to CVE/CWE`
-- `VULNERABILITY impacts APPLICATION/BUSINESS_UNIT/TEAM`
-- `VULNERABILITY associated_with CAMPAIGN/ATTACK_TECHNIQUE/THREAT_ACTOR`
-
----
-
-## Assets
-
-### Infographic
-
-![The Phoenix Actionable ASPM Model](./29%20Jan%20-%20The%20Phoenix%20Actionable%20ASPM%20Model.jpg)
-
-### Slide Deck Mosaic (14 slides)
-
-![Slides Mosaic](./slides_mosaic.png)
-
-### Source Document
-
-- [Technical Briefing PDF](./Technical%20Briefing%20on%20Phoenix%20Security's%20Graph%20Technologies,%20Data%20Models,%20and%20genAI%20Integration.pdf) — Full analysis with architecture diagrams and reference links
-
----
-
 ## Key Questions for Architecture Review
 
 1. **Graph Persistence**: What is the authoritative storage for the connected model (graph-native vs relational + projection)?
@@ -166,7 +152,7 @@ Phoenix explicitly states intention to integrate remediation into modern IDE and
 
 ## Related Content
 
-- [How Dinis Works — Curated Guide](../../../../curated-guides/how-dinis-works/) — Workflow demonstration prepared for Phoenix Security
+- [How Dinis Works — Curated Guide](../../../../curated-guides/how-dinis-works/) — Workflow demonstration
 - [Semantic Knowledge Graphs Collection](../../../../curated-guides/semantic-knowledge-graphs/) — Related graph-based documentation approaches
 - [GenCloudTwin](../../../../linkedin-published/Cyber%20Security%20and%20Business/%282%20Jan%29%20-%20%20GenCloudTwin%20-%20Creating%20a%20Cloud%20Environment%20Digital%20Twin%20with%20Semantic%20Knowledge%20Graphs/) — Complementary cloud digital twin concept
 

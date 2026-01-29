@@ -12,5 +12,6 @@ Thematic guides that synthesize content from across the repository, providing cu
 
 | Guide | Description |
 |-------|-------------|
+| [How Dinis Works](./how-dinis-works/) | AI-assisted development, semantic knowledge graphs, and the NotebookLM + Claude Cowork pipeline |
 | [From Idea to Startup](./from-idea-to-startup/) | Complete journey from initial idea to operating enterprise using AI-driven approaches |
 | [Semantic Knowledge Graphs](./semantic-knowledge-graphs/) | First batch of enhanced SEMANTIC-GRAPH.md files with Mermaid diagrams and Neo4j import |
