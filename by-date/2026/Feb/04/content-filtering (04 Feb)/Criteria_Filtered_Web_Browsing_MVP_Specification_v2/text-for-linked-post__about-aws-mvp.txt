@@ -1,0 +1,29 @@
+Here is a nice example of the Web Content Filtering platform I have been working on for a while in action (based on Mitmproxy)
+
+The use case is simple but powerful: what if you could visit your regular news or contents sources websites and only see the content that matches your intent? 
+
+This is not via a different app, not an RSS reader, but seeing the actual website, with the same design and the same URL
+
+In the MVP images you can see below, I'm using the AWS News Blog (which actually I don't check regularly, because it has far too much content that I'm not interested in)
+
+In this particular example, I used Claude Sonnet to classify each article based on this criteria:
+
+🟢 Engaging/genuine content (tutorials, deep-dives, real announcements)
+🟡 Neutral/informational (factual updates, releases)
+🔴 Filter candidates (marketing speak, promotional, buzzword-heavy)
+
+Which was then used to make decisions on what to show on each 'view page' (nicely accessed by that top banner I added to the page)
+
+Here is what you can see in the images below:
+
+1️⃣ The original AWS Blog page with interception active: nothing changed yet, just confirming we're in the flow and inline (with the proxy)
+
+2️⃣ Groups mode: each article now shows a coloured dot indicating how Claude classified it. Here you can clearly see the distribution: some green, some yellow, some red (in fact I think even just this would be super useful :) )
+
+3️⃣ Redact mode: the red group content is now replaced with XXX but still visible. You can see exactly WHAT would be filtered and WHERE it is on the page
+
+4️⃣ Hide mode — the red group content is removed, BUT the space it occupied is still there. This is intentional and It provides a visual clue of "how much" is being filtered
+
+5️⃣ Clean mode — the final experience. Red group fully removed, page reflows naturally. Same AWS Blog, same design, just... focused and useful :)
+
+Pretty cool and powerful, right?

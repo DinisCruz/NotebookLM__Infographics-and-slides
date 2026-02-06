@@ -1,0 +1,5 @@
+weirdly after many attempts, NotebookLM in 6 Feb 2026 00:36, has failed multiple times (4x) to create the Slide Deck from both the pdf and .md file
+
+This was attempted on two different Google accounts
+
+The infographics create ok

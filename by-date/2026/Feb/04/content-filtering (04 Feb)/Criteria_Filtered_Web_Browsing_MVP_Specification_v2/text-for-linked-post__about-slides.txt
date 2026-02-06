@@ -1,0 +1,3 @@
+Here is a nice slide deck about the Web Content Filtering platform I have been working on for a while, using the AWS News site as an example (see this post for screenshots of that it actually looks like in practice https://lnkd.in/et-CzRg7 )
+
+Also, this deck makes a nice business case of why this solution is so powerful and useful :)
