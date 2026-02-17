@@ -1,0 +1,3 @@
+can you create a deck that focus on the interaction and workflows with human translators, and how this is a really good example of the power of agentic teams (like the one I'm creating) to create super-productive environments for (in this case) human translators, who will also have access to something they've never had before: a full (Agentic) team working for them and ready to help with tools, documentation, processes, and more.
+
+Basically this provides evidence on the topic of "GenAI will make all human jobs redundant" (which I don’t buy), this  is a good example of where it is actually creating new job opportunities and demand
