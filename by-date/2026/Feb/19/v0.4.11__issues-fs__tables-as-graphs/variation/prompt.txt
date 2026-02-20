@@ -1,0 +1,1 @@
+Can you focus on the key idea that "Everything is a graph" and really try to visuality the example of how a "Table is a graph too", only mention Issues-FS later on, as an example of a Fractal graph based Open Source solution that pragmatically implements these ideas that "Everything is a graph" (don't include those roadmap items and Agents/Roles tasks)
