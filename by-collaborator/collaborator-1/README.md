@@ -1,8 +1,8 @@
-[🏠 Home](../../README.md) / [By Collaborator](../) / **Rafael Knuth**
+[🏠 Home](../../README.md) / [By Collaborator](../) / **Collaborator-1*
 
 ---
 
-# Rafael Knuth
+# Collaborator #1
 
 ## Subfolders
 
