@@ -10,4 +10,4 @@ Content organized by contributor for collaboration tracking.
 
 | Folder | Type | Items | Description |
 |--------|------|-------|-------------|
-| [Rafael Knuth](./Rafael%20Knuth/) | Documentation | 14 | - |
+| [Collaborator #1](./collaborator-1/) | Documentation | 14 | - |
