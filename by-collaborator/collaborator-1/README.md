@@ -1,4 +1,4 @@
-[🏠 Home](../../README.md) / [By Collaborator](../) / **Collaborator-1*
+[🏠 Home](../../README.md) / [By Collaborator](../) / **Collaborator-1**
 
 ---
 
