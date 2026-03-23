@@ -1,0 +1,1 @@
+Can you focus on the use cases and the power of these encrypted by default and PKI native SG/Send Vaults? Namely around the secure and with provenance workflows they enable. This is like Git but with Integrated Trust
