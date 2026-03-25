@@ -1,0 +1,1 @@
+can you focus on the amazing capability that we talk in this presentation about running playbook/chromium and  the full SG/Send platform (i.e. FastAPI service) inside a Claude web session
